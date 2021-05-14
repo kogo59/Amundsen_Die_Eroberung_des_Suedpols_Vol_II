@@ -299,7 +299,7 @@ drei ohne zu große Schwierigkeit wieder heraufzuziehen und über die Spalte
 hinwegzukommen, und wir andern kamen ohne Unfall hinter ihm drein. Aber die
 weiteren Fortschritte erschienen mir allmählich zweifelhaft, denn nach wenigen
 Schritten brachen schon wieder drei Hunde ein. Wir waren in einem vollkommen
-ähn—lichen Gelände wie vorher. Viele verzweigte Spalten erstreckten sich nach
+ähnlichen Gelände wie vorher. Viele verzweigte Spalten erstreckten sich nach
 allen Richtungen. Doch nun hatte ich genug und wollte nicht mehr an dieser
 Todesfahrt teilnehmen. Ich erklärte daher aufs bestimmteste, daß wir wenden und,
 unseren Spuren folgend, außen herumfahren müßten.
@@ -509,7 +509,7 @@ glücklicherweise an, so daß ich ohne Schaden davonkam. Eigentlich war ich
 ärgerlich, aber ich war vernünftig genug, einzusehen, daß der schon vorher
 komische Auftritt doppelt lächerlich sein würde, wenn ich meinen Ärger zeigte,
 und so schwieg ich fein still. Und wem hätte ich eigentlich auch Schuld geben
-sollend Ich selbst war der einzige, der angeklagt werden konnte. Warum war ich
+sollen? Ich selbst war der einzige, der angeklagt werden konnte. Warum war ich
 nicht rasch genug gelaufen? Ich versuchte auf andere Weise meine Aufgabe zu
 erfüllen das ist ja keine Schande — und begab mich ganz nach hinten hin zum
 Nachtrab. Da machte ich meine Sache besser. „Alles klar! Los!“ Es ging
@@ -620,7 +620,7 @@ die Spalte hinüber, sprang mitten in die Hundeschar hinein und machte dem Kampf
 glücklich ein Ende, während Wisting gleichzeitig Hanssen ein Seil zuwarf und ihn
 aus seiner wenig behaglichen Lage befreite. Freilich mußte ich gleich im
 Weitergehen unwillkürlich denken: „Ob diese gefährliche Lage nicht für Hanssen
-gerade ein Genuß ward“ Über einem schwindelnden Abgrund ausgestreckt, mit der
+gerade ein Genuß war?“ Über einem schwindelnden Abgrund ausgestreckt, mit der
 Aussicht, in der nächsten Sekunde hinabzustürzen — das war etwas für ihn! Auch
 der Schlitten konnte noch gerettet werden. Dann vollendeten wir unsere 28 km und
 schlugen das Lager auf. Von 81° s. Br. an errichteten wir jeden neunten
@@ -680,7 +680,7 @@ sie über die Art, wie sie ihrer Pflicht nachgekommen waren, gelobt sein.
 
 Es war hier genau so wie bei dem Vorratslager auf 81° s. Br., fast kein
 Niederschlag war zu bemerken. Die Schneewehen um das Lager her hatten auch
-dieselbe Höhe wie bei dem andern, ungefähr m. Offenbar hatte hier dasselbe
+dieselbe Höhe wie bei dem andern, ungefähr ½ m. Offenbar hatte hier dasselbe
 Wetter geherrscht wie dort. Das Lager stand noch genau so da, wie wir es
 errichtet hatten, und auch der Schlitten, wie er von uns niedergelegt worden
 war; selbst ihn hatten Niederschlag und Nebel nicht zuzudecken vermocht.
@@ -810,7 +810,7 @@ interessante Entdeckung einer nach Osten streichenden Bergkette, die — soweit
 man es von unserer Stelle aus beurteilen konnte — da, wo sie sich mit dem
 Gebirge des Süd-Viktoria-Lands vereinigt, eine tiefe Bucht bildet. Diese Bucht
 lag rechtweisend nach Süden, und unser Weg führte gerade darauf zu. In dem
-Vorratslager auf 840 s. Br. legten wir außer dem gewöhnlichen Bedarf für 5 Mann
+Vorratslager auf 84° s. Br. legten wir außer dem gewöhnlichen Bedarf für 5 Mann
 und 12 Hunde auf 4 Tage auch einen 17 l haltenden Petroleumbehälter nieder.
 Zündhölzer hatten wir im Überfluß und konnten daher in allen Lagern reichlich
 zurücklassen.
@@ -912,7 +912,7 @@ Aufstieg so leicht wie möglich bewerkstelligen konnten und zweitens auch
 wirklich oben ankamen. Die Berechnung mußte sehr sorgfältig gemacht und alle
 Möglichkeiten mußten mit in Betracht gezogen werden. Wie jede wichtige
 Entschließung wurde auch diese Sache gemeinsam besprochen. Die Entfernung, die
-wir von hier aus bis zum Pol und wieder zurück vor uns hatten, betrug 1100 Km.
+wir von hier aus bis zum Pol und wieder zurück vor uns hatten, betrug 1100 km.
 Mit dem Aufstieg, den wir vor uns sahen, mit anderen unvorhergesehenen
 Hindernissen und schließlich mit der sicheren Tatsache vor Augen, daß unsere
 Hundekräfte nun auf einen Bruchteil der bisherigen verringert werden mußten,
@@ -934,7 +934,7 @@ gut, wir erreichten diesen Ort tatsächlich wieder mit 12.
 Nachdem die Sache also gründlich erörtert worden war, gingen wir ans Umpacken
 der Schlitten. Es war gut, daß das Wetter so schön war, sonst wäre diese
 Bestandsaufnahme eine harte Arbeit gewesen. Alle unsere Lebensmittel waren so
-ver—packt, daß wir sie nachzählen konnten, anstatt sie wiegen zu müssen. Unser
+verpackt, daß wir sie nachzählen konnten, anstatt sie wiegen zu müssen. Unser
 Pemmikan bestand aus lauter einzelnen Stücken von je einem halben Pfund. Die
 Schokolade war wie alle Schokolade in kleine Stücke eingeteilt, wir wußten also,
 was jedes Stück wog. Das Milchpulver war in Würsten von je 300 g verpackt, von
@@ -961,7 +961,7 @@ Stiefeln nahmen wir am meisten mit. Wenn man sich nur die Füße warm halten kan
 kann man es lange aushalten.
 
 Als nun alles dies besorgt war, schnallten wir unsere Schneeschuhe an und zogen
-auf das nächste sichtbare Land los. Es war ein kleiner 3 kme entfernter Gipfel,
+auf das nächste sichtbare Land los. Es war ein kleiner 3 km entfernter Gipfel,
 der Bettygipfel. Er sah nicht sehr hoch und gewaltig aus, ragte indes doch 300 m
 ü. d. M. auf. Aber wenn er auch nicht größer war, so wurde er für uns doch von
 großer Bedeutung, weil wir da alle unsere geologischen Proben mitnehmen konnten.
@@ -1016,7 +1016,7 @@ Eis, was uns ein Beweis dafür war, daß seinerzeit hier fließendes Wasser gewe
 war. Die Hunde taten, was sie konnten, um beim Abstieg Schritt mit uns zu
 halten, blieben aber schon nach kurzem weit zurück.
 
-Bei unserer Rückkehr überraschten wir unsere Uameraden mit den Geschenken vom
+Bei unserer Rückkehr überraschten wir unsere Kameraden mit den Geschenken vom
 Festlande. Ich glaube aber nicht, daß sie besonders geschätzt wurden, ja ich
 hörte einzelne Worte, wie: „Norwegen“ — „Gestein“ — „in Mengen“ — die ich mir
 selbst zusammenreimte und deren Sinn ich wohl begriff. Die Geschenke wurden
@@ -1198,7 +1198,7 @@ gähnenden Schlundes unterscheiden, der sich gerade in unserer Weglinie befand,
 und so hielten wir es fürs beste, zuerst auf Kundschaft auszugehen. Ganz
 richtig. Ein Seitengletscher, vielfach zerrissen und mit großen, unheimlichen
 Spalten, strich hier herunter. Aber er war doch nicht so schlimm, daß wir mit
-der nötigen Vor—sicht und guten Bremsen nicht schließlich den großen,
+der nötigen Vorsicht und guten Bremsen nicht schließlich den großen,
 prachtvollen Hauptgletscher — den Axel Heiberg-Gletscher — hätten erreichen
 können. Wir hatten beabsichtigt, bis zu der Stelle vorzudringen, wo sich der
 Gletscher mit steilen Hängen zwischen den mächtigen Gebirgen erhob. Aber wir
@@ -1348,7 +1348,7 @@ wahrnehmen, die zeigten, wie einstmals breite Spalten gegähnt hatten; nun aber
 waren sie ganz zugeschneit und hatten eine fast ebene Oberfläche. Jetzt konnten
 wir auch bis zum Ursprung dieses großen, gewaltigen Gletschers sehen und die
 Verhältnisse einigermaßen beurteilen. Der Gebirgstock des Wilhelm
-Christophersenund Ole Engelstad-Bergs bildeten den Hintergrund. Mit zwei
+Christophersen und Ole Engelstad-Bergs bildeten den Hintergrund. Mit zwei
 Bienenkörben ähnlichen Gipfeln ragten sie ganz mit Schnee bedeckt bis zum Himmel
 empor. Wir erkannten nun, daß wir den letzten Aufstieg noch vor uns hatten, und
 daß das, was wir da oben zwischen diesen Gipfeln sahen, die große Hochebene
@@ -1459,7 +1459,7 @@ Am folgenden Tag, dem 21. November, waren wir zur gewöhnlichen Zeit auf,
 ungefähr um 8 Uhr. Wundervolles Wetter, ruhig und klar! Der Aufstieg zum
 Hügelkamm war in der Tat ein harter Tagesanfang für unsere Hunde, sie machten
 ihre Sache aber diesmal wirklich ausgezeichnet; jedes Gespann zog seinen
-Schlitten hinauf. Die Bahn war ebenso schwierig wie am vor—hergehenden Tag, und
+Schlitten hinauf. Die Bahn war ebenso schwierig wie am vorhergehenden Tag, und
 bei dem losen Schnee ging es nicht rasch vorwärts. Wir folgten nicht unseren
 alten Spuren, sondern richteten den Kurs geradeswegs auf die Stelle, wo wir den
 Aufstieg in Angriff nehmen wollten.
@@ -1565,7 +1565,7 @@ Schüsse nicht hören würde, die draußen bald knallen mußten. 24 unserer
 tüchtigsten Kameraden und treuen Gehilfen mußten den Tod erleiden. Das war hart,
 aber es mußte sein. Darin stimmten wir alle überein, daß nichts gescheut werden
 durfte, was zur Erreichung unseres Ziels beitragen konnte. So war ausgemacht
-worden, daß jeder diejenigen von seinen Hunden, die zum Code verurteilt worden
+worden, daß jeder diejenigen von seinen Hunden, die zum Tode verurteilt worden
 waren, selbst erschießen sollte.
 
 Der Pemmikan kochte merkwürdig rasch an diesem Abend; ich glaube, ich habe ihn
@@ -1702,7 +1702,7 @@ wir verhältnismäßig annehmbares Wetter hatten. Wir fingen daher morgens um 7 
 an, die Schlitten umzupacken. Das war keine sehr angenehme Arbeit; wenn auch das
 Wetter, wie gesagt, verhältnismäßig annehmbar war, so war es doch für dieses
 Umpacken unserer Lebensmittel nicht gerade geeignet. Die Schokolade, die nun im
-wesentlichen nur noch aus kleinen Stücken bestaänd, mußte herausgenommen, die
+wesentlichen nur noch aus kleinen Stücken bestand, mußte herausgenommen, die
 Stücke nachgezählt und auf die drei Schlitten verteilt werden. Das gleiche war
 mit dem Zwieback der Fall. Jedes einzelne Stück mußte nachgezählt werden, und
 wenn es sich um einige Tausend so kleiner Stücke handelt, so kann sich jeder
@@ -2170,7 +2170,7 @@ Gebirgsmassen. Das war eine Märchenlandschaft in Weiß und Blau, Rot und Schwar
 ein Farbenspiel, dem keine Beschreibung gerecht werden kann. Aber so klar es nun
 auch zu sein schien, wir waren uns wohl bewußt, daß der Schein trog, denn das
 südöstlichste Ende der Th. Nilsen-Berge verlor sich in einer finsteren
-undurchdringlichen Luft, die eine Fort—setzung des Gebirges in dieser Richtung
+undurchdringlichen Luft, die eine Fortsetzung des Gebirges in dieser Richtung
 ahnen ließ, ohne daß man dessen sicher sein konnte.
 
 Etwas Schöneres als das Nilsengebirge habe ich kaum jemals gesehen. Gipfel der
@@ -2408,9 +2408,8 @@ ausgezeichnet für seinen Zweck eignete. Er hob die Axt und ließ sie tüchtig
 darauf niedersausen. Aber was war das? Die Axt glitt ohne jeglichen Widerstand
 bis an den Stil hinein! Die Kuppe war hohl; als die Axt zurückgezogen wurde,
 lösten sich die um sie herumsitzenden Teile, und die Eisstücke fielen polternd
-in ein dunkles Loch hinab. Zwei
-
-Fuß vor unserer Türe hatten wir also den bequemsten Zugang zur Unterwelt.
+in ein dunkles Loch hinab. Zwei Fuß vor unserer Türe hatten wir also den
+bequemsten Zugang zur Unterwelt.
 
 Hassel schien diese Lage Spaß zu machen. „Schwarz wie in einem Sack,“ sagte er
 lächelnd, „man kann nicht bis auf den Grund sehen.“
@@ -2476,7 +2475,7 @@ drei Schlafsäcke ein, und die Besitzer dieser Säcke haben es am praktischsten
 und bequemsten gefunden, sich hineinzustecken, und sind nun eben mit ihren
 Tagebüchern beschäftigt.
 
-Die äußere Hälfte, die der Cüre am nächsten ist, wird nur von zwei Schlafsäcken
+Die äußere Hälfte, die der Türe am nächsten ist, wird nur von zwei Schlafsäcken
 eingenommen, aber dafür ist zwischen diesen die ganze Küchenausrüstung
 aufgestellt. Die Besitzer dieser Säcke — Wisting und Hanssen — sind noch auf.
 Hanssen ist Koch, und er kriecht nicht in seinen Sack hinein, ehe das Essen
@@ -2827,7 +2826,7 @@ Da wurde ich plötzlich durch einen Jubelschrei, dem donnernde Hurrarufe folgten
 aus meinen Träumereien gerissen. Ich wendete mich rasch den andern zu, um den
 Grund dieser ungewöhnlichen Außerungen zu entdecken, und blieb wie angewurzelt
 sprachlos und überwältigt stehen. Es ist mir unmöglich, die Gefühle zu
-beschreiben, die mich ergriffen, als ich sah, was vor—gegangen war. Alle
+beschreiben, die mich ergriffen, als ich sah, was vorgegangen war. Alle
 Schlitten standen still, und an dem vordersten wehte die norwegische Flagge. Sie
 entfaltete sich, flatterte und wehte, daß der Seidenstoff knisterte, und nahm
 sich in der reinen klaren Luft und der glänzend weißen Umgebung wundervoll aus.
@@ -2859,8 +2858,1587 @@ uns je vergessen wird.
 ![Hanssen hißt die Flagge auf Shackletons südlichster Breite.](Die_Eroberung_des_Suedpols_Vol_II_607.jpg "Hanssen hißt die Flagge auf Shackletons südlichster Breite."){#b607}
 ::::
 
+Danach rückten wir noch 3 bis 4 km weiter vor — bis 88° 25´ s. Br. und schlugen
+dann das Lager auf. Das Wetter hatte sich die ganze Zeit über immer noch
+gebessert; jetzt war es ganz still, glänzend hell und den Umständen angemessen
+sommerlich warm, — 18° C.
 
-S. 136
+In unserem Zelt war es sogar ganz schwül, und das war mehr, als wir erwartet
+hatten. Nach vielen Überlegungen und Erörterungen waren wir zu dem Ergebnis
+gekommen, daß wir hier noch ein Vorratslager — das letzte — errichten müßten.
+Die Vorteile, die wir durch die nochmalige Erleichterung der Schlitten
+erzielten, waren so groß, daß wir es wagen mußten. Ein großes Wagnis war es
+übrigens auch nicht, da wir solche Merkzeichen aufzurichten gedachten, nach
+denen auch ein Blinder den Weg hätte zurückfinden können. Wir hatten nämlich
+beschlossen, dieses Vorratslager nicht allein in ostwestlicher Richtung von
+unserem Kurs, sondern auch südwärts nach je 2 Seemeilen (3,7 km) durch
+Schneewarten kenntlich zu machen.
+
+Der folgende Tag wurde deshalb auf die Errichtung dieses Vorratslagers
+verwendet. Hanssens Hunde waren alle ohne Ausnahme wahre Wundertiere; nichts
+schien sie anzugreifen. Etwas magerer waren sie natürlich geworden, aber
+trotzdem waren sie noch bei vollen Kräften. Wistings und Bjaalands Hunde dagegen
+waren ziemlich mitgenommen, besonders die Bjaalands; deshalb wurde beschlossen,
+Hanssens Schlitten nicht leichter zu machen, sondern nur die beiden andern. Es
+war keine unbedeutende Gewichtsabnahme, die da erreicht wurde — fast um 50kg
+wurde jeder der beiden Schlitten entlastet. In dem Vorratslager wurden gegen 100
+kg niedergelegt,- hauptsächlich Pemmikan und Zwieback. Der Schnee eignete sich
+zuerst recht schlecht zum Bauen, aber wir brachten schließlich doch ein ganz
+ansehnliches Bauwerk zustande. Auf den Schlitten führten wir dann noch
+Nahrungsmittel für ungefähr einen Monat mit uns. Sollten wir also gegen alle
+Vermutung das Mißgeschick haben, dieses Vorratslager nicht wieder aufzufinden,
+so konnten wir doch mit einiger Sicherheit darauf rechnen, daß wir bei der
+Niederlage auf 85° 21´ eintreffen würden, ehe unser mitgeführter Vorrat zu Ende
+wäre. Zur Bezeichnung des Lagers in ostwestlicher Richtung dienten 60 aus den
+schwarz angestrichenen Kistenbrettern gewonnene Latten, die auf je 100 Schritt
+Entfernung in den Schnee gesteckt wurden, und von denen jede zweite einen
+schwarzen Stofflappen an der Spitze trug. Die nach Osten ausgesteckten
+Holzstücke waren mit einem Zeichen versehen, so daß wir an ihnen sofort die
+Ostseite des Lagers erkennen konnten, während die gegen Westen kein Zeichen
+trugen.
+
+:::: { .wrap-100 .break-before }
+![Lagerplatz und Niederlage auf 88° 25´ s. Br.](Die_Eroberung_des_Suedpols_Vol_II_609.jpg "Lagerplatz und Niederlage auf 88° 25´ s. Br."){#b609}
+::::
+
+Die Wärme der letzten Tage hatte unsere Frostbeulen sehr verschlimmert. Und wie
+sahen wir aus! Ja, Wisting, Hanssen und mir hatte der letzte Südoststurm tüchtig
+zugesetzt. Die linke Seite unseres Gesichts war eine einzige blutunterlaufene,
+eiterige Wunde. Wir sahen wirklich wie die schlimmsten Wegelagerer und Raufbolde
+aus und wären wahrscheinlich selbst von unseren nächsten Angehörigen nicht
+erkannt worden. Diese Wunden waren uns auf der weiteren Fahrt eine große Plage.
+Der geringste Luftzug rief das Gefühl hervor, als fahre man uns mit einem
+stumpfen Messer im Gesicht herum. Ich erinnere mich, daß der letzte Schorf von
+Hanssens Gesicht erst abfiel, als wir uns schon Hobart näherten, also drei
+Monate später.
+
+Während der Errichtung dieses Vorratslagers waren wir sehr vom Wetter
+begünstigt; die Sonne schien freundlich, und wir hatten ausgezeichnete
+Gelegenheit zu einigen guten Azimutbeobachtungen, den letzten brauchbaren der
+ganzen Reise.
+
+Der 10. Dezember brach mit demselben schönen Wetter, mit Sonnenschein an.
+Allerdings hatten wir bei — 28° C und einer kleinen Brise, die uns gerade
+entgegenkam, Schmerzen in unseren aufgegangenen Frostbeulen, aber es war noch
+zum Aushalten. Wir fingen gleich mit dem Bau der Warten an, einer Arbeit, die
+bis zum Pol aufs pünktlichste fortgesetzt wurde. Doch waren die jetzigen Warten
+nicht so hoch, wie die drunten auf der Eisplatte errichteten; hier genügte
+sicherlich ein Meter Höhe, denn auf dieser vollständig flachen Ebene war die
+kleinste Unebenheit sehr leicht zu erkennen. Bei dieser Arbeit konnten wir
+zugleich auch die Beschaffenheit des Schnees gründlich untersuchen. Oft, sehr
+oft sogar, war es nämlich auf diesem Teil der Hochebene, also südlich von 88°
+25´, schwierig, Schnee zu finden, der gut genug, oder besser gesagt, hart genug
+war, um Schneeblöcke herausschneiden zu können. Der Schnee da oben schien bei
+ganz stillem Wetter gefallen zu sein, wir konnten die zwei Meter lange
+Zeltstange ganz hineinstecken, ohne auf Widerstand zu stoßen, was so viel
+bedeutet, als daß sich keine harten Schneelagen dazwischen befanden. Auch die
+Oberfläche war vollkommen flach, ohne jegliches Zeichen von Schneewehenbildung
+nach irgendeiner Richtung hin.
+
+Nun rückten wir mit jedem Schritt, den wir in südlicher Richtung machten, dem
+Ziele näher. Wir konnten mit ziemlicher Sicherheit feststellen, daß wir am
+Morgen oder Nachmittag des 15. Dezember dort sein würden. Das war allen so
+natürlich, daß sich unsere Gespräche meistens um diesen Zeitpunkt drehten.
+Keiner von uns wollte zugeben, daß wir nervös seien, aber ich glaube doch, daß
+jeder in seinem Innern ein ganz klein wenig aufgeregt war. Was würden wir am Pol
+zu sehen bekommen?
+
+:::: { .wrap-100 .break-before }
+![](Die_Eroberung_des_Suedpols_Vol_II_611.jpg "Karte der nächsten Umgebung des Südpols."){#b611}
+::::
+
+Eine endlose, große Ebene, die kein menschliches Auge je geschaut, kein
+menschlicher Fuß je betreten hatte? Oder — oder? — Nein, nein, das war eine
+Unmöglichkeit! Bei der Eile, mit der wir vorgerückt waren, mußten wir das Ziel
+zuerst erreichen, darüber konnte kein Zweifel herrschen. Und doch — und doch! Wo
+sich nur die allerkleinste Öffnung zeigt, da schleicht sich der Zweifel ein und
+nagt, und nagt und läßt so einem armen Menschen keine Ruhe mehr.
+
+„Was in aller Welt wittert denn Uroa?“ sagte Bjaaland plötzlich an einem dieser
+letzten Tage, als ich neben seinem Schlitten herging und mich dabei mit ihm
+unterhielt. „Und wie merkwürdig, er wittert nach Süden. Es ist doch nicht
+möglich —?“
+
+Aber auch Mylius, Ring, Oberst und Suggen interessierten sich offenbar für das,
+was im Süden vorging. Es war ganz merkwürdig, wie sie mit plötzlich erwachter
+Aufmerksamkeit die Köpfe hoben, die Schnauzen in gerader südlicher Richtung
+vorschoben und witterten. Man hätte wirklich meinen können, es sei dort etwas
+Auffallendes. Aber sie schienen sich doch getäuscht zu haben, wir konnten nichts
+wahrnehmen.
+
+Von 88° 25´ s. Br. an zeigten das Barometer und das Hypsometer langsam aber
+sicher, daß sich die Hochebene nach der andern Seite wieder senkte. Das war eine
+angenehme Überraschung für uns. Wir hatten demnach nicht allein den Scheitel der
+Hochebene gefunden, sondern auch den jenseits abfallenden Teil. Dies würde von
+großer Bedeutung für das Verständnis des Aufbaus der ganzen Hochebene sein.
+
+Die Beobachtungen und das Besteck vom 10. Dezember stimmten bis auf 2 km
+überein. Am 11. ebenfalls mit demselben Ergebnis — die Beobachtung blieb 2 km
+hinter dem Besteck zurück. Das Wetter und die Bodenbeschaffenheit hielten sich
+ungefähr ganz gleich wie an den vorhergehenden Tagen, mit leichter südöstlicher
+Brise bei — 28° C. Die Schneeschicht war lose, aber Schneeschuhe und Schlitten
+glitten prächtig darüber hin.
+
+Am 12. dieselben Witterungsverhältnisse, Temperatur — 25° C. Beobachtung und
+Besteck stimmten wieder genau überein. Unsere Breite 89° 15´.
+
+Am 13. erreichten wir 89° 30´ s. Br. Das Besteck blieb einen Kilometer hinter
+der Beobachtung zurück. Die Bahn und das Gelände von derselben Güte. Das Wetter
+ausgezeichnet — still mit Sonnenschein.
+
+Die Mittagsbeobachtung am 14. ergab 89° 37´ s. Br., das Besteck 89° 38´ 5" s.
+Br. An diesem Tag machten wir am Nachmittag auf 89° 45´ s. Br. Halt, nachdem wir
+14,8 km, d. h. 8 Breitenminuten zurückgelegt hatten. Am Vormittag war das Wetter
+noch ebenso schön gewesen, aber am Nachmittag hatten uns ein paar Schneeschauer
+aus Südost überfallen.
+
+An diesem Abend herrschte im Zelt eine Stimmung wie am Vorabend eines Festes.
+Etwas Großes stand vor der Tür, das fühlte man wohl. Wieder wurde unsere Flagge
+herausgeholt und wie das letztemal an die beiden Schneeschuhläufe gebunden.
+Darauf wurde sie zusammengerollt und zum Gebrauch fertig wieder weggelegt. Ich
+wachte in dieser Nacht mehrere Male auf und hatte dasselbe Gefühl, wie ich es
+als kleiner Junge am heiligen Abend vor dem eigentlichen Weihnachtsfest gehabt
+habe eine erwartungsvolle Spannung, was wohl geschehen würde.
+
+Am Morgen des 18. Dezember begrüßte uns ein herrliches Wetter, ein Wetter wie
+geschaffen zur Ankunft am Pol. Ich bin nicht ganz sicher, aber ich glaube, wir
+nahmen unser Frühstück an dem Tag etwas hurtiger ein als an den vorhergehenden
+und kamen auch etwas hurtiger aus dem Zelt heraus, obgleich ich behaupten darf,
+daß dies alles auch sonst mit aller wünschenswerten Geschwindigkeit vor sich
+ging. Wir ordneten uns nun wie gewöhnlich: der Vorläufer, Hanssen, Wisting,
+Bjaaland und der andere Vorläufer. Um die Mittagszeit hatten wir nach dem
+Besteck 89° 53´ s. Br. erreicht und machten uns dann bereit, den Rest in
+ununterbrochener Fahrt vollends zurückzulegen.
+
+Um 10 Uhr vormittags hatte sich eine leichte Brise aus Südosten erhoben, und der
+Himmel überzog sich mit Wolken, so daß wir die Mittagshöhe nicht nehmen konnten.
+Aber die Wolkendecke war nicht sehr dicht, dann und wann konnte man die Sonne
+doch dahinter hervorschimmern sehen. Die Bodenbeschaffenheit war an diesem Tag
+etwas verändert, ab und zu glitten die Schneeschuhe recht gut, aber zu anderen
+Zeiten war die Bahn auch sehr schlecht. Auch an diesem Tag ging es in derselben
+mechanischen Weise vorwärts wie am vorhergehenden. Es wurde nicht viel
+gesprochen, aber die Augen wurden um so eifriger benutzt. Hanssens Hals war
+doppelt so lang als an den andern Tagen, so sehr drehte und reckte er ihn, um
+womöglich einige Millimeter weiter voraus sehen zu können. Ich hatte ihn vor dem
+Abmarsch gebeten, sich ordentlich umzuschauen, und diesen Auftrag führte er nach
+Kräften aus. Aber wie sehr er auch guckte und guckte, er sah doch nichts als die
+unendliche, gleichmäßige Ebene ringsumher. Die Hunde hatten sich nach der
+Witterung zufrieden gegeben, und die Gegenden um die Erdachse schienen sie
+durchaus nicht mehr zu interessieren.
+
+Um 3 Uhr nachmittags ertönte ein gleichzeitiges „Halt“! von allen
+Schlittenlenkern. Sie hatten ihre Meßräder fleißig untersucht und nun standen
+alle auf der ausgerechneten Entfernung — auf unserm Pol nach dem Besteck.
+
+Das Ziel war erreicht und die Reise zu Ende!
+
+Ich kann nicht sagen — obgleich ich weiß, daß es eine viel großartigere Wirkung
+hätte — daß ich da vor dem Ziel meines Lebens stand. Dies wäre doch etwas zu
+sehr übertrieben. Ich will lieber aufrichtig sein und gerade heraus erklären,
+daß wohl noch nie ein Mensch in so völligem Gegensatz zu dem Ziel seines Lebens
+stand wie ich bei dieser Gelegenheit. Die Gegend um den Nordpol — ach, ja zum
+Kuckuck — der Nordpol selbst hatte es mir von Kindesbeinen an angetan und nun
+befand ich mich am Südpol! Kann man sich etwas Entgegengesetzteres denken?
+
+:::: { .wrap-70 .break-before }
+![Am Südpol.](Die_Eroberung_des_Suedpols_Vol_II_615.jpg "Am Südpol."){#b615}
+::::
+
+So waren wir also unserer Berechnung nach jetzt am Pol. Selbstverständlich wußte
+jeder von uns wohl, daß wir nicht gerade auf dem Polpunkt standen — das wäre bei
+der Zeit und den Instrumenten, die wir zur Verfügung hatten, unmöglich
+festzustellen gewesen. Aber wir waren ihm so nahe, daß die paar Kilometer, die
+uns möglicherweise noch davon trennten, keine Bedeutung haben konnten. Unsere
+Absicht war, diesen Lagerplatz mit einem Halbmesser von 18,5 km einzukreisen,
+und wenn dies geschehen wäre, von der vollendeten Arbeit höchst befriedigt zu
+sein.
+
+Nachdem wir haltgemacht hatten, traten wir zusammen und beglückwünschten uns
+gegenseitig. Wir hatten allen Grund, uns für das, was geleistet worden war,
+gegenseitig zu achten, und ich glaube gerade dieses Gefühl drückte sich in den
+kräftigen und festen Händedrücken, die gewechselt wurden, aus.
+
+Nach dieser ersten Handlung schritten wir zur zweiten, der größten und
+feierlichsten der ganzen Fahrt — dem Aufpflanzen unserer Flagge.
+
+Liebe und Stolz leuchtete aus den fünf Augenpaaren, die die Flagge betrachteten,
+als sie sich bei der frischen Brise entfaltete und über dem Pol flatterte. Ich
+hatte bestimmt, daß das Aufpflanzen selbst — das historische Ereignis —
+gleichmäßig von uns allen vorgenommen werden sollte. Nicht einem allein, nein
+allen denen kam es zu, die ihr Leben in den Kampf mit eingesetzt und durch dick
+und dünn zusammengestanden hatten. Dies war die einzige Weise, auf die ich hier
+an dieser einsamen verlassenen Stelle meinen Kameraden meine Dankbarkeit
+beweisen konnte. Ich fühlte auch, sie faßten es in dem Geist auf, in dem es
+ihnen geboten wurde. Fünf rauhe, vom Frost mitgenommene Fäuste griffen nach der
+Stange, hoben die wehende Fahne auf und pflanzten sie auf — als die einzige und
+erste auf dem geographischen Südpol.
+
+„So pflanzen wir dich, du liebe Flagge, am Südpol auf und geben der Ebene, auf
+der er liegt, den Namen „König Haakon VII-Land“!
+
+An diesen kurzen Augenblick werden wir uns sicherlich alle, die damals dort
+gestanden haben, unser Leben lang erinnern. Lange dauernde förmliche Zeremonien
+gewöhnt man sich in diesen Gegenden ab — je kürzer, desto besser!
+
+Darauf trat das Werktägliche sofort wieder in sein Recht. Nachdem das Zelt
+aufgeschlagen war, machte sich Hanssen daran, „Helge“ zu schlachten; die
+Trennung von diesem seinem besten Freund war ein schwerer Augenblick für ihn.
+Helge war ein außergewöhnlich fleißiger und guter Hund gewesen. Ohne sich je zu
+sträuben, hatte er von morgens bis abends gezogen und war stets ein leuchtendes
+Beispiel für seinen ganzen Zug gewesen. Aber in der letzten Woche war er ganz
+zusammengefallen, und bei der Ankunft am Pol war er kaum mehr der Schatten des
+alten Helge. Er hing nur noch in seinem Geschirr und konnte durchaus nichts mehr
+leisten. Ein Schlag auf den Schädel, und Helge hatte aufgehört zu leben. Das
+Sprichwort: „Des einen Tod, des andern Brot“ kann selten richtiger angewendet
+werden, als hier bei diesen Hundemahlzeiten. Helge wurde auf der Stelle zerlegt,
+und ein paar Stunden später waren nur noch die Zähne und die Schwanzspitze von
+ihm übrig.
+
+Dies war der zweite von den 18 Hunden, den wir verloren. „Major“, einer von
+Wistings Hunden, verließ uns auf 88° 28´ s. Br. und kehrte nie wieder. Er war
+sehr entkräftet und ging wohl fort, um zu sterben. Jetzt hatten wir noch 16
+Hunde, die nun in zwei Züge verteilt werden sollten — in Hanssens und Wistings —
+denn es war beschlossen worden, Bjaalands Schlitten hier zurückzulassen.
+
+Selbstverständlich wurde am Abend im Zelt gefeiert — zwar nicht in der Weise,
+daß die Champagnerpfropfen knallten und der Wein in Strömen floß, nein, jeder
+von uns begnügte sich mit einem Stück Seehundsfleisch, das freilich sehr gut
+schmeckte und uns auch gut tat. Ein anderes Zeichen, daß hier ein Fest gefeiert
+wurde, gab es nicht. Aber draußen hörten wir die Flagge wehen und flattern, auch
+war die Unterhaltung an diesem Abend im Zelt recht lebhaft, sie drehte sich um
+gar vielerlei, und ohne Zweifel wurde den Lieben daheim in Gedanken alles
+mitgeteilt, was geschehen war.
+
+Alles, was wir bei uns hatten, sollte zur Erinnerung mit „Südpol“ sowie mit dem
+Datum und der Jahreszahl gezeichnet und graviert werden. Wisting entpuppte sich
+als ausgezeichneter Graveur. Der Sachen, die ihm zum Gravieren gebracht wurden,
+waren es gar viele. Tabak in Form von „Rauch“ hatte sich bisher noch nie im Zelt
+bemerklich gemacht, nur ein kleines Priemchen hatte ich einzelne ab und zu
+einmal kauen sehen. Nun änderten sich hierin die Verhältnisse. Ich hatte nämlich
+eine alte kurze Pfeife mitgenommen, die von vielen Orten der arktischen Gegenden
+Inschriften trug, und diese wollte ich nun gern mit „Südpol“ gezeichnet haben.
+
+Als ich mit der Pfeife in der Hand zu Wisting trat, um sie zeichnen zu lassen,
+wurde mir ein ganz unerwartetes Anerbieten zuteil. Wisting bot mir nämlich für
+den übrigen Teil der Reise Rauchtabak an. Er sagte, er habe in seinem Sack ein
+paar Rollen Tabak und es sei sein höchster Wunsch, mich diesen rauchen zu sehen.
+Kann wohl jemand verstehen, was ein solches Anerbieten an einem solchen Ort
+bedeutet, wenn es einem Manne gemacht wird, dem ein kleiner „Rauch“ nach dem
+Essen ein wahrer Hochgenuß ist? Nein, das werden nicht viele vollständig
+verstehen können. Ich nahm das Anerbieten mit Freuden an und schmauchte nun auf
+dem ganzen Rückweg jeden Abend eine Pfeife reinen, frischen, feingeschnittenen
+Tabak. Ja, dieser Wisting verwöhnte mich geradezu! Er schenkte mir nicht allein
+den Tabak, sondern übernahm auch jeden Abend — ich erlag sogar der Versuchung
+und rauchte auch eine Morgenpfeife — die unangenehme Arbeit, meine Pfeife
+auszukratzen und zu stopfen, das Wetter mochte sein, wie es wollte.
+
+:::: { .wrap-100 .break-before }
+![Helmer Hanssen mißt die Sonnenhöhe.](Die_Eroberung_des_Suedpols_Vol_II_619.jpg "Helmer Hanssen mißt die Sonnenhöhe."){#b619}
+::::
+
+Doch wir ließen die Unterhaltung nicht die Oberhand gewinnen. Da wir keine
+Mittagshöhe hatten nehmen können, mußten wir nun sehen, eine um Mitternacht zu
+erlangen. Das Wetter hatte sich wieder aufgeklärt, und es sah aus, als könnte
+Mitternacht günstig für die Beobachtungen sein. Wir krochen also in die
+Schlafsäcke, um in den zur Verfügung stehenden Stunden noch etwas zu schlafen.
+Zu guter Zeit — kurz nach 11 Uhr — waren wir wieder auf den Beinen und ganz
+bereit, die Sonne zu erhaschen. Das Wetter war von der besten Art und die
+Gelegenheit äußerst günstig. Wir vier Seefahrer waren eifrig bei der Sache und
+bewachten die Sonne in ihren Bewegungen. Es war eine Geduldsprobe, da die
+Höhenbewegung der Sonne jetzt sehr gering war. Das Ergebnis mit dem wir die
+Beobachtung abschlossen, war äußerst wichtig, indem daraus deutlich hervorgeht,
+wie unzuverlässig und wertlos eine solche einzelne Beobachtung in diesen
+Gegenden ist.
+
+Um 1 Uhr legten wir unsere Instrumente zusammen, befriedigt von unserer Arbeit
+und ganz überzeugt, daß wir die Mitternachtshöhe beobachtet hatten. Die
+Berechnungen, die wir unmittelbar danach vornahmen, ergaben 89° 56´ s. Br., ein
+Ergebnis, über das wir alle sehr vergnügt waren.
+
+Unsere Absicht war, nun den Zeltplatz mit einem Halbmesser von ungefähr 20 km
+einzukreisen; unter Einkreisung verstehe ich natürlich nicht, daß wir diesen
+Umkreis mit einem Zirkel austreten sollten, denn diese Arbeit hätte uns ja Tage
+gekostet, und schon deshalb konnte keine Rede davon sein. Die Umkreisung wurde
+folgendermaßen vorgenommen: Drei Mann zogen in drei verschiedenen Richtungen
+aus, zwei quer über den Kurs, den wir eingehalten hatten und einer in der
+Fortsetzung dieses Kurses. Zur Ausführung dieser Arbeit hatte ich Wisting,
+Hassel und Bjaaland ausersehen. Nachdem wir unsere Beobachtungen beendigt
+hatten, stellten wir den Kessel aufs Feuer, um einen Schluck Schokolade zu
+bekommen. Das Vergnügen da draußen in ganz leichter Kleidung hatte uns nicht
+gerade Wärme in den Leib verschafft. Während wir nun eben den brühheißen Trank
+schlürften, sagte Bjaaland plötzlich:
+
+„Ich hätte gute Lust, hinauszugehen und mit dieser Einkreisung sofort zu
+beginnen. Wir können ja ausschlafen, wenn wir zurückkommen“.
+
+Hassel und Wisting waren ganz derselben Ansicht, und sie beschlossen, die Arbeit
+sofort in Angriff zu nehmen. Hier haben wir wieder eines von den vielen
+Beispielen von dem guten Geist, der in unserer kleinen Gemeinschaft herrschte.
+Da waren wir eben erst von unserem großen Tagewerk hereingekommen einem Marsch
+von ungefähr 30 km — als sie auch schon baten, eine neue Aufgabe, einen Weg von
+ungefähr 40 km anfangen zu dürfen. Man hatte tatsächlich den Eindruck, daß diese
+Leute nie müde werden könnten.
+
+Wir machten also aus dieser Mahlzeit ein kleines Frühstück, das heißt, jeder aß
+von seiner Brotmenge, so viel er Lust hatte, und dann machte man sich zu der
+bevorstehenden Arbeit fertig. Zuerst wurden drei kleine Beutel aus dünner
+Schilfleinwand genäht, und in jedem von diesen wurde ein Bericht über die Lage
+dieses unseres Zeltplatzes niedergelegt. Außerdem hatte jeder von den dreien
+eine große viereckige Flagge aus dunkelbrauner imprägnierter Leinwand bei sich,
+die also schon aus der Ferne gut wahrgenommen werden konnte. Als Flaggenstange
+benutzten wir die Schlittensohlen, die 3,60 m lang und sehr fest waren, und die
+wir ja doch von den Schlitten abnehmen wollten, um diese für den Rückweg so
+leicht wie möglich zu machen. Mit diesen Sachen sowie mit einem eigens gewährten
+Mundvorrat von 30 Stück Zwieback machten sich die drei, jeder in der ihm
+bestimmten Richtung, auf den Weg. Dieser Marsch war nicht ganz ungefährlich und
+dient denen, die nicht allein ohne eine einzige Einwendung zu erheben, sondern
+sogar mit grimmem Behagen die Sache auf sich nahmen, zu großer Ehre.
+
+Wir wollen das Wagnis dieses Wegs einen Augenblick in Erwägung ziehen. Unser
+Zelt, das da ohne ein Merkmal irgendwelcher Art auf der unendlichen Ebene stand,
+kann gar leicht mit „der Nadel in einem Haufen Heu“ verglichen werden. Von
+diesem Punkt sollten sich also diese drei 20 Km weit entfernen. Einen Kompaß bei
+sich zu haben, wäre auf so einer Wanderung etwas recht Gutes gewesen, aber
+unsere Schlittenkompasse waren zu groß und umständlich zum Tragen, und so mußten
+sie ohne solche ausziehen. Sie konnten sich allerdings, als sie ihre Wanderung
+begannen, nach der Sonne richten, aber wer konnte wissen, wie lange diese
+scheinen würde? Das Wetter war jetzt freilich schön, aber niemand konnte dafür
+einstehen, daß nicht eine plötzliche Veränderung eintreten würde. Wenn sich die
+Sonne verbarg, dann konnten ihnen freilich ihre eigenen Fußstapfen immerhin noch
+eine gute Hilfe sein. Aber sich in dieser Gegend auf Fußstapfen verlassen, ist
+gefährlich. Eins, zwei, drei, und die ganze Ebene ist von wirbelndem Schnee
+erfüllt, und alles, was Spur heißt, ist ebenso schnell ausgewischt, als es
+eingedrückt worden ist. Bei den raschen Wechseln, die wir nun so oft erlebt
+hatten, war so etwas leicht möglich. Daß die drei an jenem Morgen, als sie um 3
+Uhr das Zelt verließen, ihr Leben einsetzten, darüber kann kein Zweifel
+herrschen. Und alle drei wußten das auch sehr genau. Wenn aber jemand dächte,
+der Abschied von uns zwei Zurückbleibenden sei deshalb feierlich gewesen, so
+täuscht er sich vollständig. O nein, unter Lachen und Scherzen verschwanden sie.
+
+Nachdem sie gegangen waren, brachten wir beide — Hanssen und ich — zuerst eine
+Menge Kleinigkeiten in Ordnung, die noch geschehen mußten; hier war etwas und
+dort war etwas, was der ordnenden Hand bedurfte, und schließlich mußten wir noch
+alles für die Reihe von Beobachtungen herrichten, die wir miteinander vornehmen
+wollten, um eine so gute und sorgfältige Ortsbestimmung wie nur möglich zu
+bekommen.
+
+Die erste Beobachtung bewies gleich, wie notwendig das war. Es zeigte sich
+nämlich, daß wir — anstatt eine größere Höhe als die Mitternachtsbeobachtung zu
+erhalten — eine kleinere verzeichneten, und damit wurde uns vollkommen klar, daß
+wir von dem Meridian abgekommen waren, dem wir zu folgen geglaubt hatten. Jetzt
+handelte es sich in allererster Linie darum, unsere nordsüdliche Linie und die
+Breite zu bestimmen, damit wir uns wieder zurechtfinden könnten. Zum Glück für
+uns hatte es den Anschein, als wollte das Wetter sich halten. In jeder Stunde
+maßen wir die Höhe der Sonne, und durch diese Beobachtungen stellten wir mit
+annähernder Sicherheit unsere Breite und die Richtung des Meridians fest.
+
+Gegen 9 Uhr vormittags fingen wir an, nach unseren Kameraden auszuschauen.
+Unserer Berechnung nach mußten sie jetzt die 40 km Entfernung zurückgelegt
+haben. Aber erst um 10 Uhr entdeckte Hanssen den ersten schwarzen Punkt draußen
+am Horizont, und nicht lange danach erschien ein zweiter und auch ein dritter,
+und so oft einer auftauchte, atmeten wir beide erleichtert auf.
+
+:::: { .wrap-100 .break-before }
+![Sverre Hassel macht am Pol Sonnenbeobachtungen.](Die_Eroberung_des_Suedpols_Vol_II_623.jpg "Sverre Hassel macht am Pol Sonnenbeobachtungen."){#b623}
+::::
+
+Beinahe gleichzeitig trafen alle drei am Zelt ein. Wir teilten ihnen nun das
+vorläufige Ergebnis unserer Beobachtungen mit; es sah aus, als sei unser Lager
+ungefähr auf 89 54´ 30“ s. Br., so daß wir also mit unserer Einkreisung den
+Polpunkt jedenfalls in unserem Kreis hatten. Mit diesem Ergebnis hätten wir uns
+nun wohl zufrieden geben können; da aber das Wetter so gut war und den Eindruck
+von Beständigkeit machte, sich auch unser Lebensmittelvorrat nach einer genauen
+Durchsicht als reichhaltig erwies, beschlossen wir, die übrigen 10 km auch noch
+zurückzulegen und dem Pol so nahe wie nur immer möglich eine Ortsbestimmung zu
+machen
+
+Vorläufig kehrten indes unsere drei Wanderer zurück — zwar nicht in erster
+Linie, weil sie erschöpft gewesen wären, sondern weil es so bestimmt worden war
+— während Hanssen und ich noch bei unseren Beobachtungen waren. Am Nachmittag
+prüften wir unseren Lebensmittelvorrat noch einmal aufs sorgfältigste und
+pflogen dann Rat über die nächste Zukunft. Das Ergebnis war, daß wir für uns
+selbst und für unsere Hunde Unterhalt auf 18 Tage hatten. Unsere jetzigen 16
+Hunde wurden in zwei Züge von je acht Stück verteilt und der Inhalt von
+Bjaalands Schlitten auf die von Hanssen und Wisting verteilt. Der dritte
+Schlitten, den wir hier zurücklassen wollten, wurde aufrecht in den Schnee
+gesteckt und bildete so ein ausgezeichnetes Merkzeichen. Das auf dem Schlitten
+festgeschraubte Meßrad ließen wir daran, unsere beiden andern genügten
+vollständig für den Rückweg, alle hatten bis jetzt immer aufs genaueste
+gestimmt. Ein paar leere Vorratskisten wurden auch zurückgelassen, auf ein
+Kistenbrett schrieb ich mit Bleistift die Erklärung, daß unser Zelt — „Polheim“
+— im Nordwesten ¼ West nach dem Kompaß 10 km von dem Schlitten zu finden sei,
+und nachdem wir an diesem Tag alle diese Sachen in Ordnung gebracht hatten,
+legten wir uns wohlbefriedigt schlafen.
+
+Am nächsten Morgen, dem 17. Dezember, waren wir schon in aller Frühe wieder auf.
+Bjaaland, der jetzt aus der Abteilung der Schlittenlenker ausgetreten und mit
+Freude und Jubel in die der Vorläufer aufgenommen war, wurde sofort eine erste
+ehrenvolle Aufgabe gestellt: die Forschungsreise auf den Polpunkt selbst zu
+leiten. Diesen Auftrag, der von uns allen als ein Ehrenamt betrachtet wurde,
+überließ ich ihm als Zeichen meiner Dankbarkeit gegen die mutigen Leute daheim
+in Telemarken, die auf dem Gebiet des Schneeschuhlaufs so viel leisten.
+
+An diesem Tag handelte es sich für uns in erster Linie darum, in einer
+schnurgeraden Linie zu marschieren, und uns — womöglich — in der Richtung des
+berechneten Meridians zu halten. Ein Stück hinter Bjaaland kam Hassel, dann
+Hanssen, hierauf Wisting, und ein gutes Stück weiter zurück machte ich den
+Schluß. Auf diese Weise konnte ich die Marschrichtung genau beaufsichtigen und
+achtgeben, daß keine größere Abweichung vorkam.
+
+Bjaaland erwies sich bei dieser Gelegenheit als ein ausgezeichneter Vorläufer.
+Er marschierte die ganze Zeit schnurgerade vorwärts, nicht ein einziges Mal wich
+er nach irgendeiner Seite hin aus, so daß wir nach Zurücklegung der 10 km den
+zurückgelassenen Schlitten noch deutlich sehen und peilen konnten. Er stand,
+nach unserer Peilung zu urteilen, genau in der rechten Richtung.
+
+Als wir ankamen, war es vormittags 11 Uhr. Während nun einige mit dem
+Aufschlagen des Zeltes beschäftigt waren, machten die andern alles für die nun
+vorzunehmenden Beobachtungen bereit. Zuerst wurde ein haltbarer Schneesockel
+errichtet, auf dem der künstliche Horizont stehen sollte, und sodann ein zweiter
+kleinerer für den Sextanten, solange er nicht benutzt würde.
+
+Vormittags ½12 Uhr wurde die erste Beobachtung vorgenommen. Wir hatten uns in
+zwei Abteilungen geteilt — Hanssen und ich, Hassel und Wisting — und während die
+eine Abteilung schlief, beobachtete die andere. Jede Wache dauerte sechs
+Stunden. Das Wetter war großartig, obgleich der Himmel nicht die
+ganze Zeit über vollständig klar war. Von Zeit zu Zeit zog plötzlich eine ganz
+leichte feine dampfähnliche Decke über das Firmament hin, aber nur um ebenso
+rasch wieder zu verschwinden. Die Wolkendecke war auch nicht so dicht, daß sie
+die Sonne ganz verhüllt hätte. Diese schien die ganze Zeit, aber in der
+Atmosphäre herrschten offenbar Störungen. So geschah es, daß die Sonne mehrere
+Stunden lang ihre Höhe nicht veränderte und dann plötzlich gleichsam einen Satz
+machte. Den ganzen Tag hindurch wurden nun zu jeder Stunde Beobachtungen
+gemacht. Es war eine ganz eigentümliche Empfindung, wenn man, nachdem man sich
+abends 6 Uhr zu Bett gelegt hatte, nachts um 12 Uhr beim Aufstehen die Sonne
+anscheinend noch ganz auf derselben Höhe fand und man sich dann morgens um 6 Uhr
+abermals mit der Sonne auf derselben Höhe schlafen legte. Selbstverständlich war
+die Höhe verändert, aber eben so unbedeutend, daß man es mit dem bloßen Auge
+nicht wahrnehmen konnte. Für uns sah es aus, als liefe die Sonne genau auf
+derselben Höhe rings am Himmel hin. Die Stunden, die ich ab und zu erwähnt habe,
+sind nach dem Meridian von Framheim gezählt; wir berechneten unsere Zeit
+fortgesetzt nach diesem.
+
+Die Beobachtungen^[^0609]^ zeigten uns bald, daß wir uns hier nicht auf dem Polpunkt
+selbst befanden, aber so dicht dabei, als wir mit unseren Instrumenten
+festzustellen vermochten.
+
+Am 18. Dezember, mittags 12 Uhr, waren wir mit unseren Beobachtungen fertig, und
+damit war sicherlich alles, was man billigerweise verlangen kann, geschehen und
+wir hatten getan, was überhaupt getan werden konnte.
+
+Um dem Polpunkt noch einige Kilometer näher zu kommen, schritten Hanssen und
+Bjaaland weitere 7 km in der Richtung des neuerdings gefundenen Meridians ab.
+Während des Mittagessens an diesem Tag bereitete uns Bjaaland eine Überraschung.
+Bis jetzt waren auf der ganzen Reise noch keine Tischreden gehalten worden, aber
+nun schien Bjaaland die Zeit dafür für gekommen zu erachten, und so überraschte
+er uns alle mit einer schönen, wohlgesetzten Rede. Meine Überraschung erreichte
+den Höhepunkt, als er nach vollendeter Rede eine gefüllte Zigarrentasche
+herauszog und herumbot. Eine Zigarre am Pol! Ja, das war großartig! Aber damit
+war er noch nicht zu Ende. Als die Zigarren die Runde gemacht hatten, waren noch
+vier übrig. Wie gerührt war ich, als er mir dann die Tasche mit den Worten
+übergab: „Und diese übergebe ich dir zur Erinnerung an den Pol.“
+
+Die Tasche habe ich wohl verwahrt und werde sie als einen der vielen Beweise der
+Zuneigung meiner Gefährten auf dieser Reise auch ferner aufbewahren. Die
+Zigarren teilte ich später am heiligen Abend aus, und sie waren dann auch eine
+willkommene sichtbare Erinnerung an das liebe Weihnachtsfest in der Heimat.
+
+Nachdem die Festmahlzeit am Pol beendigt war, trafen wir die Vorbereitungen zum
+Rückweg. Zuerst wurde das kleinste Zelt aufgeschlagen, das wir für den Fall, daß
+wir uns hätten in zwei Abteilungen trennen müssen, mitgenommen hatten. Es war
+von unserem fleißigen Segelmacher Rönne aus ganz dünner Schilfleinwand
+angefertigt worden, und da diese Leinwand eine graubraune Farbe hat, konnte man
+es auf der weißen Schneefläche schon von weitem sehen. An. die Zeltstange wurde
+eine zweite Stange gebunden, so daß deren ganze Höhe nun ungefähr 4 m betrug.
+Oben auf die Spitze wurde eine kleine norwegische Flagge gebunden und darunter
+ein Wimpel, auf den mit großen Buchstaben „Fram“ gemalt war. Das Zelt wurde mit
+Pardunen nach allen Richtungen wohl versteift, und drinnen ließ ich in einem
+kleinen Beutel einen Brief zurück, der an den König gerichtet ist und über das
+Erreichte volle Aufklärung enthält. Der Weg nach Hause war weit, und vieles
+konnte uns zustoßen, was uns möglicherweise verhindern könnte, selbst von
+unserer Fahrt zu berichten.
+
+Außer diesem Brief an den König legte ich noch einen kurzen Brief an Scott bei,
+der, wie ich annahm, der erste sein würde, der das Zelt fände. An Gegenständen
+hinterließen wir dort einen Sextanten mit Glashorizont, ein Hypsometerfutteral,
+drei Fußsäcke aus Renntierfell, einige Kamiken und Fausthandschuhe. Als dies
+alles ins Zelt hineingelegt war, ging einer nach dem andern noch einmal hinein,
+um seinen Namen auf ein Schild zu schreiben, das an der Zeltstange befestigt
+war. Bei dieser Gelegenheit empfingen wir auch schon die Glückwünsche unserer
+zurückgebliebenen Gefährten zur wohlvollendeten Fahrt, denn auf ein paar gelben
+Leinwandlappen, die unter den Pardunen ans Zelt genäht waren, stand: „Viel Glück
+auf die Reise und willkommen auf 90°!“
+
+Diese guten Wünsche, die uns hier plötzlich zuteil wurden, taten uns
+außerordentlich wohl. Sie waren von Beck und Rönne unterzeichnet. Ja, diese
+beiden glaubten an uns!
+
+Nachdem wir mit all dem fertig waren, verließen wir das Zelt, schnürten die Tür
+fest zu, damit der Wind nicht hineinfahren könnte, und dann: Leb wohl Polheim!
+Das war ein feierlicher Augenblick, als wir unsere Häupter entblößten und von
+unserem Heim und unserer Flagge Abschied nahmen. Alsdann wurde unser Reisezelt
+abgeschlagen und die —Schlitten gepackt. Jetzt sollte die Heimreise ihren Anfang
+nehmen — heim, heim, Schritt für Schritt, Meile um Meile, bis die lange
+Entfernung zurückgelegt war!
+
+Wir fuhren gleich in unseren alten Spuren und folgten diesen unentwegt. Oft, oft
+wendeten wir den Blick zurück, um Polheim noch einen letzten Gruß zu senden.
+Dann kam die dampfartige weiße Luft wieder dahergezogen, und es dauerte nicht
+lange, bis das letzte Zeichen von Polheim — die kleine Flagge — aus unserem
+Gesichtskreis verschwunden war.
+
+:::: { .wrap-70 .break-before }
+![Amundsen in Wintertracht.](Die_Eroberung_des_Suedpols_Vol_II_628.jpg "Amundsen in Wintertracht."){#b628}
+::::
+
+Die Bahn war ausgezeichnet, und alle waren in froher Laune, so daß es hurtig
+vorwärts ging. Man hätte fast glauben können, auch die Hunde verstünden, daß wir
+nun auf dem Heimweg waren. Ein milder sommerlicher Wind bei — 19° C war der
+letzte Gruß vom Pol.
+
+Als wir den Zeltplatz erreichten, wo der Schlitten zurückgelassen worden war,
+machten wir Halt, um noch allerlei von da mitzunehmen. Dann gings der
+Wartenreihe entlang weiter. Unsere Spuren waren da schon ziemlich verweht, aber
+dank Bjaalands außerordentlich guter Sehkraft hielt er sich doch ganz
+erfolgreich an sie, und die Warten boten eine so ausgezeichnete Hilfe, daß die
+Spuren fast überflüssig wurden. Obgleich die Warten nur 1 m hoch waren, konnte
+man sie auf der flachen Ebene doch außerordentlich weit sehen. Wenn die Sonne
+darauf schien, glänzten sie wie elektrische Feuer. Ihre Schattenseite war
+dagegen so schwarz, daß man sie eher für schwarze Steinflächen gehalten hätte.
+Wir beschlossen, von nun an bei Nacht zu reisen. Erstens hatten wir da die Sonne
+im Rücken, was von großer Wichtigkeit für die Augen war; denn wenn man auf
+dieser Schnee-fläche die Sonne im Gesicht hat, greift die Helle, auch wenn man
+gute Schneebrillen hat, die Augen außerordentlich an. Aber mit der Sonne im
+Rücken ist die Fahrt das reine Vergnügen. Ein zweiter großer Vorteil — den wir
+allerdings erst später genießen konnten — war, daß wir den wärmsten Teil des
+Tages im Zelt verbrachten und da gute Gelegenheit hatten, die nassen Kleider
+usw. zu trocknen. Dieser zweite Vorteil erwies sich indes, wie wir später hören
+werden, als von zweifelhaftem Wert.
+
+Es war eine große Wohltat, als wir den Südwind endlich im Rücken hatten. Der
+Wind, der seither fast immer aus dieser Richtung geblasen hatte, war für unsere
+aufgesprungenen Gesichter eine rechte Plage geworden. Jetzt sollten wir ihn also
+im Rücken haben, und er sollte uns auf dem Wege weiterhelfen, während er
+gleichzeitig unseren Gesichtern zum Ausheilen Zeit ließ.
+
+Etwas anderes, nach dem wir uns auch sehnten, war, auf die Eisplatte hinunter zu
+gelangen, damit wir wieder ordentlich atmen könnten. Hier oben konnten wir ja
+nur selten einen tiefen guten Atemzug tun. Wenn wir nur „ja“ sagen wollten,
+mußten wir zweimal Atem holen.
+
+Der asthmatische Zustand, in dem wir uns während unseres sechswöchigen
+Aufenthaltes da droben auf der Hochebene befanden, war durchaus nicht behaglich.
+
+Wir hatten 28 km als passenden Tagesmarsch für den Rückweg angesetzt. Allerdings
+hatten wir jetzt auf dem Rückweg so viele Vorteile auf unserer Seite, daß wir
+auch größere Tagesmärsche hätten machen können, aber wir fürchteten, bei zu
+großen Märschen den Hunden zu viel zuzumuten, was für uns selbst dann schlimme
+Folgen hätte haben können. Es zeigte sich indes bald, daß wir unsere Hunde
+unterschätzt hatten; sie brauchten nur 5 Stunden zu den bestimmten 28 km, so daß
+die Ruhepausen dadurch sehr lang waren.
+
+Am 20. Dezember mußte der erste Hund auf dem Heimweg getötet werden. Diesmal
+mußte „Lasse“, mein eigener lieber Kerl, daran glauben. Er wurde in 18 möglichst
+gleich große Stücke zerlegt und unter seine Kameraden verteilt. Diese hatten nun
+frisches Fleisch außerordentlich schätzen lernen, und diese besonderen
+Fütterungen mit frischem Fleisch, die wir auf dem Rückweg ab und zu vornahmen,
+haben sicherlich zu ihrer Leistungsfähigkeit beigetragen. Eine solche Mahlzeit
+schien ihnen für mehrere Tage neue Kräfte zu verleihen, so daß sie dann wieder
+viel leichter vorwärtskamen.
+
+Der 21. Dezember brachte gleich am Morgen schlechtes Wetter, eine Brise aus
+Südosten, mit grauer unsichtiger Luft. Wir verloren unsere Spur und mußten eine
+Zeitlang nach dem Kompaß marschieren. Aber wie gewöhnlich hellte es sich
+plötzlich wieder auf, und das weite Gelände dehnte sich hell und warm vor uns
+aus. Ja, es wurde uns sogar zu warm. Wir mußten alles ausziehen — oder
+wenigstens fast alles — und doch lief der Schweiß an uns herunter. Lange
+brauchten wir auch nicht in Ungewißheit wegen des Wegs zu schweben. Unsere
+prächtigen Warten leisteten uns ausnehmend gute Dienste, als sie so eine nach
+der andern hellschimmernd und glänzend am Horizont auftauchten und uns zu dem
+für uns so wichtigen Vorratslager auf 88° 25´ s. Br. leiteten.
+
+Es ging nun sachte bergan, so sachte, daß man es kaum merkte. Hypsometer und
+Barometer ließen sich indessen nicht täuschen, beide fielen genau in derselben
+Weise, wie sie vorher gestiegen waren. Aber wenn wir auch die Steigung
+eigentlich nicht merkten, so glaubten wir sie doch zu fühlen. Man könnte es
+Einbildung nennen, aber so viel ist sicher, daß ich die schwache Steigung beim
+Atmen zu spüren meinte.
+
+Unsere Eßlust hatte während der letzten Tage in beunruhigender Weise zugenommen,
+und es zeigte sich, daß wir Schneeschuhläufer viel heißhungriger waren als die
+Schlittenlenker. Ich glaube, ein paar Tage lang — allerdings nur ein paar Tage
+hätten wir drei, Bjaaland, Hassel und ich selbst auch, ohne mit der Wimper zu
+zucken, Kieselsteine verschlucken können. Bei den Lenkern dagegen stellte sich
+dieser Heißhunger gar nicht ein. Ich habe mir sehr den Kopf darüber zerbrochen,
+wie sich das erklären ließe; vielleicht kam es daher, daß die Lenker sich beim
+Marschieren an den Schlitten halten konnten und so einen Ruhe und Stützpunkt
+hatten, während wir auf unseren Schneeschuhen einen solchen ganz entbehren
+mußten. Man sollte freilich nicht glauben, daß es so viel ausmachen würde, wenn
+man während des Marsches nur die Hand auf den Schlitten legt, aber auf die
+Dauer, Tag um Tag, kann es möglicherweise doch von Bedeutung sein.
+
+Glücklicherweise waren wir nun so reichlich mit Lebensmitteln versehen, daß wir
+unsere Tagesmengen vergrößern konnten, sobald uns dieses Hungergefühl
+übermannte. So wurde gleich beim Aufbruch vom Pol die tägliche Menge Pemmikan
+vergrößert, und dadurch schrumpfte dann auch die wahrhaft heißhungrige Eßlust
+allmählich zu einer ganz gewöhnlichen, gut alltäglichen zusammen. Die
+Tageseinteilung war beim Beginn der Rückreise folgendermaßen geordnet worden;
+Abends um 6 Uhr wurde aufgestanden. Um 8 Uhr waren wir mit allem fertig und
+marschbereit. Eine Stunde nach Mitternacht waren die 28 km zurückgelegt, und wir
+konnten unser Haus wieder aufrichten, unser Essen kochen und der Ruhe pflegen.
+Aber diese Ruhe wurde uns bald unerträglich lang. Dazu kam die schreckliche
+Hitze, die uns — je nach den Umständen — aus den Schlafsäcken heraustrieb, so
+daß wir dann ohne eine Decke im Zelt lagen. Diese zwölf- bis vierzehnstündigen,
+ja manchmal sogar sechzehnstündigen Ruhepausen waren auf diesem ersten Teil
+unserer Rückreise unsere größten Geduldsproben. Wir waren vollkommen überzeugt,
+daß sie überflüssig waren, behielten sie aber doch bei, solange wir uns noch in
+den so hoch gelegenen Gegenden befanden. In dieser Zeit drehte sich unsere
+Unterhaltung sehr oft darum, wie wir diese so unnötig lange Ruhezeit nützlich
+anwenden könnten.
+
+Am 21. Dezember fiel „Per“, der gute, treue, zuverlässige Per ganz zusammen und
+mußte den letzten Teil des Wegs gefahren werden. Bei der Ankunft am Zeltplatz
+erhielt er seinen Lohn. Ein leichter Schlag mit dem Rücken der Axt genügte für
+ihn. Ohne einen Ton von sich zu geben, sank das abgezehrte Tier zu Boden. Mit
+ihm verlor Wisting einen seiner besten Hunde. Per war ein merkwürdiges Tier
+gewesen. Ruhig und friedlich war er immer umhergegangen und hatte sich nie an
+den Raufereien der andern beteiligt. Seinem Aussehen und seiner Aufführung nach
+hätte man ihn sicherlich ganz falsch beurteilt, denn da machte er den Eindruck,
+als sei er nicht viel nütze. Aber damit hätte man ihm sehr unrecht getan; erst
+wenn er eingeschirrt war, zeigte sich, was er wert war. Ohne Zurufe oder
+Peitschenschläge zog er vom Morgen bis zum Abend und war so als Zugtier
+unbezahlbar. Aber wie die meisten andern seiner Art konnte er es nicht allzu
+lange aushalten, eines Tages fiel er zusammen, wurde totgeschlagen und verzehrt.
+
+Der Weihnachtsabend näherte sich nun mit raschen Schritten. Für uns konnte er
+sich nicht besonders festlich gestalten; aber so festlich, als es die
+Verhältnisse erlaubten, sollte er trotzdem gefeiert werden. Es galt also, an dem
+Abend das Vorratslager zu erreichen, um Weihnachten mit einem kleinen Festmahl
+auszeichnen zu können.
+
+Am Abend vor Weihnachten wurde „Schwarzfleck“ geschlachtet, ohne daß ihm eine
+Träne nachgeweint wurde. Schwarzfleck war einer von Hanssens Hunden und von
+jeher ein ungeratenes Kind gewesen. Ich sehe in meinem Tagebuch die folgende
+Bemerkung: „Heute abend Schwarzfleck geschlachtet. Er wollte eben nicht mehr,
+obgleich er gar nicht so erschöpft aussah. Ein schlechter Charakter. Würde als
+Mensch in der Besserungsanstalt begonnen und im Zuchthaus geendigt haben.“
+Dieser Hund war verhältnismäßig fett gewesen und wurde von den andern mit
+sichtlichem Wohlbehagen verzehrt.
+
+Der heilige Abend kam. Das Wetter war veränderlich, bald umwölkt, bald hell und
+klar. Wir hatten keine große Strecke zurückzulegen, bis wir das Vorratslager
+erreichten. Es war eben erst Mitternacht, eine herrliche, ruhige, warme Nacht.
+Nun hatten wir also den ganzen heiligen Abend vor uns und konnten ihn in aller
+Ruhe genießen. Unser Vorratslager wurde sofort geöffnet und der Inhalt auf die
+zwei Schlitten verteilt. Alle Zwiebackbrosamen wurden von Wisting, der an dem
+Tag Koch war, sorgfältig in einen Beutel gesammelt. Im Zelt drinnen wurde dieser
+dann tüchtig geklopft und geknetet. Das Erzeugnis war pulverisierter Zwieback.
+Aus diesem Stoff und einer Wurst Milchpulver gelang es Wisting, die leckerste
+„Weihnachtsgrütze“ herzustellen. Ich bezweifle sehr, daß irgend jemand daheim in
+Norwegen seine Weihnachtsgrütze besser geschmeckt hat als uns die unsere da
+drunten in dem Zelt auf der antarktischen Hochebene.
+
+Dann wurden Bjaalands Zigarren verteilt, und sie brachten vollends die richtige
+Feststimmung ins Lager. Noch eine andere große festliche Freude ward uns an
+diesem Tage zuteil, nämlich die, den Scheitel der Hochebene erreicht zu haben.
+Nun sollte es nach zwei- bis dreitägigem Weitermarschieren wieder abwärts gehen,
+abwärts nach der Eisplatte und zurück zu unserem früheren Dasein. Unsere
+Tagesmärsche waren bisher von einer oder zwei Ruhepausen unterbrochen worden,
+die wir für uns und für die Hunde für nötig gehalten hatten. Von Weihnachten an
+wurde indes eine neue Ordnung eingeführt und nun der ganze Tagesmarsch von 28
+km, ohne anzuhalten, zurückgelegt. Im Grunde zogen alle diese Einrichtung vor,
+und es sah aus, als seien die Hunde derselben Ansicht. In der Regel hatte es
+eine Weile gedauert, bis man wieder ordentlich in Gang gekommen war; man war
+zuerst etwas steif, vielleicht auch ein bißchen faul gewesen und hatte erst
+wieder geschmeidig werden müssen.
+
+Am 29. Dezember überschritten wir 88° s. Br. bei einer sehr flotten Fahrt in
+nördlicher Richtung. Der Boden sah aus, als sei er, seit wir hier gewesen waren,
+tüchtig von der Sonne beschienen worden, denn er war jetzt tatsächlich
+spiegelglatt. Über diese blanken Flächen ging es wie über glattes Eis, doch mit
+dem großen Unterschied, daß die Hunde leichter festen Fuß fassen konnten.
+
+Diesmal bekamen wir schon auf 88° s. Br. Land in Sicht, und da erwarteten uns
+große Überraschungen! Ganz deutlich hatten wir dieselbe südöstlich laufende
+Bergkette vor uns, die sich aber diesmal bedeutend weiter nach Süden erstreckte.
+Das Wetter war strahlend hell, und an dem Gebirge konnten wir sehen, daß es
+überdies auch sehr sichtig war. Gipfel an Gipfel erstreckte sich die ganze
+Gebirgskette nach Südosten, bis sie allmählich in weiter Ferne verschwand. Aber
+nach der Luft zu urteilen, setzte sie sich außerhalb des Gesichtskreises in
+derselben Richtung noch fort. Daß diese Gebirgskette demnach das antarktische
+Festland durchschneidet, betrachte ich als zweifellos. Hier hatten wir nun einen
+ausgezeichneten Beweis, wie sehr die Luft in diesen Gegenden täuscht. In einem
+anscheinend ganz klaren Augenblick hatten wir damals die Strecke Land vor uns
+auf 87° s. Br. gepeilt, und jetzt sahen wir Land, soweit das Auge reichte, auf
+88° s. Br. Daß wir sehr erstaunt waren, ist ein sehr milder Ausdruck für unsere
+Gefühle. Wir schauten und schauten, und kannten uns absolut nicht mehr aus. Wir
+ahnten nur ein wenig, daß der große Gebirgsstock, der so hell und klar am
+Horizont aufragte, der Nilsenberg war. Wie ganz anders nahm er sich jetzt in der
+nebeligen Luft aus, als da wir uns vor kurzem von ihm getrennt hatten!
+
+Es ist mir ein wahres Vergnügen in den Aufzeichnungen jener Tage zu lesen, wie
+hartnäckig wir täglich das Land peilten und glaubten, es sei ein ganz neues.
+Nein, wir erkannten diesen ungeheuren Berg wirklich erst, als Helmer Hanssen
+seinen Gipfel über die Ebene herausstreckte.
+
+Am 29. Dezember verließen wir den Scheitel der Hochebene, und der Abstieg
+begann. Obgleich die Senkung dem bloßen Auge nicht sichtbar war, merkte man sie
+doch gut an den Hunden. Wisting band nun seinen Schlitten an ein Seil und konnte
+so Hanssen gut folgen. Wenn in diesen Tagen jemand über die Hochebene
+dahergekommen wäre und unsern Zug gesehen hätte, würde er wohl kaum geglaubt
+haben, daß wir seit 70 Tagen mit regelmäßigen Tagesmärschen unterwegs gewesen
+waren. Es ging nämlich im Galopp. Wir hatten den Wind wie immer im Rücken und
+den ganzen Tag hellen warmen Sonnenschein. Die Peitsche brauchte man gar nicht
+mehr anzuwenden. Die Hunde strotzten vor Gesundheit, sie liefen und sprangen in
+ihren Geschirren, um möglichst rasch fortzukommen. Das waren harte Zeiten für
+den Vorläufer; er mußte oft aus Leibeskräften vorauseilen, nur um nicht von
+Hanssens Hunden über den Haufen gerannt zu werden. Gleich hinter Hanssen kam
+Wisting mit straff gespanntem Seil, alle seine Hunde, vor Freude kläffend und
+heulend, in vollem Galopp davonjagend. Hassel konnte kaum nachkommen. Wenn ich
+an seiner Stelle war, ging es mir um kein Haar besser. Die Oberfläche war
+spiegelglatt, und wir konnten uns leicht weite Strecken mit den Stöcken vorwärts
+stoßen. Die Hunde waren seit der Abreise vom Pol wie verwandelt. Wie sonderbar
+es auch lauten mag, so ist es doch wahr, daß sie mit jedem Tag zulegten und ganz
+fett wurden. Ich glaube, es rührte daher, daß sie jetzt mit frischem Fleisch und
+Pemmikan zusammen gefüttert wurden.
+
+Vom 29. Dezember an konnten wir die Pemmikanmengen noch einmal vergrößern; der
+tägliche Anteil betrug nun für den Mann 450g Pemmikan, und ich glaube, mehr
+hätten wir gar nicht vertragen können.
+
+Am 30. Dezember ging es weiter und weiter, und da war es bei Gott keine leichte
+Aufgabe, Schneeschuhläufer zu sein! Die Lenker standen gar flott neben ihren
+Schlitten und fuhren mit unglaublicher Geschwindigkeit über das Gelände hin, das
+jetzt aus Schneewehen mit eisartigen Flächen dazwischen bestand. Lieber Gott,
+welche Mühe mußten wir Vorläufer uns geben, um mitzukommen! Für Bjaaland war es
+nicht einmal so schwer, er war schon auf schlimmerem Gelände rascher
+dahingesaust, aber für Hassel und mich lag die Sache anders. Ich sah Hassel bald
+einen Arm, bald ein Bein ausstrecken und bald die verzweifeltsten Anstrengungen
+machen, um sich auf den Beinen zu erhalten. Zum Glück habe ich mich selbst nicht
+sehen können. Wenn ich das gekonnt hätte, würde ich sicherlich mehr als einmal
+über mich selbst in herzliches Lachen ausgebrochen sein.
+
+Schon früh am Tage tauchte der Helmer Hanssen-Berg auf; das Gelände erstreckte
+sich nun in großen wellenförmigen Linien, was wir auf dem Hinweg zum Pol bei dem
+dichten Nebel nicht bemerkt hatten. Und so hoch waren diese wellenförmigen
+Bildungen, daß das Land oft vor unseren Augen plötzlich verschwand. So
+entdeckten wir den Helmer Hanssen-Berg zuerst auf der Höhe einer solchen Welle,
+so daß er wie der Gipfel einer Eispressung aussah, die gerade aus der Oberfläche
+herausragt. Zuerst erkannten wir durchaus nicht, was wir vor uns hatten; bis wir
+merkten, daß es die den Gipfel des Berges bedeckenden nadelscharfen Eisblöcke
+waren, die da auftauchten. Wie eben gesagt, bekamen wir erst da volle Gewißheit,
+daß wir uns wirklich auf dem richtigen Wege befanden. Übrigens war uns alles,
+was wir von Land sahen, vollkommen fremd, nichts, nichts erkannten wir wieder.
+
+Am 31. Dezember überschritten wir 87° s. Br., und es ging nun mit raschen
+Schritten abwärts, dem „Teufelstanzplatz“ und dem Gletscher zu. Am nächsten Tag,
+am Neujahesfest, hatten wir strahlend schönes Wetter — 19° C und eine feine gute
+Brise gerade im Rücken. Zu unserer großen Freude bekamen wir nun das Land um die
+„Metzig“ in Sicht. Es lag allerdings noch weit entfernt, tauchte aber in der
+warmen sonnigen Luft deutlich auf. Ja, wir hatten außerordentliches Glück auf
+unserem Rückweg! Und über des Teufels Tanzplatz mußten wir überhaupt nicht mehr
+hinüber.
+
+Am 2. Januar sollten wir nach unserer Berechnung den Teufelsgletscher erreichen,
+und es traf auch zu, wir konnten ihn schon aus weiter Ferne erkennen. Große
+Eispressungen und wellenförmiges Gelände türmten sich hoch am Horizont auf. Aber
+was uns überraschte, war, daß wir zwischen diesen Zerklüftungen und jenseits
+eine ebene, gleichmäßige von dem zerklüfteten Gelände ganz unabhängige Fläche
+wahrzunehmen meinten. Die Hassel-, Wisting- und Bjaaland-Berge lagen noch ebenso
+da, wie wir sie verlassen hatten, sie waren leicht wieder zu erkennen, sobald
+wir ihnen nur einigermaßen näher rückten. Jetzt ragte auch der Helmer
+Hanssen-Berg wieder hoch in die Luft empor. Wie er so vom Glanz der Morgensonne
+umflossen dalag, strahlte und funkelte sein Gipfel wie herrlicher Diamant. Wir
+glaubten, wir seien den Bergen jetzt etwas näher gerückt als auf dem Hinweg, und
+dies sei wohl auch der Grund, warum wir dieses Gelände so verändert fänden. Als
+wir südwärts zogen, hatte es ja nach dem Land zu vollständig unzugänglich und
+unwegsam ausgesehen. Aber wer konnte es wissen, vielleicht gab es zwischen dem
+zerklüfteten Gelände, das wir damals sahen, eine Strecke gleichmäßig guten
+Bodens, die wir zufälligerweise jetzt gerade erreicht hatten. Aber wieder
+täuschte uns hier die Luft; das wurde uns am nächsten Tage klar, denn anstatt
+dem Land näher zu sein, waren wir noch weiter davon weggekommen, und das war der
+Grund, warum wir nur einen Zipfel von dem unwirtlichen Gletscher mitnehmen
+mußten.
+
+An diesem Abend stand unser Zelt auf einer großen aufgefüllten Spalte. Wir waren
+etwas gespannt, was dieses Gelände uns noch weiter bringen würde. Daß diese
+wenigen Kuppen und alten Spalten alles sein sollte, was dieser Gletscher diesmal
+für uns in Bereitschaft hätte, wagten wir kaum zu hoffen. Aber der dritte Tag
+brach an und brachte uns — Gott Lob und Dank! keine Enttäuschung. Durch ein
+unbegreifliches Glück waren wir allen den unheimlichen gefährlichen Übergängen
+entgangen und standen, ehe wir's uns versahen, in guter Verfassung auf der Ebene
+unter dem Gletscher.
+
+Das Wetter war nicht erstklassig, als wir abends um 7 Uhr weiterzogen, die Luft
+war ziemlich dick, und wir konnten nur gerade den Gipfel des Bjaaland-Berges
+sehen.
+
+Dies machte uns einen Strich durch die Rechnung, da wir jetzt in der Nähe
+unseres Vorratslagers sein mußten und wir helles Wetter hätten haben sollen, um
+uns hinzupeilen. Aber statt daß es sich aufklärte, wurde es immer nebeliger, und
+als wir ungefähr 11 km zurückgelegt hatten, war der Nebel zum Schneiden dick. Da
+hielten wir es fürs beste, Halt zu machen und zuzuwarten. Wir waren die ganze
+Zeit von der falschen Voraussetzung ausgegangen, wir seien zu weit ostwärts,
+also dem Lande zu nahe gekommen, und unter diesen Umständen gelang es uns nicht
+in den kurzen hellern Augenblicken, die wir von Zeit zu Zeit hatten, das Gelände
+unter dem Gletscher wiederzuerkennen. Unserer Meinung nach befanden wir uns
+östlich von dem Vorratslager. Die im Nebel gemachten Peilungen, die uns nun den
+Weg weisen sollten, waren in der dicken Luft von gar keinem Nutzen, das Lager
+war nirgends zu sehen.
+
+Wir hatten soeben unseren herrlichen warmen Pemmikan verzehrt, als die Sonne
+plötzlich durch die Wolken brach. Ich glaube, in so kurzer Zeit sind die
+Schlitten noch nie gepackt und das Lager abgebrochen worden. Von dem Augenblick
+an, wo wir aus unseren Säcken heraussprangen, war nur eine Viertelstunde
+vergangen, bis die Schlitten fertig gepackt dastanden, — eine ganz unglaublich
+kurze Zeit.
+
+„Aber was ist denn das, was dort drüben aus der Wolkenwand hervorschimmert?“
+rief einer von uns plötzlich. Der Nebel hatte sich zerteilt und zog sich wie ein
+Vorhang nach beiden Seiten zurück. Und siehe, auf der linken Seite guckte etwas
+großes Weißes hervor, das sich von Süden nach Norden erstreckte. Hurra! Das ist
+der Helland Hansen. Ja, es kann unmöglich etwas anderes sein, denn er war unsere
+einzige Landmarke nach Westen. Wir jubelten laut vor Freude, als wir dieses alte
+Kennzeichen erblickten. Aber in der Richtung des Vorratslagers stand die
+Wolkenwand noch wie eine Mauer. Wir beratschlagten eine Weile, dann beschlossen
+wir, uns nicht weiter aufzuhalten, sondern den Kurs eiligst auf die „Metzig“ zu
+richten. Wir hatten ja auf alle Fälle Lebensmittel genug.
+
+Gesagt, getan, und flugs ging es weiter. Doch nun hellte sich auch das Wetter
+rasch auf, und während unseres Marsches in der Richtung auf Helland Hansen wurde
+es uns zur Gewißheit, daß wir nicht zu weit östlich, sondern im Gegenteil zu
+weit westlich gekommen waren. Aber jetzt umdrehen und nach dem Vorratslager
+suchen, nein, das taten wir nicht.
+
+Unter dem Helland Hansen-Berg gelangten wir auf einen ziemlich hohen Hügelkamm,
+und da wir nun die bestimmte Entfernung zurückgelegt hatten, wurde haltgemacht.
+Hinter uns in strahlend heller Beleuchtung lag der Gletscher genau so, wie wir
+ihn zuerst auf der Fahrt nach Süden gesehen hatten, voller Risse und Spalten,
+eine dicht neben der andern. Aber mitten durch alle diese Zerklüftungen zog sich
+eine feine, ununterbrochene Linie, ganz genau derselbe Pfad, den wir vor einigen
+Wochen auch betrachtet hatten. Und gerade unter diesem weißen Streifen lag — das
+wußten wir, so sicher wie das Amen in der Kirche unser Vorratslager.
+
+Da standen wir nun und ärgerten uns recht schmählich, daß uns das Vorratslager
+so leicht entgangen war, und redeten davon, wie nett es gewesen wäre, wenn wir
+alle unsere Vorräte von der Ebene, auf die wir sie ausgestreut hatten, wieder
+aufgelesen hätten. Da ich mich an diesem Abend müde und abgespannt fühlte, hatte
+ich durchaus keine Lust, die 24 km, die uns von dem Lager trennten, wieder
+zurückzulegen. „Aber wenn sonst jemand Lust hat, den Weg zu machen, so soll er
+schön bedankt sein!“ sagte ich. Und siehe, alle hatten Lust dazu, alle ohne
+Ausnahme! In dieser Versammlung fehlte es wahrlich nicht an Freiwilligen! Ich
+wählte Hanssen und Bjaaland aus, die eiligst so ziemlich alles ablegten und mit
+einem leeren Schlitten davonsausten.
+
+Das war um 5 Uhr morgens gewesen. Um 3 Uhr nachmittags kehrten sie wieder —
+Bjaaland vorausrennend, Hanssen den Schlitten vors Zelt fahrend. Das war eine
+Kraftprobe für die Menschen und für die Tiere gewesen! 26 Seemeilen oder
+ungefähr 48 km hatten Hanssen, Bjaaland und der eine Zug Hunde an dem Tag mit
+einer Durchschnittsgeschwindigkeit von 5 bis 6 km in der Stunde zurückgelegt.
+Das Vorratslager hatten sie, ohne lange suchen zu müssen, gefunden. Die größten
+Schwierigkeiten hatte ihnen das wellenförmige Gelände bereitet, lange Strecken
+weit hatten sie den Talsenkungen folgen müssen, wo ihnen jede Aussicht versperrt
+war. Ein Bergrücken folgte dem andern ohne Aufhören. Aber sie überwanden alle
+und erreichten. ihr Ziel.
+
+Wir andern hatten dafür gesorgt, daß bei ihrer Rückkehr alles für sie bereit
+war, in erster Linie viel Wasser. „Wasser, Wasser!“ war in der Regel das erste
+und letzte, was man in solchen Fällen verlangte. Wenn dann der erste Durst
+gestillt war, wurde auch dem Pemmikan großes Interesse zuteil.
+
+Während nun diese beiden so auf beste Weise verpflegt wurden, verteilten wir
+andern die herbeigeschafften Vorräte auf die beiden Schlitten, und nach kurzer
+Zeit waren wir aufs neue zum Aufbruch bereit. Das Wetter war indessen immer
+schöner geworden, und vor uns lagen die Berge in strahlendem Glanz. Wir meinten,
+Fridtjof Nansen und Peter Christophersen wieder zu erkennen, und machten gute
+Peilungen von ihnen, für den Fall, daß der Nebel sie wieder umziehen sollte.
+
+In dieser Zeit war den meisten der Begriff von Tag und Nacht fast ganz abhanden
+gekommen.
+
+„Es ist 6 Uhr“, antwortet einer auf die Frage, wieviel Uhr es sei.
+
+„Ja, morgens 6 Uhr“, sagte ein anderer.
+
+„Nein, bist du nicht ganz bei Trost?“ sagte der erste wieder. „Es ist doch
+abends 6 Uhr!“
+
+Von dem Datum hatte keiner eine Ahnung mehr, es war schon viel, wenn man sich
+noch an die Jahreszahl erinnerte; nur bei den Eintragungen in unsere Tage- und
+Beobachtungsbücher stolperten wir über die Tage und die Daten, während des
+Marsches aber hatten wir keine blasse Ahnung davon.
+
+Welch ein prächtiges Wetter begrüßte uns, als wir am 4. Januar ins Freie traten!
+Wir hatten nun beschlossen, so zu marschieren, wie es uns am besten paßte, und
+keine Rücksicht auf Tag oder Nacht mehr zu nehmen. Der langen Ruhepausen waren
+wir längst überdrüssig geworden, und wir wollten sie um jeden Preis abkürzen.
+
+Wie gesagt, das Wetter hätte nicht schöner sein können; strahlend hell und klar
+und vollkommen still war es, und die — 19° C machten bei dieser ruhigen Luft
+durchaus den Eindruck von Sonnenwärme. Ehe wir den Marsch begannen, wurde alles
+Überflüssige ausgezogen und auf die Schlitten gelegt. Es sah fast aus, als ob
+hier alles für überflüssig gehalten würde. Der Anzug, in dem man sich endlich
+auf den Weg machte, würde wohl in den Breiten der zivilisierten Welt für weniger
+anständig gehalten worden sein. Wir aber lächelten nur und beglückwünschten uns
+darüber, daß bis jetzt diesen Teil des Erdballs noch keine Damen besucht hatten;
+denn sonst wäre uns unser außerordentlich leichter und behaglicher Anzug
+sicherlich nicht gestattet worden.
+
+Das Land trat heute schärfer hervor. Es war uns ganz interessant, diesen Teil,
+an dem wir auf dem Herweg im dichtesten Nebel und bei Sturm- und Schneegestöber
+vorübergekommen waren, jetzt auch unter andern Verhältnissen, das heißt bei
+schönem Wetter, zu sehen. Wir waren damals am Rande der großen Gebirgskette
+hingewandert, ohne zu ahnen, wie nahe wir ihr waren und wie ungeheuer groß sie
+war. Das Gelände war glücklicherweise auf dieser Strecke gar nicht zerklüftet;
+ich sage glücklicherweise, denn wer weiß, wie es uns gegangen wäre, wenn wir bei
+dem Wetter, das wir damals gehabt hatten, über ein Gelände voller Risse und
+Spalten hinüber gemußt hätten? Vielleicht wären wir ohne Unfall hinübergekommen,
+vielleicht auch nicht!
+
+Doch jetzt hatten wir einen harten Weg vor uns. Die „Metzig“ lag 800 m höher als
+die Stelle, wo wir uns eben befanden. Wir hatten erwartet, bald auf eine von
+unseren vielen Warten zu stoßen, aber dies geschah erst, nachdem wir 20 km
+zurückgelegt hatten. Da tauchte plötzlich eine vor uns auf und wurde natürlich
+mit Jubel begrüßt. Wir wußten ja wohl, daß wir auf dem rechten Wege waren, aber
+so eine alte gute Landmarke war doch überaus willkommen.
+
+Die Sonne hatte offenbar hier oben ordentlich gearbeitet, während wir im Süden
+waren; denn einzelne der Warten neigten sich weit vor, und große daranhängende
+Eiszapfen gaben deutlich Bescheid, welche Macht die Sonne gehabt hatte.
+
+Nachdem wir ungefähr 60 km zurückgelegt hatten, machten wir bei der Warte, die
+wir da errichtet hatten, halt, gerade unter einem Hügel, vor dem wir am 26.
+November gezwungenerweise hatten anhalten müssen.
+
+Freitag, der 5. Januar, war einer von den Tagen, denen wir mit Spannung
+entgegensahen. An diesem Tage galt es nämlich, das Vorratslager bei der „Metzig“
+wiederzufinden. Dieses Lager, das aus dem besten frischen Hundefleisch bestand,
+war von außerordentlich großer Bedeutung für uns. Nicht allein weil unsere Tiere
+sich jetzt daran gewöhnt hatten, dieses Fleisch dem Pemmikan weit vorzuziehen,
+sondern auch, und das war noch viel wichtiger, wegen des außerordentlich
+günstigen Einflusses, den es auf den Gesundheitszustand der Hunde hatte. Unser
+Pemmikan war allerdings ganz gut, ja er hätte überhaupt nicht besser sein
+können, aber die Abwechslung im Speisezettel ist etwas sehr Wichtiges und
+scheint, meiner Erfahrung nach, auf einer solchen weiten Fahrt bei den Hunden
+eine noch größere Rolle zu spielen als bei den Menschen. Ich habe bei früheren
+Gelegenheiten gesehen, daß Hunde sich geweigert haben, Pemmikan zu fressen,
+wahrscheinlich weil er ihnen aus Mangel an Abwechslung vollständig verleidet
+war. Das Ergebnis war, daß sie abmagerten und schwach wurden, obgleich wir in
+jenem Fall reichlich mit Nahrungsmitteln versehen gewesen waren. Der Pemmikan,
+von dem ich da spreche, war überdies guter, für Menschen hergestellter Pemmikan
+gewesen; es konnte also nicht an der Beschaffenheit gelegen haben.
+
+Es war ¼2 Uhr mittags, als wir unsern Marsch begannen. Wir hatten nicht lange
+geschlafen, aber nun galt es, das schöne helle Wetter zu benutzen, solange es
+dauerte. Da oben bei der „Metzig“ war kein Verlaß aufs Wetter, das wußten wir
+aus Erfahrung. Nach der früher zurückgelegten Entfernung wußten wir auch, daß
+wir von der Warte, bei der wir uns jetzt befanden, noch 22 km von dem
+Vorratslager bei der Metzig entfernt waren, und daß wir auf dieser Entfernung
+überhaupt nur zwei Warten gebaut hatten; denn nach der Beschaffenheit des
+Geländes hatten wir damals gemeint, wir könnten nicht fehlgehen. Wir sollten
+indes bald erfahren, daß es trotz der Warten nicht so leicht war, sich
+auszukennen, wie wir geglaubt hatten. In dem schönen, klaren Wetter und mit
+Hilfe von Hanssens ausgezeichneten Augen fanden wir unsere beiden Warten wohl
+wieder, aber wir verwunderten uns über das Aussehen der Berge. Wie schon gesagt,
+glaubten wir an jenem 11. November, als wir die Metzig zum erstenmal erreichten,
+vollständig klares Wetter zu haben. Ich hatte damals von unserem Zeltplatz aus
+den Weg, den wir zwischen den Bergen auf die Hochebene heraufgekommen waren,
+gepeilt und sorgfältig beschrieben. Als wir aber jetzt an unserer letzten Warte
+vorübergekommen waren und uns unserer Berechnung nach der Metzig näherten,
+überraschte uns das Aussehen der Umgebung im höchsten Grade. Damals, am 21.
+November, hatten wir Berge im Westen und Norden gesehen, aber sie waren sehr
+weit entfernt gewesen. Jetzt schien dieser ganze Teil des Horizonts von
+ungeheuren Gebirgsstöcken eingenommen zu sein, die ganz dicht bis zu uns
+heranreichten. Was in aller Welt bedeutete denn das? War es Hexerei? Darauf
+hätte ich hoch und heilig schwören können, daß ich diese Landschaft mit keinem
+Auge je gesehen hatte.
+
+Jetzt war die Entfernung zurückgelegt, und wir sollten nach den Warten, die
+hinter uns lagen, am Ziel angekommen sein. Aber das war doch merkwürdig! In der
+Richtung, wo ich unsern Aufstieg gepeilt hatte, sahen wir jetzt nur den Abhang
+eines unbekannten Bergs, der aus der Hochebene aufragte. An dieser Bergwand
+konnte unmöglich der Abstieg vor sich gehen. Nur im Nordwesten machte das
+Gelände den Eindruck, als könnte man dort etwa hinuntergelangen. Dort schien
+sich eine natürliche Senkung zu befinden, die sich nach der Eisplatte, die wir
+in weiter Ferne wahrnehmen konnten, hinunterzog.
+
+Wir hatten haltgemacht und standen eben ratschlagend beieinander, als Hanssen
+plötzlich ausrief: „Dort drüben sind vor uns schon Leute gewesen!“
+
+„Ja wahrhaftig, dort steht wirklich mein abgebrochener Schneeschuh, den ich beim
+Vorratslager hineingesteckt habe!“ fiel Wisting ein.
+
+Und wirklich, Wistings abgebrochener Schneeschuh rettete uns aus dieser
+unangenehmen Lage! Wie gut, daß er ihn dort hineingesteckt hatte — sehr
+umsichtig jedenfalls! Wir untersuchten die Gegend nun mit dem Fernglas, und
+neben einem Schneehaufen, der sich als unser Vorratslager auswies, aber sehr
+leicht unserer Aufmerksamkeit hätte entgehen können, sahen wir den Schneeschuh
+aus dem Schnee aufragen. Froh und vergnügt richteten wir den Kurs darauf, mußten
+aber 5 km marschieren, bis wir endlich bei dem Vorratslager eintrafen.
+
+Feststimmung herrschte unter der kleinen Schar, als wir dort ankamen und damit
+also den Ort erreicht hatten, den wir für den wichtigsten der ganzen Heimreise
+hielten. Aber die große Bedeutung dieses Vorratslagers hatte ihren Grund nicht
+in erster Linie in den Lebensmitteln, die es enthielt, sondern darin, daß wir
+von da an den Weg auf die Eissplatte wiederfinden konnten. Als wir das Lager nun
+tatsächlich erreicht hatten, drängte sich uns seine Wichtigkeit noch mehr auf
+als vorher. Denn obgleich wir nun infolge der vorgenommenen Peilungen genau
+wußten, wo der Abstieg war, konnte man doch keine Spur davon entdecken. Die
+Hochebene schien auf dem Gebirge weiterzugehen und keinerlei Zugang zu dem
+darunter liegenden Gelände zu gestatten. Und doch wies es der Kompaß nach, und
+es mußte ein Zugang da sein, auf dem wir hinabkommen konnten.
+
+Der Berg, auf den wir nun den ganzen Tag über zumarschiert waren, ohne ihn zu
+erkennen, war also der Fridtjof Nansen-Berg. Ja, die Lichtverhältnisse bewirkten
+eine große Veränderung im Aussehen, das wurde uns wieder einmal deutlich klar.
+
+Das erste, was wir bei der Ankunft am Vorratslager taten, war, die darauf
+liegenden Hundeleiber zu verarbeiten. Große, schwere Stücke wurden weggehauen
+und unter die Hunde verteilt. Diese sahen zuerst etwas überrascht drein — an so
+große Rationen waren sie nicht gewöhnt. Drei von den Hundeleibern wurden zur
+Zwischenfütterung auf dem Abstieg auf die Schlitten gelegt.
+
+Die Metzig war auch diesmal kein ganz gastlicher Ort. Allerdings herrschte jetzt
+kein so entsetzliches Wetter wie bei unserem ersten Aufenthalt, aber es wehte
+doch eine recht frische Brise bei — 23° C, die uns jetzt nach den letzten
+glutheißen Tagen durch Mark und Bein ging und uns nicht ermunterte, länger als
+unbedingt notwendig war, zu verweilen. Sobald wir darum mit der Fütterung der
+Hunde fertig waren und die —Schlitten in Ordnung gebracht hatten, zogen wir von
+dannen.
+
+Obgleich das Gelände gleich von Anfang an den Eindruck eines jähen Abstiegs
+gemacht hatte, bekamen wir, als es nun endlich hinabging, doch noch anderes zu
+kosten. Es ging nicht allein steil abwärts, sondern wir kamen auch so in Schuß,
+daß wir mit aller Anstrengung haltmachten, um Bremsen unter die Schlitten zu
+legen. Je weiter wir hinabkamen, desto breiter wurde der scheinbare Weg, und
+schließlich zeigte sich auch unser alter bekannter Aufstieg. Nun lag der Ole
+Engelstad-Berg vor uns, ebenso kalt und schneebedeckt, wie wir ihn zuerst
+gesehen hatten.
+
+Als wir um diesen Berg herumkamen, gelangten wir auf den großen, steilen Hügel,
+der mich auf dem Hinweg nach dem Süden zur Bewunderung dessen, was meine
+Gefährten und die Hunde im Klettern leisteten, hingerissen hatte. Aber jetzt
+hatte ich noch bessere Gelegenheit, zu sehen, wie steil dieser Aufstieg
+tatsächlich gewesen war. Wir mußten viele und große Bremsen anlegen, ehe wir die
+Fahrtgeschwindigkeit auf „gemäßigte Eile“ gesetzt hatten. Aber selbst bei dieser
+verhältnismäßigen „Langsamkeit“ ging es rasch abwärts, und bald hatten wir
+diesen ersten Teil des Abstiegs glücklich hinter uns.
+
+Um etwaigen Windstößen von der Ebene her nicht so sehr ausgesetzt zu sein,
+machten wir einen Bogen, so daß wir in Lee des Engelstadbergs kamen, und
+schlugen dann wohlzufrieden mit der Leistung dieses Tages das Lager auf. Auch
+jetzt lag hier tiefer, loser Schnee, wie beim ersten Male, und nur mit Mühe
+fanden wir einen einigermaßen guten Zeltplatz. Wir merkten bald, daß wir um ein
+gutes Stück niedriger waren und uns zwischen den Bergen befanden; das Wetter war
+jetzt ganz still, und die Sonne brannte wie an einem Sommertag daheim. Es war
+mir auch, als könnte ich schon leichter und freier atmen — aber vielleicht
+bildete ich mir es auch nur ein.
+
+Am folgenden Morgen waren wir wieder unterwegs. Der Anblick, der sich uns beim
+Heraustreten aus dem Zelt darbot, gehört zu denen, die für immer in unserer
+Erinnerung eingegraben sind. Das Zelt stand in dem engen Einschnitt zwischen dem
+Fridtjof Nansen und dem Ole Engelstad. Die Sonne, die nun tief im Süden stand,
+war von dem zweiten dieser Berge ganz verdeckt, so daß unser Lagerplatz im
+tiefsten Schatten lag; aber gerade vor uns auf der andern Seite hob der
+Nansenberg seine prachtvolle eisbedeckte Zinne hoch empor und gleißte und
+funkelte in den Strahlen der Mitternachtssonne. Die glänzend weiße Farbe des
+Gipfels ging abwärts langsam in hellblaue Färbung über, die tiefer und tiefer
+wurde, immer dunkelblauer, bis sie im Schatten unterging. Aber ganz unten, dicht
+beim Heiberggletscher, zeigte sich seine eisbedeckte Seite wieder — ernst und
+dunkel trat die Gebirgskette hervor. Der Engelstadberg lag im Schatten, aber auf
+seinem Gipfel ruhte eine zarte, rosig schimmernde, goldumsäumte Federwolke. Auf
+seinem Abhang lagen Eisblöcke wild durcheinander zerstreut. Und noch weiter gen
+Osten erhob sich der Peter Christophersen-Berg teils in nachtschwarzen Schatten,
+teils in strahlend hellem Sonnenglanz — ein wunderbar schöner Anblick! Ringsum
+war alles still, ganz still. Man fürchtete sich förmlich, diese einzig schöne
+Naturpracht zu stören.
+
+Dieses Gelände kannten wir ja nun vom letztenmal her so genau, daß wir ohne
+Umwege geradeaus gehen konnten. Eine Lawine nach der andern kam heruntergesaust
+— Peter Christophersen zog seinen Wintermantel aus.
+
+Die Bodenbeschaffenheit war noch genau dieselbe — loser, ziemlich tiefer Schnee.
+Man glitt übrigens ganz leicht darüber hin, und es ging ja auch abwärts. Am
+Rande des Bergkamms machten wir halt, um uns auf den Abstieg vorzubereiten.
+Unter die Schlittenkufen wurden Bremsen gelegt und je zwei Schneeschuhstöcke zu
+einem einzigen festen zusammengebunden. Es handelte sich ja darum, plötzlich
+anhalten zu können, falls wir während des Abstiegs von irgendeiner Spalte
+überrascht werden sollten.
+
+Wir Schneeschuhläufer machten den Anfang. Die Bahn auf dem steilen Abhang, wo
+genau so viel loser Schnee lag, daß man gut steuern konnte, war geradezu ideal.
+In sausender Fahrt ging es abwärts, und schon nach wenigen Minuten standen wir
+drunten auf dem Heiberggletscher. Bei den Schlittenlenkern verlief die Sache
+indes nicht ganz so rasch. Sie folgten zwar in unserer Spur, mußten aber bei dem
+steilen Abstieg äußerst vorsichtig sein.
+
+An diesem Abend wurde das Lager genau auf demselben Platz aufgeschlagen, wo wir
+auch am 19. November, ungefähr 900 m über dem Meere, unser Zelt aufgerichtet
+hatten. Von hier aus konnte man den Lauf des Heiberggletschers bis zum Ende, wo
+er in die Eisplatte übergeht, verfolgen. Er sah gleichmäßig und gut aus, und wir
+beschlossen daher, ihm zu folgen, anstatt über die Felsen zu klettern, wie wir
+es auf dem Weg nach dem Pol getan hatten. Etwas weiter würde ja vielleicht
+dieser Weg sein, aber rascher würde es aller Wahrscheinlichkeit nach doch gehen.
+
+In den letzten Tagen hatten wir wieder eine neue Zeiteinteilung gemacht. Die
+langen Ruhepausen waren uns jetzt geradezu unerträglich, und wir wollten sie um
+jeden Preis los werden. Eine andere, sehr wichtige Seite der Sache war auch, daß
+wir bei einer guten Einteilung eine Menge Zeit sparen und mehrere Tage früher,
+als berechnet worden war, in Framheim eintreffen konnten.
+
+Nachdem lange hin und her überlegt worden war, einigten wir uns dahin, daß wir
+28 km zurücklegen sollten, sodann eine sechsstündige Ruhepause machen, alsdann
+wieder 28 km zurücklegen und wieder sechs Stunden ruhen sollten usw. Auf diese
+Weise würde die durchschnittliche Länge unserer Tagesmärsche viel größer werden
+als bisher. Diese Einteilung wurde während des übrigen Teils unserer Fahrt
+beibehalten und unsere Reise dadurch wirklich um mehrere Tage abgekürzt.
+
+Der Marsch über den Heiberggletscher bot keine Schwierigkeiten. Nur beim
+Übergang des Gletschers in die Eisplatte stießen wir auf einige Spalten, die
+umgangen werden mußten.
+
+Am 7. Januar, morgens um 7 Uhr, machten wir halt an der Stelle des Landes, die
+die Mündung des Heiberggletschers bildet und sich dann nordwärts erstreckt. Eine
+Kenntnis von dem Land, unter dem wir jetzt lagen, hatten wir noch nicht
+bekommen; aber das war ja ganz natürlich, da wir es jetzt von der
+entgegengesetzten Seite sahen; wir wußten nur bestimmt, daß wir nun nicht mehr
+weit von unserem Hauptvorratslager entfernt waren.
+
+:::: { .wrap-100 .break-before }
+![„Neger“ in Betrachtungen.](Die_Eroberung_des_Suedpols_Vol_II_630.jpg "„Neger“ in Betrachtungen."){#b630}
+::::
+
+Am Nachmittag waren wir wieder unterwegs. Auf einem kleinen Bergrücken, über den
+wir gleich nach dem Aufbruch hinüber mußten, meinte Bjaaland, er könne das Lager
+drunten auf der Eisplatte wahrnehmen, und nicht viel später konnten wir auch den
+Bettygipfel und unseren ganzen Aufstieg übersehen. Nachdem wir alles genau mit
+dem Fernglas betrachtet hatten, zeigte es sich, daß das, was Bjaaland zu sehen
+gemeint hatte, tatsächlich das Vorratslager war. Wir richteten daher den Kurs
+gerade darauf, und nach wenigen Augenblicken standen wir wieder auf der
+Eisplatte — am 7. Januar, abends 11 Uhr — nach einem 51 tägigen Aufenthalt auf
+dem Festland. Am 18. November hatte der Aufstieg begonnen.
+
+Das Vorratslager wurde glücklich erreicht, und wir fanden alles in bester
+Ordnung. Es mußte hier tüchtig heiß gewesen sein, denn das hohe, starke Lager
+war in der Sonne geschmolzen und zu einem kleinen Schneehügel zusammengesunken.
+Die Pemmikanrationen, die der direkten Berührung der Sonnenstrahlen ausgesetzt
+gewesen waren, hatten die merkwürdigsten Formen angenommen, und ranzig waren sie
+natürlich auch geworden. Wir machten gleich die Schlitten marschbereit, indem
+wir den Vorrat aus dem Lager darauf packten. Einen Teil von unseren alten
+Kleidern, die wir nun die ganze Zeit über von hier bis zum Pol und wieder zurück
+getragen hatten, ließen wir hier zurück. Nachdem das Umpacken besorgt und auch
+sonst alles in Ordnung war, begaben sich ein paar von uns auf den Bettygipfel
+und sammelten so viele verschiedene Gesteinsarten, als sie bekommen konnten.
+Indessen bauten die andern eine große Warte aus Steinen, in der ein Behälter mit
+17 Litern Petroleum, zwei Pakete Zündhölzer mit je 10 Schachteln sowie ein
+Bericht unserer Reise zurückgelassen wurden. Vielleicht können diese Sachen in
+der Zukunft einmal jemand willkommen sein. Hier mußten wir „Fridtjof Nansen“,
+einen von Bjaalands Hunden, schlachten, da sich in der letzten Zeit eine
+schlimme Atemnot bei ihm eingestellt hatte, die so hinderlich für das arme Tier
+war, daß wir beschlossen, ihn von seinem Leiden zu befreien. So endete die
+Laufbahn des tapferen Fridtjof. Beim Zerlegen zeigte es sich, daß die Lunge
+vollkommen eingeschrumpft war; dessenungeachtet verschwanden seine irdischen
+Überreste ziemlich rasch in den Mägen seiner Genossen. Was sie an Umfang
+verloren gehabt hatten, schien keinen Einfluß auf die Güte gehabt zu haben.
+
+Der „Neger“, einer von Hassels Hunden, war schon während des Abstiegs von der
+Hochebene geschlachtet worden.
+
+So erreichten wir also diesen Lagerplatz wieder, wie berechnet worden war, mit
+12 Hunden und verließen ihn mit 11. Ich lese in meinem Tagebuch folgende
+Bemerkung: „Die Hunde sehen jetzt ebenso wohl aus wie bei unserer Abreise von
+Framheim.“
+
+Als wir einige Stunden später den Platz wieder verließen, hatten wir für 35 Tage
+Lebensmittel auf den Schlitten. Außerdem wartete unser ja auch bis zum 80. Grad
+auf jedem ganzen Grad ein Vorratslager. Es sah aus, als hätten wir das
+Vorratslager gerade im rechten Augenblick gefunden; denn als wir uns zum
+Aufbruch rüsten wollten, war die ganze Eisplatte von dichtem Schneetreiben
+verhüllt. Eine Kühlte aus Süden hatte sich eingestellt, und der Himmel war mit
+Wolken bedeckt. Schneegestöber von oben und Schneetreiben von unten vereinigten
+sich in wildem Tanz, so daß man fast nichts sehen konnte. Zum Glück hatten wir
+das Wetter im Rücken, so daß es uns wenigstens nicht ins Gesicht peitschte,
+woran wir auf dem Hinweg nur zu sehr gewöhnt worden waren. Die große Spalte, die
+sich, wie wir wußten, quer über unsere Marschrichtung hinzog, mahnte uns zu
+großer Vorsicht. Um alle Gefahr zu vermeiden, hatten sich Bjaaland und Hassel,
+die vorangingen, angeseilt.Der Schnee war sehr tief und sehr lose und die Bahn
+recht schwierig. Daß wir den erwarteten Spalten näher rückten, merkten wir
+glücklicherweise recht bald an einigen ganz kahl gewehten Eisrücken. Diese
+berichteten deutlich genug, daß hier Zerklüftungen stattgefunden hatten und noch
+größere überdies wahrscheinlich ganz in der Nähe zu erwarten waren.
+
+Plötzlich zerrissen die dichten Schneewolken, und die Sonne schien durch die
+wirbelnden Schneemassen hindurch. In demselben Augenblick brüllte auch schon
+Hanssen: „Bjaaland, halt!“ — Sie standen am Rande eines gähnenden Schlunds.
+Bjaaland selbst hatte Augen wie ein Luchs, aber seine ausgezeichnete
+Schneebrille — seine eigene Erfindung — hinderte ihn vollständig am Sehen. Nun,
+eine größere Gefahr hätte ihm, wenn er in die Spalte hineingepurzelt wäre,
+solange er mit Hassel zusammengebunden war, nicht gedroht; aber höchst
+unangenehm wäre es doch immerhin gewesen.
+
+Wie ich schon bemerkt habe, glaube ich, daß diese großen Zerklüftungen die
+Grenze zwischen der Eisplatte und dem Festland bilden. Diesmal schienen sie
+merkwürdigerweise auch die Grenze zwischen schlechtem und gutem Wetter zu
+bilden; denn jenseits davon — gegen Norden — lag die Eisplatte in hellem
+Sonnenschein, während gegen Süden der Schneesturm toller als je raste. Der
+Bettygipfel war der letzte Berg, der uns Lebewohl zuwinkte. Süd-Viktorialand
+hatte sich verborgen, um sich nicht mehr zu zeigen.
+
+Gleich nachdem wir in das Gebiet des Sonnenscheins eingetreten waren, stießen
+wir auf eine unserer großen Warten. Unser Kurs führte gerade darauf zu; das war
+nicht schlecht gesteuert, zumal es doch ganz blindlings hatte geschehen müssen.
+Um 9 Uhr abends erreichten wir das Vorratslager auf 85° s. Br. Jetzt konnten wir
+auch mit dem Hundefutter freigebig sein. Die Tiere bekamen doppelte
+Pemmikanmengen und außerdem so viel Haferzwieback, als sie nur wollten. Zwieback
+hatten wir jetzt in solcher Menge, daß wir förmlich damit hätten streuen können.
+Natürlich hätten wir einen großen Teil dieser Vorräte zurücklassen können, aber
+wir waren sehr froh, daß wir reichlich Lebensmittel hatten, und die Hunde
+schienen sich nicht das geringste aus dem vermehrten Schlittengewicht zu machen.
+Solange es so ausgezeichnet vorwärts ging wie jetzt, das heißt, daß Menschen und
+Tiere genau Schritt miteinander hielten, konnten wir es uns gar nicht besser
+wünschen.
+
+Aber das schöne Wetter, über das wir uns so sehr gefreut hatten, war nicht von
+langer Dauer. „Dasselbe Schweinewetter“ ist das Urteil über den nächsten Marsch
+in meinem Tagebuch. Der Wind war nach Nordwesten umgeschlagen und hatte Wolken,
+unsichtige Luft und dann auch recht hinderlichen Nebel mitgebracht. Trotz dieser
+ungünstigen Wetterverhältnisse kamen wir doch an einer Warte nach der andern
+vorüber und hatten, als der Marsch an diesem Tage zu Ende war, alle Warten
+gefunden, die wir auf diesen 28 km gebaut hatten. Aber, wie ich schon oben
+gesagt habe, wir verdanken dies nur Hanssens ausgezeichneten Augen.
+
+Auf dem Hinweg zum Pol hatten wir ziemlich viel Seehundsfleisch mitgenommen und
+es in den Vorratslagern auf der Eisplatte verteilt; so konnten wir nun täglich
+frisches Fleisch essen. Es war auch nicht ganz ohne Absicht geschehen; denn wenn
+sich Skorbut unter uns gezeigt hätte, wäre das Fleisch unbezahlbar gewesen. Doch
+nun, da wir alle so frisch und gesund waren wie nur je, bildeten die
+Seehundschnitzel nur eine höchst angenehme Abwechslung in dem Speisezettel,
+weiter nichts.
+
+Die Temperatur war, seit wir auf die Eisplatte herabgekommen waren, gestiegen
+und hielt sich gleichmäßig auf — 10° C. Es wurde uns so heiß in den
+Schlafsäcken, daß wir sie umdrehen und die Haare nach außen wenden mußten. Das
+half. Wir atmeten leichter und waren sehr froh darüber.
+
+„Es ist genau, wie wenn man in einen Eiskeller hineinkommt“, bemerkte einer. Ja,
+es war dasselbe Gefühl, wie wenn man an einem warmen Sommertag aus dem
+Sonnenbrand in kühlen Schatten kommt.
+
+Mittwoch, den 10. Januar, steht in meinem Tagebuch: „Dasselbe Schweinewetter,
+Schnee, Schnee und wieder Schnee! Wird es nie mehr zu schneien aufhören? Dazu
+ein Nebel, bei dem man keine 10 m voraussieht. Temperatur — 8° C. Überall auf
+den Schlitten Nässe und schmelzender Schnee. Alles wird naß. Haben nicht eine
+Warte in diesem unsichtigen Wetter gefunden. Der Schnee war im Anfang sehr tief
+und die Bahn außerordentlich schwierig, aber die Hunde brachten die Schlitten
+doch recht gut vorwärts.“
+
+Am Abend dieses Tages besserte sich indes glücklicherweise das Wetter noch, und
+als wir abends um 10 Uhr unsern Marsch begannen, war es verhältnismäßig sichtig.
+Es dauerte nicht lange, bis wir eine unserer Warten entdeckten; sie lag
+westwärts in ungefähr 200 m Entfernung; demgemäß waren wir nicht sehr weit von
+unserem Kurs abgekommen, und wir machten den kleinen Umweg bis zu ihr hin; denn
+es war uns sehr wichtig, zu sehen, ob unser Besteck in Ordnung war. Die Warte
+war vom Sturm und Sonnenschein wohl etwas mitgenommen, aber wir fanden doch den
+darin niedergelegten Bericht, der aussagte, daß diese Warte am 15. November auf
+84° 26´ s. Br. gebaut worden war. Desgleichen gab er uns auch an, welchen Kurs
+wir nach unserem Kompaß steuern mußten, um die nächste Warte, die 5 km von
+dieser entfernt lag, zu finden.
+
+Als wir diese Warte, die wie ein guter alter Freund Wache gehalten hatte,
+verließen und den von ihr angegebenen Kurs einschlugen, kamen plötzlich und zu
+unserer unsäglichen Überraschung zwei große Raubmöven auf uns zugeflogen; sie
+umkreisten uns ein paarmal und ließen sich dann auf der Warte nieder. Ob wohl
+ihr, die ihr diese Zeilen leset, ahnen könnt, welche Wirkung der Anblick dieser
+beiden Vögel auf uns ausübte? Wohl kaum! Botschaft brachten sie uns, Botschaft
+aus dem Reich der Lebendigen herein in dieses Reich des Codes — Botschaft von
+allem, was wir lieb hatten! Ich glaube, wir waren alle von demselben Gedanken
+beseelt.
+
+Die Vögel gönnten sich indes nicht lange Ruhe, sie, die ersten Boten aus der
+andern Welt. Sie saßen einen Augenblick still da und überlegten wohl, wer wir
+wären, hoben dann die Schwingen und flogen in südlicher Richtung weiter.
+Rätselhafte Vögel! Nun waren sie gerade halbwegs von Framheim bis zum Pol, aber
+trotzdem flogen sie weiter landeinwärts. Wollten sie wohl auf die andere Seite
+jenseits des Pols?
+
+Diesmal endigte unser Marsch an unserer Warte auf 84° 14´. Wenn wir an so einer
+Warte lagerten, überkam uns immer ein merkwürdig beruhigendes frohes Gefühl,
+denn dann hatten wir immer einen sicheren Ausgangspunkt für den folgenden
+Marsch. Um 4 Uhr morgens kamen wir an, und einige Stunden später wurde der neue
+Marsch angetreten, der uns 55 km näher nach Framheim brachte. Nach unserer
+jetzigen Einteilung wurden einen über den anderen Tag solche lange Märsche
+gemacht. Es ist das beste Zeugnis für unsere Hunde, das ihnen ausgestellt werden
+kann — an dem einen Tag 28 km, am nächsten 55 km und so frisch weiter den ganzen
+Heimweg.
+
+Die beiden Vögel — so angenehm auch das erste Erscheinen auf uns gewirkt hatte —
+lenkten indes meine Gedanken allmählich in eine ganz andere Richtung, die mich
+durchaus nicht behaglich berührte. Es fiel mir nämlich ein, daß diese beiden
+wohl nur die Vertreter einer größeren Schar dieser gierigen Vögel seien, die nun
+all das frische Fleisch verschlingen würden, das wir so mühselig mitgeführt und
+in dieser Einöde auf unseren Vorratslagern verteilt hatten. Es ist
+unglaublich, was ein Schwarm dieser Raubvögel vertilgen kann; mag das Fleisch
+auch gefroren und steinhart sein, darum kümmern sie sich gar nicht, ja sie
+würden es fressen, auch wenn es bedeutend härter als Eisen wäre. In Gedanken sah
+ich nun von den Seehundleibern, die wir auf 80° s. Br. liegen hatten, nichts
+mehr als die Knochen, und von den verschiedenen Hunden, die wir auf dem Weg nach
+dem Pol geschlachtet und oben auf die Warten gelegt hatten, sah ich nicht einmal
+mehr so viel. Nun, es war ja möglich, daß ich es mir in Gedanken zu schwarz
+ausmalte und es in Wirklichkeit doch etwas heller aussah, vorderhand wollte ich
+es jedenfalls hoffen.
+
+Das Wetter und die Bodenbeschaffenheit wurden allmählich wieder besser; es sah
+wirklich aus, als werde es immer günstiger, je weiter wir uns vom Land
+entfernten; schließlich war beides geradezu vollkommen. Die Sonne glänzte an
+einem wolkenlosen Himmel, und die Schlitten glitten über die schöne gleichmäßige
+Oberfläche so leicht und hurtig hin, wie wir es nur wünschen konnten. Bjaaland,
+der schon vom Pol an das Amt des Vorläufers übernommen hatte, machte seine Sache
+sehr gut. Aber — das Sprichwort, kein Mensch ist vollkommen — paßte schließlich
+auch auf unsern guten Bjaaland. Keinem — wer es auch immer war — gelang es, eine
+ganz gerade Linie einzuhalten, wenn er sich nicht nach irgendeinem Merkzeichen
+richten konnte. Und noch viel schwieriger ist es, wenn man, wie es bei uns so
+oft der Fall war, blindlings weitergehen muß. Die meisten werden da bald nach
+der einen, bald nach der andern Seite hinausbiegen, um schließlich nach allem
+Tasten und Suchen wieder in die rechte Linie hineinzugelangen.
+
+Aber bei Bjaaland war es ganz anders, er war ein ausgemachter Rechtsläufer. Ich
+sehe ihn noch vor mir: Hanssen hat auf dem Kompaß die Richtung eingestellt, der
+er zu folgen hat, und Bjaaland dreht sich nun, stellt die Schneeschuhe in der
+angegebenen Richtung und beginnt energisch den Marsch. Man sieht seinen
+Bewegungen deutlich an, daß er die Absicht hat, auf Leben und Tod, koste es, was
+es wolle, die Richtung einzuhalten. Er schlägt energisch mit den Schneeschuhen
+aus, daß der Schnee hoch aufstiebt, und sieht starr gerade aus. Aber das
+Ergebnis war schließlich immer dasselbe. Hätte Hanssen den guten Bjaaland
+weitermachen lassen, ohne ihn zu warnen, würde er wohl einen äußerst hübschen
+Kreis gemacht und sich nach Ablauf einer Stunde wieder auf seinem Ausgangspunkt
+befunden haben. Vielleicht war es aber, wenn man alles mit in Betracht zieht,
+schließlich doch kein Fehler, denn wir wußten dadurch immer mit unfehlbarer
+Sicherheit, daß wir uns, wenn wir aus der Wartenreihe herausgekommen waren,
+rechts davon befanden, und also westwärts danach zu suchen hätten. Dies war uns
+wirklich mehrere Male von großem Nutzen; und wir wurden allmählich ganz vertraut
+mit Bjaalands rechtsseitigen Neigungen.
+
+Am Sonntag, den 16. Januar, sollten wir nach unserer Berechnung das Vorratslager
+auf 83° s. Br. erreichen; dies war das letzte von denen, die nicht auch in der
+Quere bezeichnet waren, und also unser letzter kritischer Punkt.
+
+Der Tag war nicht ganz dazu geeignet, „die Nadel in dem Bündel Heu“ zu finden.
+Von Anfang an stilles Wetter mit so dichtem Nebel, daß wir kaum ein paar Meter
+voraussehen konnten! Während des ganzen Marsches sahen wir nicht eine einzige
+Warte. Um 4 Uhr nachmittags war nach dem Meßrad die Entfernung zurückgelegt, und
+wir sollten uns nun nach der Berechnung auf 83° s. Br. am Vorratslager befinden.
+Aber nirgend war etwas zu sehen, das einem Vorratslager ähnlich gesehen hätte.
+So beschlossen wir, Halt zu machen, unser Zelt aufzuschlagen und abzuwarten, bis
+das Wetter sich aufklärte. Während wir eben beim Zeltaufrichten waren, zerriß
+plötzlich die Wolkendecke, und da, nur wenige Meter entfernt — westwärts
+natürlich — lag unser Vorratslager!
+
+In aller Eile rafften wir das Zelt zusammen, packten es auf den Schlitten und
+fuhren zu dem Vorratshügel hin. Dieser zeigte sich ganz unberührt, nirgends war
+ein Zeichen zu entdecken, daß die Vögel da einen Besuch abgestattet hätten. Aber
+was war das? Frische kräftige Hundespuren in dem neugefallenen Schnee! Das
+mußten die Spuren von jenen Ausreißern sein, die uns auf dem Weg nach dem Süden
+abhanden gekommen waren. Nach den Spuren zu urteilen, hatten sie längere Zeit
+hier in Lee des Vorratslagers gelegen. Zwei tiefe Eindrücke sprachen deutlich
+dafür. Und anderes noch fand sich, das auch deutlich dafür sprach, daß sie
+genügend zu fressen gehabt hatten. Aber wo in aller Welt hatten sie die
+Nahrungsmittel herbekommen! Das Vorratslager war ganz unberührt, und zwar obwohl
+die Pemmikanstücke offen und leicht zugänglich dalagen. Außerdem war der Schnee
+des Vorratslagers nicht so hart, daß die Hunde ihn nicht hätten wegkratzen und
+das ganze Lager ausfressen können. Von den Hunden selbst war weiter nichts zu
+sehen, sie hatten den Ort wieder verlassen, frische Spuren deuteten nach Norden.
+Wir untersuchten die Spuren sehr genau und stellten fest, daß sie höchstens zwei
+Tage alt waren. Die Spuren führten, wie gesagt, nordwärts, und auf unserm
+nächsten Marsch trafen wir noch ab und zu auf sie, auch bei der Warte auf 82°
+45´, wo wir Halt machten, führten sie noch immer nordwärts. Auf 82° 24´ s. Br.
+aber liefen sie die kreuz und quer und verloren sich schließlich in gerade
+westlicher Richtung; das war das letzte, was wir von ihnen sahen. Aber fertig
+waren wir darum durchaus noch nicht mit den Hunden, oder besser gesagt mit ihren
+Taten.
+
+Bei der Warte auf 82° 20´ s. Br. wurde gelagert. Der Hündin Else, der wir damals
+ihren Platz oben auf dieser Warte gegeben hatten, war heruntergefallen und lag
+daneben. Die Sonne hatte die Unterlage weggeschmolzen. Hier waren also die
+ausgerissenen Hunde nicht gewesen, denn sonst hätten wir Else nicht unbeschädigt
+wiedergefunden, das war sicher und gewiß.
+
+Nach diesem Marsch wurde bei der Warte auf 82° 15 s. Br. angehalten und das
+Fleisch der Else ausgeteilt. Obgleich es in der starken Sonnenhitze gelegen
+hatte, war es, nachdem etwas Schimmel abgekratzt war, noch ganz gut, wenn es
+auch etwas alt roch; aber unsere Hunde waren nicht wählerisch, wenn es sich um
+Fleisch handelte.
+
+Am 17. Januar erreichten wir das Vorratslager auf 82° s. Br. Schon von weitem
+konnten wir wahrnehmen, daß hier nicht dieselbe Ordnung herrschte, in der wir es
+verlassen hatten, und als wir ganz hingelangt waren, sahen wir gleich, was
+geschehen war. Die unzähligen Hundefährten, durch die der Platz um das Lager
+ganz fest getreten war, zeigten deutlich, daß sich die Ausreißer hier längere
+Zeit aufgehalten hatten. Mehrere Kisten in der Niederlage waren heruntergefallen
+— wahrscheinlich aus demselben Grund wie der Körper der Else — und in eine von
+den Kisten waren die Schlingel von Hunden eingedrungen. Von dem Inhalt —
+Zwieback, Pemmikan — war selbstverständlich nichts mehr da. Aber das tat jetzt
+nichts, denn wir hatten Nahrungsmittel im Überfluß. Die beiden Hundeleiber, die
+wir oben auf das Vorratslager gelegt hatten — Uranus und Jaala — waren auch
+verschwunden, nicht einmal ihre Zähne waren noch übrig. Von Lussi, die die Köter
+auf 82° 3´ s. Br. aufgefressen hatten, waren doch wenigstens die Zähne noch da
+gewesen. Jaalas acht Junge lagen noch oben auf einer Kiste; merkwürdigerweise
+waren sie nicht heruntergefallen. Übrigens hatten die Biester auch einige
+Schneeschuhbindungen und Ähnliches verspeist. Ein eigentlicher Verlust war dies
+alles nun nicht für uns, aber wer konnte wissen, welchen Weg diese Untiere
+eingeschlagen hatten? Wenn es ihnen geglückt war, die Niederlage auf 80° s. Br.
+zu finden, dann hatten sie natürlich unseren dortigen Vorrat an Seehundfleisch
+aufgefressen, und dies wäre sehr ärgerlich gewesen, selbst wenn es weder für uns
+noch für unsere Tiere eine eigentliche Gefahr bedeutete. Hatten wir erst 80° s.
+Br. erreicht, dann kamen wir auch vollends nach Framheim. Vorläufig mußten wir
+uns damit trösten, daß wir keine Spuren sahen, die sich in nördlicher Richtung
+fortsetzten.
+
+Hier auf 82° s. Br. gönnten wir uns eine kleine Festmahlzeit, und die
+Schokoladespeise, die Wisting zum Nachtisch gab, steht noch in lebhafter
+Erinnerung. Wir stellten ihr alle das Zeugnis aus, daß sie die Vollkommenheit in
+noch höherem Grad erreicht hatte, als es bisher je einer Schokoladespeise
+gelungen war. Das Rezept kann ich auch verraten: „Zwiebackbrosamen, Milchpulver
+und Schokolade werden in einen Topf mit kochendem Wasser getan“, aber was später
+damit geschieht, weiß ich nicht. Um dies zu erfahren, muß man sich an Wisting
+wenden.
+
+Zwischen 82° und 81° s. Br. trafen wir auf unsere alten Merkzeichen von der
+dritten Vorratslagerreise. Die Strecke war damals mit gespaltenen Kistenbrettern
+in Abständen von je einer Seemeile gekennzeichnet worden. Das war im März 1911
+gewesen, und jetzt folgten wir diesen Holzstäben in der zweiten Hälfte des
+Januar 1912. Die Reihe dieser Kennzeichen schloß auf 81° 33's. Br. mit zwei auf
+einem Schneesockel aufgepflanzten Kistenbrettern ab.
+
+Der Schneesockel war noch ganz schön und unbeschädigt. Doch was wir am 19.
+Januar sahen, will ich mein Tagebuch berichten lassen.
+
+„Außergewöhnlich schönes Wetter heute. Eine leichte südsüdwestliche Brise, die
+während unseres Marsches den Himmel ganz rein fegte. Auf 81° 20´ stellten sich
+unsere alten großen Eispressungen quer vor uns auf, und wir sahen jetzt viel
+mehr von ihnen als jemals früher. Sie erstreckten sich, soweit das Auge reichte,
+als eine lange Reihe von Kämmen und Gipfeln in nordöstlichsüdwestlicher
+Richtung. Groß war daher unsere Überraschung, als wir nach kurzer Zeit in
+derselben Richtung hohes, kahles Land und nicht lange nachher zwei große weiße
+Gipfel in südöstlicher Richtung, vermutlich auf ungefähr 82° s. Br., erblickten.
+An der Luft konnte man sehen, daß das Land sich in nordost-südwestlicher
+Richtung erstreckt. Es muß dasselbe Land sein, das sich auf ungefähr 84° s. Br.
+am Horizont verlor, als wir beim Aufstieg 1200 m hinaufgekommen waren und von da
+über die Eisplatte hinschauten.
+
+Wir haben jetzt so gute Verbindungen, daß wir das zusammenhängende Land, Carmen
+Silva-Land, ohne Zögern zeichnen können. Das Gelände landeinwärts ist furchtbar
+zerklüftet: Spalten und Preßeis, wellenförmige Hügel und Täler kreuz und quer.
+Wir werden morgen schon Fühlung mit ihnen bekommen.
+
+Obgleich wir, nach dem, was wir gesehen hatten, darauf schließen durften, daß
+sich Carmen Silva-Land von 86° s. Br. herzu bis ungefähr 81° 30´ s. Br. und
+möglicherweise weiter nach dem Nordostrand erstreckt, wage ich doch nicht, es so
+auf der Karte zu verzeichnen. Ich habe mich also damit begnügt, dem Land von
+86°-84° s. Br. den Namen „Carmen Silva-Land“ zu geben, während ich das übrige
+„Andeutung von Land“ genannt habe. Es wird für einen Forscher eine lohnende
+Aufgabe sein, die Verhältnisse in diesen Gebieten näher zu untersuchen.
+
+Wie wir uns wohl gedacht hatten, kamen wir auf dem folgenden Marsch in Berührung
+mit dem zerklüfteten Gelände. Dreimal waren wir nun schon über diese Strecke
+hingezogen, ohne wirklich sichtiges Wetter gehabt zu haben. Diesmal aber wurde
+es uns zuteil, und so konnten wir sehen, wie dieses Gelände eigentlich
+beschaffen war. Die Unebenheiten begannen auf 81° 12´ s. Br. und dehnten sich
+von Norden nach Süden nicht sehr weit aus, möglicherweise 5 km. Wie weit sie
+sich indes in ostwestlicher Richtung erstrecken, läßt sich nicht gut sagen,
+jedenfalls aber so weit das Auge reichte. Große Stücke der Oberfläche waren
+eingestürzt, und an ihrer Stelle gähnten grauenvolle Abgründe, weit genug, um
+viele Karawanen von der Größe der unserigen zu verschlingen. Von diesen offenen
+Löchern zogen sich breite Spalten nach allen Seiten hin, und außerdem sah man
+überall Kuppen und kleine Hügel. Daß wir hier unbeschädigt hindurchgekommen
+waren, ist fast das merkwürdigste von allem. So leichtfüßig und so rasch wie nur
+möglich ließen wir dieses Gelände hinter uns. Hanssen war schon halb in einer
+Spalte drunten, kam aber doch glücklich wieder heraus.
+
+Das Vorratslager auf 81° s. Br. war in schönster Ordnung, nirgends eine
+Hundespur zu entdecken. Unsere Hoffnung, daß das Lager auf 80° s. Br. auch
+unversehrt sei, stieg daher bedeutend.
+
+Auf 80° 45' s. Br. lag unser erster geschlachteter Hund „Bauer“. Er war
+besonders fett und wurde deshalb auch besonders hoch geschätzt. Aus Pemmikan
+machten sich die Hunde nicht mehr viel. An 22. Januar kamen wir auf 80° 23´ s.
+Br. an unserer letzten Warte vorüber. So froh wir auch waren, daß sie hinter uns
+lag, so kann ich doch nicht leugnen, daß wir sie mit einer gewissen Wehmut
+verschwinden sahen. Wir hatten unsere Warten liebgewonnen; wo wir auf sie
+trafen, begrüßten wir sie wie alte Freunde. Viele und große Dienste haben uns
+diese stummen Wächter auf unseren langen einsamen Wegen geleistet.
+
+An demselben Tag erreichten wir unser großes Vorratslager auf 80° s. Br. Nun
+fühlten wir uns so gut wie am Ziel. Bei der Ankunft sahen wir sofort, daß andere
+Leute hier tätig gewesen waren, nachdem wir es verlassen hatten, und wir fanden
+auch eine Mitteilung von Leutnant Prestrud, dem Leiter der Ostabteilung, daß er
+mit Stubberud und Johansen am 13. November mit zwei Schlitten, 16 Hunden und
+Ausrüstung für 30 Tage hier vorübergekommen war. Daraufhin war ja alles erklärt
+und vollständig in Ordnung.
+
+Gleich nach der Ankunft ließen wir die Hunde los, die sofort nach dem
+Seehundfleischhaufen rannten, der in unserer Abwesenheit weder von Vögeln noch
+von Hunden angegriffen worden war. Doch rannten die Hunde nicht in erster Linie,
+um zu fressen auf ihn zu, sondern vielmehr um sich zu balgen. Hier war sichtlich
+etwas, das der Mühe wert war, sich darum zu raufen. Sie liefen ein paarmal um
+die Seehundleiber herum, schielten bald nach dem Fleisch, bald nach ihren
+Gefährten und fuhren dann in wildem Kampf aufeinander los. Erst als dies
+vollbracht war, gingen sie hin und legten sich um ihre Schlitten her in den
+Schnee.
+
+Das Vorratslager auf 80° s. Br. ist jetzt noch groß und reichhaltig und gut
+bezeichnet, und so ist es nicht ausgeschlossen, daß es später einmal jemand von
+Nutzen sein kann.
+
+Von dem Weg von 80° s. Br. bis Framheim ist so oft die Rede gewesen, daß nichts
+Neues mehr darüber zu berichten ist. Am 26. Januar, morgens um 4 Uhr, erreichten
+wir unser gutes liebes Haus wieder mit zwei Schlitten und 11 Hunden. Alle Tiere
+und auch die Menschen strotzten von Gesundheit. Da standen wir in der frühen
+Morgenstunde vor der Haustüre und warteten aufeinander. In geschlossener Reihe
+wollten wir uns vorstellen. Es war so still und ruhig drinnen — sie schliefen
+wohl alle. Wir traten ein. Stubberud fuhr in seiner Koje auf, starrte uns an und
+hielt uns gewiß für Gespenster. Nun erwachte einer nach dem andern aus seinem
+Schlaf, und sie konnten zuerst gar nicht fassen, was geschehen war. Aber dann
+war des Begrüßens in allen Tonarten kein Ende, und lauter Jubel brach los, als
+sie hörten, daß wir alle wohl und gesund zurückgekehrt seien.
+
+„Und wie ging's mit dem Pol? Seid ihr am Pol gewesen?“
+
+„Ja natürlich, sonst hättet ihr uns wohl kaum wiedergesehen.“
+
+Dann wurde der Kaffeekessel aufgesetzt, und die Pfannkuchen dufteten wie in
+alten Zeiten. Wir Polfahrer aber stimmten alle darin überein, daß es draußen gut
+war, aber daheim viel besser. 99 Tage hatte die Reise gedauert, die
+zurückgelegte Entfernung betrug 3000 km.
+
+:::: { .wrap-100 .break-before }
+![Framheim bei der Rückkehr der Polabteilung.](Die_Eroberung_des_Suedpols_Vol_II_664.jpg "„Framheim bei der Rückkehr der Polabteilung"){#b664}
+::::
+
+Der Fram war am 9. Januar nach einer dreimonatlichen Reise von Buenos Aires
+wieder an der Eisplatte eingetroffen, und alles war wohl an Bord. Schlechtes
+Wetter hatte ihn gezwungen, wieder aus der Bucht hinauszufahren; doch schon am
+nächsten Tag meldete unser Ausguck, daß er heranfahre. Da wurde es lebendig im
+Lager. Den Pelz angezogen und mit den Hunden hinaus! Nun sollten die auf dem
+Fram sehen, daß die Hunde noch nicht erschöpft waren. Wir hörten den Motor
+pusten und stöhnen, sahen den Mastkorb über dem Rand der Eisplatte auftauchen,
+und schließlich glitt der Fram selbst sicher und ruhig hervor. Mit inniger
+Freude ging ich an Bord, um alle diese mutigen Leute zu begrüßen, die unter so
+vielen Gefahren und Entbehrungen den Fram zum Ziel geführt und unterwegs
+Ausgezeichnetes geleistet hatten. Alle sahen froh und vergnügt aus, aber keiner
+fragte nach dem Pol. Schließlich bemerkte Gjertsen: „Sind Sie dort gewesen?“ Das
+Gefühl, das mir dabei aus den Gesichtern meiner Gefährten entgegenstrahlte, kann
+kaum mit dem Wort „Freude“ bezeichnet werden, es war viel mehr als Freude. Ich
+zog mich mit Kapitän Nilsen in das Kartenhaus zurück und bekam dort meine Post
+nebst allen sonstigen Nachrichten. Drei Namen sind es, die hoch über alle andern
+emporragten, als ich so recht begriff, was erreicht war, — die Namen der drei,
+die mich unterstützten, als es am schlimmsten für mich stand. In ehrerbietiger
+Dankbarkeit werde ich ihrer immer gedenken; es sind
+
+:::: align-center
+König Haakon VII.<br />
+Professor Fridtjof Nansen,<br />
+Peter Christophersen.<br />
+::::
 
 :::
 
@@ -2888,3 +4466,5 @@ S. 136
 [^0607]: [*Liv-Gletscher*: vergleiche [Liv-Gletscher](https://de.wikipedia.org/wiki/Liv-Gletscher)]{.footnote}
 
 [^0608]: [Auf der Karte als Hundelager bezeichnet.]{.footnote}
+
+[^0609]: [Diese Aufzeichnungen wurden Herrn Oberlehrer Alexander zur Nachprüfung übergeben. Die Ergebnisse seiner Berechnung sind im 14. Abschnitt dieses Buches veröffentlicht.]{.footnote}

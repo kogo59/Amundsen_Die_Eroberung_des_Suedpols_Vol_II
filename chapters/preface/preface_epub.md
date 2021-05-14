@@ -103,13 +103,13 @@ Druck und Einband von R. Oldenbourg, München<br />
 * [Wisting richtet mit Hassels Hilfe seinen eingesunkenen Schlitten auf.](ch002.xhtml#b597)
 * [Wisting mit seinem Schlitten.](ch002.xhtml#b599)
 * [Hanssen hißt die Flagge auf Shackletons südlichster Breite.](ch002.xhtml#b607)
-* Lagerplatz und Niederlage auf 88° 25“ s. Br
-* Am Südpol
-* Helmer Hanssen mißt die Sonnenhöhe
-* Sverre Bassel macht am Pol Sonnenbeobachtungen
-* Amundsen in Wintertracht      (Tondruck)
-* „Neger“ in Betrachtungen
-* Framheim bei der Rückkehr der Polabteilung
+* [Lagerplatz und Niederlage auf 88° 25´ s. Br.](ch002.xhtml#b609)
+* [Am Südpol.](ch002.xhtml#b615)
+* [Helmer Hanssen mißt die Sonnenhöhe.](ch002.xhtml#b619)
+* [Sverre Hassel macht am Pol Sonnenbeobachtungen.](ch002.xhtml#b623)
+* [Amundsen in Wintertracht.](ch002.xhtml#b628)      (Tondruck)
+* [„Neger“ in Betrachtungen.](ch002.xhtml#b630)
+* [Framheim bei der Rückkehr der Polabteilung.](ch002.xhtml#b664)
 * Amundsen im Gespräch mit Peter Christophersen auf der Fahrt nach Buenos Aires
 * Unser letzter Platz am Eise       (Tondruck)
 * Ausschiffung der Hunde in Hobart
@@ -199,7 +199,7 @@ Druck und Einband von R. Oldenbourg, München<br />
 * 9 Seiten aus Amundsens Tagebuch in Urschrift
 
 ## Verzeichnis der Karten und Pläne.
-* Karte der nächsten Umgebung des Südpols
+* [Karte der nächsten Umgebung des Südpols.](ch002.xhtml#b611)
 * Schlittenreise der Ostabteilung Nov — Jan 1911-12
 * Karte des Roßmeers      (dreifarbig)
 * Vorder- und Seitenansicht der Heizanlage des Fram
