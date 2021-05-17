@@ -107,17 +107,17 @@ Druck und Einband von R. Oldenbourg, München<br />
 * [Am Südpol.](ch002.xhtml#b615)
 * [Helmer Hanssen mißt die Sonnenhöhe.](ch002.xhtml#b619)
 * [Sverre Hassel macht am Pol Sonnenbeobachtungen.](ch002.xhtml#b623)
-* [Amundsen in Wintertracht.](ch002.xhtml#b628)      (Tondruck)
+* [Amundsen in Wintertracht.](ch002.xhtml#b628)  (Tondruck)
 * [„Neger“ in Betrachtungen.](ch002.xhtml#b630)
 * [Framheim bei der Rückkehr der Polabteilung.](ch002.xhtml#b664)
-* Amundsen im Gespräch mit Peter Christophersen auf der Fahrt nach Buenos Aires
-* Unser letzter Platz am Eise       (Tondruck)
-* Ausschiffung der Hunde in Hobart
-* Treibeis nördlich vom Roßmeer
-* Der Fram im Treibeis       (Vierfarbendruck)
-* Im Takelwerk
-* Hobart
-* Die Framleute auf einem Landausflug in Tasmanien
+* [Amundsen im Gespräch mit Peter Christophersen auf der Fahrt nach Buenos Aires.](ch003.xhtml#b666)
+* [Unser letzter Platz am Eise.](ch003.xhtml#b667) (Tondruck)
+* [Ausschiffung der Hunde in Hobart.](ch003.xhtml#b670)
+* [Treibeis nördlich vom Roßmeer.](ch003.xhtml#b677)
+* [Der Fram im Treibeis.](ch003.xhtml#b684)  (Vierfarbendruck)
+* [Im Takelwerk.](ch003.xhtml#b689)
+* [Hobart](ch003.xhtml#b693)
+* [Die Framleute auf einem Landausflug in Tasmanien.](ch003.xhtml#b695)
 * Prestrud in Wintertracht        (Tondruck)
 * Felsengebirge auf König Eduard VII-Land
 * Seehundjagd
