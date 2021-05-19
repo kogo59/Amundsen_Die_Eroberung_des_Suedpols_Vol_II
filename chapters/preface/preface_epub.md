@@ -118,29 +118,29 @@ Druck und Einband von R. Oldenbourg, München<br />
 * [Im Takelwerk.](ch003.xhtml#b689)
 * [Hobart](ch003.xhtml#b693)
 * [Die Framleute auf einem Landausflug in Tasmanien.](ch003.xhtml#b695)
-* Prestrud in Wintertracht        (Tondruck)
-* Felsengebirge auf König Eduard VII-Land
-* Seehundjagd
-* Seehundmutter mit Jungem
-* Stubberud in Wintertracht
-* Auf dem Abfahrtsplatz    (Tondruck)
-* Lager der Ostabteilung
-* Das Lager wird am Morgen abgebrochen
-* Stubberud betrachtet das Gelände         (Tondruck)
-* Die Ostabteilung am Vorratslager
-* Ein hohes Kap auf der Roß-Eisplatte
-* Lotung der Meerestiefe auf dem Eise
-* Land in Sicht
-* Die Ersten auf König Eduard VII-Land
-* Die Ostabteilung auf festem Land
-* Unser Lager auf König Eduard VII-Land nach einem dreitägigen Sturm
-* Prestrud auf dem Gipfel des Scott-Felsens
-* Leutnant Prestrud
-* Auf dem Scott-Felsen
-* Mitglieder der japanischen antarktischen Forschungsreise
-* Ein Ureinwohner der Antarktis   (Tondruck)
-* Ein Weddell-Seehund
-* Eine Gruppe Adeliepinguine
+* [Prestrud in Wintertracht.](ch004.xhtml#b697) (Tondruck)
+* [Felsengebirge auf König Eduard VII-Land.](ch004.xhtml#b696)
+* [Seehundjagd](ch004.xhtml#b704)
+* [Seehundmutter mit Jungem.](ch004.xhtml#b705)
+* [Stubberud in Wintertracht.](ch004.xhtml#b708)
+* [Auf dem Abfahrtsplatz.](ch004.xhtml#b709)   (Tondruck)
+* [Lager der Ostabteilung.](ch004.xhtml#b711)
+* [Das Lager wird am Morgen abgebrochen.](ch004.xhtml#b713)
+* [Stubberud betrachtet das Gelände.](ch004.xhtml#b716)  (Tondruck)
+* [Die Ostabteilung am Vorratslager.](ch004.xhtml#b719)
+* [Ein hohes Kap auf der Roß-Eisplatte.](ch004.xhtml#b725)
+* [Lotung der Meerestiefe auf dem Eise.](ch004.xhtml#b727)
+* [Land in Sicht.](ch004.xhtml#b729)
+* [Die Ersten auf König Eduard VII-Land.](ch004.xhtml#b738)
+* [Die Ostabteilung auf festem Land.](ch004.xhtml#b739)
+* [Unser Lager auf König Eduard VII-Land nach einem dreitägigen Sturm.](ch004.xhtml#b751)
+* [Prestrud auf dem Gipfel des Scott-Felsens.](ch004.xhtml#b753)
+* [Leutnant Prestrud.](ch004.xhtml#b759)
+* [Auf dem Scott-Felsen.](ch004.xhtml#b761)
+* [Mitglieder der japanischen antarktischen Forschungsreise.](ch004.xhtml#b767)
+* [Ein Ureinwohner der Antarktis.](ch004.xhtml#b768)   (Tondruck)
+* [Ein Weddell-Seehund.](ch004.xhtml#b771)
+* [Eine Gruppe Adeliepinguine.](ch004.xhtml#b773)
 * Das abgebrochene Kap auf der Eisplatte
 * Oberleutnant der Marine Th. Nilssen    (Tondruck)
 * Schlittenfahrt in Funchal
@@ -200,7 +200,7 @@ Druck und Einband von R. Oldenbourg, München<br />
 
 ## Verzeichnis der Karten und Pläne.
 * [Karte der nächsten Umgebung des Südpols.](ch002.xhtml#b611)
-* Schlittenreise der Ostabteilung Nov — Jan 1911-12
+* [Schlittenreise der Ostabteilung Nov — Jan 1911-12](ch004.xhtml#b699)
 * Karte des Roßmeers      (dreifarbig)
 * Vorder- und Seitenansicht der Heizanlage des Fram
 * Der Fram 1. Aufriß 2. Grundriß des obersten Decks 3. Querschnitt des Mittelschiffs 4. Querschnitt durch den * Maschinenraum

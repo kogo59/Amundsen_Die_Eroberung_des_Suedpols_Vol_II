@@ -771,7 +771,7 @@ Horten verfertigten Anzüge machten den wohl aufbewahrten Staatsanzügen Platz,
 die nun nach einer zweijährigen Ruhepause das Tageslicht wieder sehen durften.
 Rasiermesser und Haarscheren hielten eine reiche Ernte, und Kürschner Rönnes aus
 Schilfleinwand verfertigte Mützen prangten auf den meisten Köpfen. Selbst
-Lindström, der bis jetzt seine Stellung als das dickste, schwerste und —
+Lindström, der bis jetzt e1seine Stellung als das dickste, schwerste und —
 schwärzeste Mitglied der Landabteilung aufrecht erhalten hatte, machte den
 unverkennbaren Eindruck, in recht nahe Berührung mit Wasser gekommen zu sein.
 
@@ -820,7 +820,7 @@ Der Hafen von Hobart kommt der Vollkommenheit nahe. Groß, geräumig und
 ausgezeichnet geschützt, dehnt er sich vor den Augen aus. Als wir uns der Stadt
 näherten, stellte sich die gewöhnliche, aus Hafenkapitän, Arzt und Zollbeamten
 bestehende Gesellschaft an Bord ein. Der Arzt merkte recht bald, daß es für ihn
-nichts bei uns zu tun gab, und die Zollbeamten ließen sich auch leicht davon
+nichts bei uns zu tun gab, und die Zollbeamten ließen siche1 auch leicht davon
 überzeugen, daß wir keine Schmuggelwaren mitführten. — Der Anker fiel, der
 Zugang zum Lande war frei! Ich konnte die Mappe mit den Telegrammen in die Hand
 nehmen und mich mit dem Boot des Hafenkapitäns zur Stadt begeben.
