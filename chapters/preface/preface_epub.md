@@ -175,9 +175,9 @@ Druck und Einband von R. Oldenbourg, München<br />
 * [Hobart (Tasmanien)](ch004.xhtml#b858)
 * [Hunde werden an Bord genommen.](ch004.xhtml#b859)
 * [Ankunft in Montevideo.](ch004.xhtml#b862)
-* Fram bei der Rückkehr von seiner ersten Reise mit Nansen
-* Der Fram im Umbau auf der Werft in Horten
-* Die Messe auf dem Fram
+* [Fram bei der Rückkehr von seiner ersten Reise mit Nansen.](ch005.xhtml#b864)
+* [Der Fram im Umbau auf der Werft in Horten.](ch005.xhtml#b875)
+* [Die Messe auf dem Fram.](ch005.xhtml#b877)
 * Torsionshygrometer nach Russeltvedt
 * Zehn meteorologische Tabellen April 1911 — Januar 1912
 * Die Strömungen an der Oberfläche des nördlichen Atlantischen Ozeans im April
@@ -202,9 +202,9 @@ Druck und Einband von R. Oldenbourg, München<br />
 * [Karte der nächsten Umgebung des Südpols.](ch002.xhtml#b611)
 * [Schlittenreise der Ostabteilung Nov — Jan 1911-12.](ch004.xhtml#b699)
 * [Karte des Roßmeers.](ch004.xhtml#b850)     (dreifarbig)
-* Vorder- und Seitenansicht der Heizanlage des Fram
-* Der Fram 1. Aufriß 2. Grundriß des obersten Decks 3. Querschnitt des Mittelschiffs 4. Querschnitt durch den * Maschinenraum
-* Jetzige Takelung des Fram
+* [Vorder- und Seitenansicht der Heizanlage des Fram.](ch005.xhtml#b881)
+* [Der Fram 1. Aufriß 2. Grundriß des obersten Decks 3. Querschnitt des Mittelschiffs 4. Querschnitt durch den Maschinenraum.](ch005.xhtml#b887)
+* [Jetzige Takelung des Fram.](ch005.xhtml#b888)
 * Amundsens Beobachtungsorte am Südpol
 * Karte von 75° bis 90° s. Br und von 100° w. L. v. Gr. bis 150° ö, L. v.  Gr. (dreifarbig) am Schluß
 * Erdkarte zu Amundsens Südpolarfahrt 1910 —1912  (dreifarbig) am Schluß

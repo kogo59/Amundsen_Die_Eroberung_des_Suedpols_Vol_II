@@ -1,4 +1,4 @@
-# Neunter Abschnitt.<br />**Von Norwegen nach der Eisplatte und die Fahrt des Fram durch den atlantischen Ozean.^[^0901]^** {#Längenunterschied .unnumbered}
+# Neunter Abschnitt.<br />**Von Norwegen nach der Eisplatte und die Fahrt des Fram durch den atlantischen Ozean.^[^0901]^** {#Neunter .unnumbered}
 
 :::: { .align-center .fs-xs }
 Von `Th. Nilsen`, Kapitän des Fram.
