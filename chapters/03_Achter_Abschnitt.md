@@ -1,4 +1,4 @@
-# Achter Abschnitt.<br />**Die Schlittenreisen der Ostabteilung.** {#chter .unnumbered}
+# Achter Abschnitt.<br />**Die Schlittenreisen der Ostabteilung.** {#achter .unnumbered}
 
 :::: { .align-center .fs-xs }
 Von Leutnant `Christian Prestrud`.

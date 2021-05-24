@@ -141,45 +141,45 @@ Druck und Einband von R. Oldenbourg, München<br />
 * [Ein Ureinwohner der Antarktis.](ch004.xhtml#b768)   (Tondruck)
 * [Ein Weddell-Seehund.](ch004.xhtml#b771)
 * [Eine Gruppe Adeliepinguine.](ch004.xhtml#b773)
-* Das abgebrochene Kap auf der Eisplatte
-* Oberleutnant der Marine Th. Nilssen    (Tondruck)
-* Schlittenfahrt in Funchal
-* Jakob Nödtvedt, der Schmied
-* Der zweite Offizier macht ein Schläfchen
-* Die Mannschaft und die Hunde waren die besten Freunde
-* Das Verändern der Segel beim Südostpassatwind
-* Auf der Albatrosjagd
-* Helmer Hanssen am Fuße der Eiskante   (Tondruck)
-* Framheim Freigelegte Zelte und das eingeschneite Haus, im Hintergrund die Eiskante
-* Der Fram am Rande des Meereises, Januar 1911
-* Die Seeabteilung
-* Hj. Fr. Gjertsen    (Tondruck)
-* Der Fram im Treibeis
-* Seehundjagd auf einer Eisscholle
-* Im Westwindgürtel
-* Eisberg
-* Unser Koch, freundlich und vergnügt wie immer
-* Drei Barographenkurven
-* Alexander Kutschin, der Ozeanograph   (Tondruck)
-* Wasserschöpfer
-* Rönne bei einer Seemannsarbeit
-* In der Südsee
-* „Deutschland“ und „Fram“ im Nordbecken von Buenos Aires
-* Kapitän Nilsen auf der oberen Brücke
-* Die Steuerbordwache auf der Brücke
-* Beck steuert den Fram durch unbekannte Gegenden
-* Seehunde am Rande einer Wake
-* Fram an der Eiskante (Januar 1912)        (Tondruch)
-* Die Japaner erklettern die Eisplatte
-* „Suggen“ — „Arne“ — „Oberst“
-* Hobart (Tasmanien)
-* Hunde werden an Bord genommen
-* Ankunft in Montevideo
+* [Das abgebrochene Kap auf der Eisplatte.](ch004.xhtml#b775)
+* [Oberleutnant der Marine Th. Nilssen.](ch004.xhtml#b776)   (Tondruck)
+* [Schlittenfahrt in Funchal.](ch004.xhtml#b779)
+* [Jakob Nödtvedt, der Schmied.](ch004.xhtml#b781)
+* [Der zweite Offizier macht ein Schläfchen.](ch004.xhtml#b783)
+* [Die Mannschaft und die Hunde waren die besten Freunde.](ch004.xhtml#b789)
+* [Das Verändern der Segel beim Südostpassatwind.](ch004.xhtml#b791)
+* [Auf der Albatrosjagd.](ch004.xhtml#b795)
+* [Helmer Hanssen am Fuße der Eiskante.](ch004.xhtml#b796)   (Tondruck)
+* [Framheim. Freigelegte Zelte und das eingeschneite Haus, im Hintergrund die Eiskante.](ch004.xhtml#b799)
+* [Der Fram am Rande des Meereises, Januar 1911.](ch004.xhtml#b800)
+* [Die Seeabteilung.](ch004.xhtml#b803)
+* [Hj. Fr. Gjertsen](ch004.xhtml#b805)   (Tondruck)
+* [Der Fram im Treibeis.](ch004.xhtml#b806)
+* [Seehundjagd auf einer Eisscholle.](ch004.xhtml#b809)
+* [Im Westwindgürtel.](ch004.xhtml#b813)
+* [Eisberg](ch004.xhtml#b815)
+* [Unser Koch, freundlich und vergnügt wie immer.](ch004.xhtml#b819)
+* [Drei Barographenkurven.](ch004.xhtml#b822)
+* [Alexander Kutschin, der Ozeanograph.](ch004.xhtml#b823)  (Tondruck)
+* [Wasserschöpfer](ch004.xhtml#b826)
+* [Rönne bei einer Seemannsarbeit.](ch004.xhtml#b831)
+* [In der Südsee.](ch004.xhtml#b833)
+* [„Deutschland“ und „Fram“ im Nordbecken von Buenos Aires.](ch004.xhtml#b837)
+* [Kapitän Nilsen auf der oberen Brücke.](ch004.xhtml#b839)
+* [Die Steuerbordwache auf der Brücke.](ch004.xhtml#b841)
+* [Beck steuert den Fram durch unbekannte Gegenden.](ch004.xhtml#b847)
+* [Seehunde am Rande einer Wake.](ch004.xhtml#b849)
+* [Fram an der Eiskante (Januar 1912)](ch004.xhtml#b853)   (Tondruck)
+* [Die Japaner erklettern die Eisplatte.](ch004.xhtml#b855)
+* [„Suggen“ — „Arne“ — „Oberst“](ch004.xhtml#b857)
+* [Hobart (Tasmanien)](ch004.xhtml#b858)
+* [Hunde werden an Bord genommen.](ch004.xhtml#b859)
+* [Ankunft in Montevideo.](ch004.xhtml#b862)
 * Fram bei der Rückkehr von seiner ersten Reise mit Nansen
 * Der Fram im Umbau auf der Werft in Horten
 * Die Messe auf dem Fram
 * Torsionshygrometer nach Russeltvedt
-* Zehn meteorologische Tabellen April 1911 —Januar 1912
+* Zehn meteorologische Tabellen April 1911 — Januar 1912
 * Die Strömungen an der Oberfläche des nördlichen Atlantischen Ozeans im April
 * Weg des Fram vom 20. Juni bis 7. Juli 1910 sowie des Frithjof und des Michael Sars
 * Temperatur und Salzgehalt im südlichen Schnitt des Fram, Juni 1910
@@ -200,8 +200,8 @@ Druck und Einband von R. Oldenbourg, München<br />
 
 ## Verzeichnis der Karten und Pläne.
 * [Karte der nächsten Umgebung des Südpols.](ch002.xhtml#b611)
-* [Schlittenreise der Ostabteilung Nov — Jan 1911-12](ch004.xhtml#b699)
-* Karte des Roßmeers      (dreifarbig)
+* [Schlittenreise der Ostabteilung Nov — Jan 1911-12.](ch004.xhtml#b699)
+* [Karte des Roßmeers.](ch004.xhtml#b850)     (dreifarbig)
 * Vorder- und Seitenansicht der Heizanlage des Fram
 * Der Fram 1. Aufriß 2. Grundriß des obersten Decks 3. Querschnitt des Mittelschiffs 4. Querschnitt durch den * Maschinenraum
 * Jetzige Takelung des Fram
