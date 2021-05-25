@@ -178,8 +178,8 @@ Druck und Einband von R. Oldenbourg, München<br />
 * [Fram bei der Rückkehr von seiner ersten Reise mit Nansen.](ch005.xhtml#b864)
 * [Der Fram im Umbau auf der Werft in Horten.](ch005.xhtml#b875)
 * [Die Messe auf dem Fram.](ch005.xhtml#b877)
-* Torsionshygrometer nach Russeltvedt
-* Zehn meteorologische Tabellen April 1911 — Januar 1912
+* [Torsionshygrometer nach Russeltvedt.](ch005.xhtml#b877)
+* [Zehn meteorologische Tabellen April 1911 — Januar 1912](ch005.xhtml#b901)
 * Die Strömungen an der Oberfläche des nördlichen Atlantischen Ozeans im April
 * Weg des Fram vom 20. Juni bis 7. Juli 1910 sowie des Frithjof und des Michael Sars
 * Temperatur und Salzgehalt im südlichen Schnitt des Fram, Juni 1910
