@@ -180,22 +180,22 @@ Druck und Einband von R. Oldenbourg, München<br />
 * [Die Messe auf dem Fram.](ch005.xhtml#b877)
 * [Torsionshygrometer nach Russeltvedt.](ch005.xhtml#b877)
 * [Zehn meteorologische Tabellen April 1911 — Januar 1912](ch005.xhtml#b901)
-* Die Strömungen an der Oberfläche des nördlichen Atlantischen Ozeans im April
-* Weg des Fram vom 20. Juni bis 7. Juli 1910 sowie des Frithjof und des Michael Sars
-* Temperatur und Salzgehalt im südlichen Schnitt des Fram, Juni 1910
-* Temperatur und Salzgehalt im nördlichen Schnitt des Fram, Juni 1910
-* Der ozeanographische Zug des Fram 1910
-* Die Meeresströmungen im Atlantischen Ozean
-* Temperaturen und Salzgehalte an der Oberfläche des Atlantischen Ozeans (Fram 1911)
-* Temperaturen im Atlantischen Ozean in einer Tiefe von 100 m (Fram 1911)
-* Temperaturverteilung in verschiedenen Tiefen auf Lotungsplatz 32 und 60
-* Salzgehalt in verschiedenen Tiefen auf Lotungsplatz 32 und 60
-* Isothermen und Isohalinen zwischen den Beobachtungsstellen 1 und 32 (südlicher Schnitt)
-* Isothermen und Isohalinen zwischen den Beobachtungsstellen 32 und 60 (nördlicher Schnitt)
-* Temperaturverteilung auf den Beobachtungsstellen des Challenger (339) und des Fram (44)
-* Temperaturkurven nach Beobachtungen von Fram und Valdivia
-* Temperaturkurven nach Beobachtungen von Fram und Planet
-* Salzgehalte bis zu 400 m Tiefe nach den Beobachtungen von Fram u Planet
+* [Die Strömungen an der Oberfläche des nördlichen Atlantischen Ozeans im April.](ch007.xhtml#b916)
+* [Weg des Fram vom 20. Juni bis 7. Juli 1910 sowie des Frithjof und des Michael Sars.](ch007.xhtml#b917)
+* [Temperatur und Salzgehalt im südlichen Schnitt des Fram, Juni 1910.](ch007.xhtml#b919)
+* [Temperatur und Salzgehalt im nördlichen Schnitt des Fram, Juni 1910.](ch007.xhtml#b922)
+* [Der ozeanographische Zug des Fram 1910.](ch007.xhtml#b926)
+* [Die Meeresströmungen im Atlantischen Ozean.](ch007.xhtml#b927)
+* [Temperaturen und Salzgehalte an der Oberfläche des Atlantischen Ozeans. (Fram 1911.)](ch007.xhtml#b928)
+* [Temperaturen im Atlantischen Ozean in einer Tiefe von 100 m (Fram 1911).](ch007.xhtml#b931)
+* [Temperaturverteilung in verschiedenen Tiefen auf Lotungsplatz 32 und 60.](ch007.xhtml#b933)
+* [Salzgehalt in verschiedenen Tiefen auf Lotungsplatz 32 und 60.](ch007.xhtml#b934)
+* [Isothermen und Isohalinen zwischen den Beobachtungsstellen 1 und 32 (südlicher Schnitt).](ch007.xhtml#b937a)
+* [Isothermen und Isohalinen zwischen den Beobachtungsstellen 32 und 60 (nördlicher Schnitt).](ch007.xhtml#b937b)
+* [Temperaturverteilung auf den Beobachtungsstellen des Challenger (339) und des Fram (44).](ch007.xhtml#b942)
+* [Temperaturkurven nach Beobachtungen von Fram und Valdivia.](ch007.xhtml#b944)
+* [Temperaturkurven nach Beobachtungen von Fram und Planet.](ch007.xhtml#b945)
+* [Salzgehalte bis zu 400 m Tiefe nach den Beobachtungen von Fram u Planet.](ch007.xhtml#b946)
 * 9 Seiten aus Amundsens Tagebuch in Urschrift
 
 ## Verzeichnis der Karten und Pläne.

@@ -64,7 +64,7 @@ Die meteorologische Ausrüstung des Fram umfaßte folgende Instrumente und Appar
 |        Registrierinstrumente:
 |        2 Barographen,
 |        2 Thermographen,
-|        1 Haarhygrogräph.
+|        1 Haarhygrograph.
 
 Verschiedene Ersatzteile samt Papier und Tinte für sieben Jahre.
 
@@ -143,7 +143,7 @@ zu fünf Grad Unterschied zeigen, obgleich die Barometer nebeneinander in
 ungefähr gleichem Abstand vom Boden hingen. Anderseits ist das Normalbarometer
 auch gar nicht für tägliche Beobachtungen geeignet, besonders in den
 Polargegenden nicht, und die doppelte Ablesung gibt vermehrten Anlaß zu Fehlern.
-Daß das AdieBarometer etwas weniger langsam reagiert als das andere, hat nicht
+Daß das Adie-Barometer etwas weniger langsam reagiert als das andere, hat nicht
 viel zu sagen, da der Unterschied im Luftdruck in Framheim überhaupt nicht sehr
 groß war. Bei dieser vorläufigen Berechnung sind darum nur die Ablesungen am
 Adie-Barometer benutzt; doch sind die Beobachtungen am Normalbarometer
@@ -157,7 +157,7 @@ bei — 10° Lufttemperatur.
 Die Beobachtungen ergeben, daß der Luftdruck durchweg gering ist,
 durchschnittlich beträgt er für die 10 Monate 738,6 mm. Er ist geringer im
 Winter als im Sommer, denn der Juli hat ein Monatsmittel von 733,1 mm und der
-Dezember ein solches von 753,3 mmm. Im ganzen wurde der höchste Luftdruck mit
+Dezember ein solches von 753,3 mm. Im ganzen wurde der höchste Luftdruck mit
 765,7 mm am 9. Dezember 1911, der niederste mit 711,7 mm am 24. Mai 1911
 beobachtet. Der Unterschied betrug also 54 mm.
 
@@ -224,7 +224,7 @@ Alle Temperaturen sind in Celsiusgraden angegeben.
 
 Um den relativen Feuchtigkeitsgehalt der Luft zu bestimmen, waren zwei
 Torsionshygrometer des Meteorologen Russeltvedt vorhanden. Dieses Instrument ist
-in der „Meteorologischen Zeitschrift“ 1908, 5. 396 genau beschrieben. Es hat
+in der „Meteorologischen Zeitschrift“ 1908, S. 396 genau beschrieben. Es hat
 den Vorzug, daß es keine Achsen und keine Achsenlager hat, die rosten oder
 verschmutzen oder sich mit Reif und Treibschnee füllen könnten. Die zwei
 verwendeten Pferdehaare, h, h´, werden durch eine Drehkurbel s, s´ und L
@@ -372,7 +372,7 @@ Richtungsangaben ausgedrückt, ergibt die folgende Tabelle:
 Norden und Nordosten sind die häufigsten Richtungen und umfassen zusammen den
 dritten Teil aller Richtungsangaben; aber auch die an dieses Maximum
 angrenzenden Himmelsrichtungen, Osten und Nordwesten, sind sehr häufig, so daß
-alle vier Richtungen zusammen: NW —N—NO—O, 64% der Gesamtzahl betragen. Die
+alle vier Richtungen zusammen: NW—N—NO—O, 64% der Gesamtzahl betragen. Die
 seltenste Richtung ist Südwesten mit nur 3% (nach der Lage des magnetischen Pols
 im Verhältnis zu Framheim hätte sich eher Osten als die häufigste und Westen als
 die seltenste Richtung erwarten lassen). Es ist anzunehmen, daß das vorliegende
