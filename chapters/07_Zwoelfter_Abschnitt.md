@@ -113,7 +113,7 @@ Amanuensis^[^1205]^ an dem Mineralogischen Institut<br />der Universität Christ
 
 [^1200]: [*Dr. W. C. Brögger*: vergleiche [Waldemar Christofer Brøgger](https://de.wikipedia.org/wiki/Waldemar_Christofer_Br%C3%B8gger_(Geologe))]{.footnote}
 
-[^1201]: [*H. J. Ferrar*: vergleiche [Hartley Travers Ferrar](hhttps://de.wikipedia.org/wiki/Hartley_Travers_Ferrar)]{.footnote}
+[^1201]: [*H. J. Ferrar*: vergleiche [Hartley Travers Ferrar](https://de.wikipedia.org/wiki/Hartley_Travers_Ferrar)]{.footnote}
 
 [^1202]: [*R. Priestley*: vergleiche [Raymond Priestley](https://de.wikipedia.org/wiki/Raymond_Priestley)]{.footnote}
 

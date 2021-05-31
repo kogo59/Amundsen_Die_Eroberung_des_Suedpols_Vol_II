@@ -1053,7 +1053,7 @@ Stunden lang kein Eis gesehen. Zugleich bekam das Wasser eine grünlichere Farbe
 als sonst, und es ist möglich, daß wir da in eine kalte Strömung hineingeraten
 waren. Diese Temperatur hielt sich so niedrig bis zum Sonntag morgen, wo sie um
 8 Uhr vormittags auf 0,4°, um 12 Uhr mittag dicht bei einem Eisberg auf 0,5° und
-2 km in Lee von diesem noch weiter, auf 0, 6° stieg.
+2 km in Lee von diesem noch weiter, auf 0,6° stieg.
 
 Sie stieg auch noch immer weiter und zeigte um 4 Uhr nachmittags, wo die
 Eisberge am dichtesten waren 0,8°, abends um 8 Uhr 0,9° und um Mitternacht 1°.
