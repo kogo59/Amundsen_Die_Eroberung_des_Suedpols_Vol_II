@@ -1,5 +1,7 @@
 # Die Eroberung des Suedpols. Zweiter Band.
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193357873-95681573-bfc0-4078-bb8b-10daa1a286d5.jpg">
+
 This is a git repository of the source files for the book
 "Die Eroberung des Suedpols von Roald Amundsen. Zweiter Band."
 
