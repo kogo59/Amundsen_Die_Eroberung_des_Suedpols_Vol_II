@@ -105,11 +105,6 @@ Amanuensis^[^1205]^ an dem Mineralogischen Institut<br />der Universität Christ
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1200]: [*Dr. W. C. Brögger*: vergleiche [Waldemar Christofer Brøgger](https://de.wikipedia.org/wiki/Waldemar_Christofer_Br%C3%B8gger_(Geologe))]{.footnote}
 

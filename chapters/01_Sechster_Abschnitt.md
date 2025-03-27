@@ -171,7 +171,7 @@ Rückensterzen der Hundegeschirre an Hassels Schlitten festgebunden. Jetzt durft
 man nachgeben und die Leine loslassen; der eine Schlitten hing nun sicher an dem
 andern und wir konnten wieder aufatmen.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Eine große gefüllte Spalte.](Die_Eroberung_des_Suedpols_Vol_II_507.jpg "Eine große gefüllte Spalte."){#b507}
 ::::
 
@@ -193,7 +193,7 @@ auf dem sie stünden, sei eine nur wenige Zentimeter dicke vorstehende Schicht
 über dem Abgrund, schien gar keinen Eindruck auf sie zu machen. Im Gegenteil, um
 so sicherer schienen sie zu stehen.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Oskar Wisting](Die_Eroberung_des_Suedpols_Vol_II_509.jpg "Oskar Wisting"){#b509}
 ::::
 
@@ -433,7 +433,7 @@ ihre Reise brauchen, aber nicht viel. Das Lager hier war sehr reichhaltig und
 würde von großem Nutzen sein, sofern einige daran dächten, die Strecke zum König
 Eduard VII.-Land zu untersuchen. Wir selbst brauchten vorerst nichts davon.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Zerklüftetes Gelände auf der Eisplatte.](Die_Eroberung_des_Suedpols_Vol_II_516.jpg "Zerklüftetes Gelände auf der Eisplatte."){#b516}
 ::::
 
@@ -461,7 +461,7 @@ Gewicht sämtlicher Lebensmittel auf jedem Schlitten beträgt 303,2 kg. Mit der
 Ausrüstung und dem Gewicht des Schlittens beläuft sich das Gewicht auf nahezu
 400 kg.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Bjaaland als Klempner.](Die_Eroberung_des_Suedpols_Vol_II_518.jpg "Bjaaland als Klempner."){#b518}
 ::::
 
@@ -597,7 +597,7 @@ schmale Spalte, und einmal fuhren wir im Nebel dicht an einem großen schwarzen
 Loch vorüber; jedenfalls waren wir nicht weit davon entfernt, sonst hätten wir
 es bei dem Nebelgewoge nicht sehen können.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Aufenthalt bei einer Schneewarte.](Die_Eroberung_des_Suedpols_Vol_II_523.jpg "Aufenthalt bei einer Schneewarte."){#b523}
 ::::
 
@@ -728,7 +728,7 @@ Vorüberfahren düster nach der Warte hinüber, auf der sie lag. Es kam ihnen se
 hart vor, die Geliebte verlassen zu müssen; aber die Pflicht rief, und die
 Peitsche strich gefährlich nahe über dem hin, der den Ruf nicht zu hören schien.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![„Lussy“, „Karenius“, „Sauen“](Die_Eroberung_des_Suedpols_Vol_II_528.jpg "„Lussy“, „Karenius“, „Sauen“"){#b528}
 ::::
 
@@ -741,7 +741,7 @@ der Stunde legten sie mit Leichtigkeit zurück. Wir selbst brauchten keinen Fuß
 zu rühren; daß wir uns von ihnen auf den Schneeschuhen ziehen ließen, war alles,
 was sie von uns verlangten.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Vorratslager auf 83° s. Br.](Die_Eroberung_des_Suedpols_Vol_II_529.jpg "Vorratslager auf 83° s. Br."){#b529}
 ::::
 
@@ -789,7 +789,7 @@ doch auch zum großen Teil kahl war. Noch weiter nach Süden sah man die Alice
 Wedel Jarlsberg-^[^0603]^, Alice Gade-^[^0605]^ und Ruth Gade-Gipfel^[^0604]^
 auftauchen, alle drei von oben bis unten mit Schnee bedeckt.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Alice Wedel Jarlsberg-Gebirge.](Die_Eroberung_des_Suedpols_Vol_II_531.jpg "Alice Wedel Jarlsberg-Gebirge."){#b531}
 ::::
 
@@ -825,7 +825,7 @@ zu werden. Jetzt hatten auch sie das Land erblickt, und der blauschwarze
 Fridtjof Nansen-Berg schien ihnen besonders zu gefallen. Es war für Hanssen oft
 eine ganz schwierige Arbeit, sie im richtigen Kurs zu erhalten.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Helmer Hanssen mit seinem Gespann.](Die_Eroberung_des_Suedpols_Vol_II_533.jpg "Helmer Hanssen mit seinem Gespann."){#b533}
 ::::
 
@@ -1043,7 +1043,7 @@ voller Last in kürzerer Zeit zurück. Die kleinen höherliegenden Gletscher
 erwiesen sich aber als ziemlich steil, und hier konnten wir an mehreren Stellen
 immer nur zwei Schlitten mit doppeltem Gespann auf einmal nehmen.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Vorratslager am Fuß des Gebirges auf 85° 7´ s. Br.](Die_Eroberung_des_Suedpols_Vol_II_541.jpg "Vorratslager am Fuß des Gebirges auf 85° 7´ s. Br."){#b541}
 ::::
 
@@ -1164,7 +1164,7 @@ davonfahren und seinen Vordermann mit sich reißen sehen. Mit der Zeit bekamen
 wir mehr Übung im Bremsen, und da ging es besser, aber es gab verschiedene Male
 recht komische Auftritte.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Fridtjof Nansen-Berg.](Die_Eroberung_des_Suedpols_Vol_II_545.jpg "Fridtjof Nansen-Berg."){#b545}
 ::::
 
@@ -1361,7 +1361,7 @@ hinaufzuklettern; wir hatten schon andere Höhen erklommen, die ebenso schwierig
 gewesen waren. Aber der Abhang war hier ziemlich steil, voll großer Spalten und
 riesengroßer Eisblöcke.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Peter Christophersen-Berg.](Die_Eroberung_des_Suedpols_Vol_II_552.jpg "Peter Christophersen-Berg."){#b552}
 ::::
 
@@ -1446,7 +1446,7 @@ bestimmt, welche von den Hunden sich eines längeren Lebens verdient gemacht
 hätten und welche geopfert werden sollten. Die Entscheidung war übrigens sehr
 schwer gewesen, denn alle miteinander waren flink und tüchtig.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Nach Süden.](Die_Eroberung_des_Suedpols_Vol_II_557.jpg "Nach Süden."){#b557}
 ::::
 
@@ -1674,7 +1674,7 @@ Rippenstückchen verspeiste ich gleich selbst, und dann fischte ich vergebens im
 Topf nach noch mehr; auf einen so großen Absatz seiner Ware hatte Wisting doch
 nicht gerechnet.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Ein Vorratslager.](Die_Eroberung_des_Suedpols_Vol_II_565.jpg "Ein Vorratslager."){#b565}
 ::::
 
@@ -1892,7 +1892,7 @@ wahrnehmen. Die zurückgelegte Entfernung betrug nach unsern drei Meßrädern 30
 km. In Anbetracht der schlechten Bahn konnten wir mit unserer Leistung wohl
 zufrieden sein.
 
-:::: { .wrap-50 .break-before }
+:::: { .wrap-50   }
 ![Olaf Bjaaland](Die_Eroberung_des_Suedpols_Vol_II_573.jpg "Olaf Bjaaland"){#b573}
 ::::
 
@@ -2128,7 +2128,7 @@ keineswegs unbegründet war. Aber die Warten, die wir aufgeführt hatten, waren
 uns eine große Hilfe, und wir haben den glücklichen Ausgang zum großen Teil
 dieser umsichtigen Vorsorge zu verdanken.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Teufelsgletscher](Die_Eroberung_des_Suedpols_Vol_II_580.jpg "Teufelsgletscher"){#b580}
 ::::
 
@@ -2359,7 +2359,7 @@ jetzt doch lange die südliche Richtung einhalten. Die ungeheuren Spalten zeigte
 sich seltener und waren auf beiden Enden so ausgefüllt, daß wir, ohne große
 Umwege machen zu müssen, hinübergelangen konnten.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Sverre Hassel](Die_Eroberung_des_Suedpols_Vol_II_589.jpg "Sverre Hassel"){#b589}
 ::::
 
@@ -2595,11 +2595,11 @@ von beiden schenkte der so sehr ernsten Sache auch nur einen Gedanken. Und wenn
 man nach dem Lachen und den scherzhaften Bemerkungen, die zu uns herüberdrangen,
 hätte urteilen sollen, so hätte man auf eine ganz andere Lage geschlossen.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Helmer Hanssen](Die_Eroberung_des_Suedpols_Vol_II_596.jpg "Helmer Hanssen"){#b596}
 ::::
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Wisting richtet mit Hassels Hilfe seinen eingesunkenen Schlitten auf.](Die_Eroberung_des_Suedpols_Vol_II_597.jpg "Wisting richtet mit Hassels Hilfe seinen eingesunkenen Schlitten auf."){#b597}
 ::::
 
@@ -2642,7 +2642,7 @@ hatten. Die Oberfläche war plötzlich gleichmäßig und gut geworden, überall 
 eine prächtige Schneedecke, so daß wir rasch und leicht mit einem wahren Gefühl
 von Sicherheit den Weg nach Süden fortsetzen konnten.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Wisting mit seinem Schlitten.](Die_Eroberung_des_Suedpols_Vol_II_599.jpg "Wisting mit seinem Schlitten."){#b599}
 ::::
 
@@ -2854,7 +2854,7 @@ Natürlich mußten auch gleich die photographischen Apparate in Tätigkeit geset
 werden, und wir bekamen ein ausgezeichnetes Bild jenes Vorgangs, den keiner von
 uns je vergessen wird.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Hanssen hißt die Flagge auf Shackletons südlichster Breite.](Die_Eroberung_des_Suedpols_Vol_II_607.jpg "Hanssen hißt die Flagge auf Shackletons südlichster Breite."){#b607}
 ::::
 
@@ -2897,7 +2897,7 @@ Holzstücke waren mit einem Zeichen versehen, so daß wir an ihnen sofort die
 Ostseite des Lagers erkennen konnten, während die gegen Westen kein Zeichen
 trugen.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Lagerplatz und Niederlage auf 88° 25´ s. Br.](Die_Eroberung_des_Suedpols_Vol_II_609.jpg "Lagerplatz und Niederlage auf 88° 25´ s. Br."){#b609}
 ::::
 
@@ -2943,7 +2943,7 @@ Keiner von uns wollte zugeben, daß wir nervös seien, aber ich glaube doch, da�
 jeder in seinem Innern ein ganz klein wenig aufgeregt war. Was würden wir am Pol
 zu sehen bekommen?
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![](Die_Eroberung_des_Suedpols_Vol_II_611.jpg "Karte der nächsten Umgebung des Südpols."){#b611}
 ::::
 
@@ -3040,7 +3040,7 @@ stand wie ich bei dieser Gelegenheit. Die Gegend um den Nordpol — ach, ja zum
 Kuckuck — der Nordpol selbst hatte es mir von Kindesbeinen an angetan und nun
 befand ich mich am Südpol! Kann man sich etwas Entgegengesetzteres denken?
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Am Südpol.](Die_Eroberung_des_Suedpols_Vol_II_615.jpg "Am Südpol."){#b615}
 ::::
 
@@ -3132,7 +3132,7 @@ den Tabak, sondern übernahm auch jeden Abend — ich erlag sogar der Versuchung
 und rauchte auch eine Morgenpfeife — die unangenehme Arbeit, meine Pfeife
 auszukratzen und zu stopfen, das Wetter mochte sein, wie es wollte.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Helmer Hanssen mißt die Sonnenhöhe.](Die_Eroberung_des_Suedpols_Vol_II_619.jpg "Helmer Hanssen mißt die Sonnenhöhe."){#b619}
 ::::
 
@@ -3238,7 +3238,7 @@ haben. Aber erst um 10 Uhr entdeckte Hanssen den ersten schwarzen Punkt draußen
 am Horizont, und nicht lange danach erschien ein zweiter und auch ein dritter,
 und so oft einer auftauchte, atmeten wir beide erleichtert auf.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Sverre Hassel macht am Pol Sonnenbeobachtungen.](Die_Eroberung_des_Suedpols_Vol_II_623.jpg "Sverre Hassel macht am Pol Sonnenbeobachtungen."){#b623}
 ::::
 
@@ -3387,7 +3387,7 @@ Dann kam die dampfartige weiße Luft wieder dahergezogen, und es dauerte nicht
 lange, bis das letzte Zeichen von Polheim — die kleine Flagge — aus unserem
 Gesichtskreis verschwunden war.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Amundsen in Wintertracht.](Die_Eroberung_des_Suedpols_Vol_II_628.jpg "Amundsen in Wintertracht."){#b628}
 ::::
 
@@ -4004,7 +4004,7 @@ bekommen; aber das war ja ganz natürlich, da wir es jetzt von der
 entgegengesetzten Seite sahen; wir wußten nur bestimmt, daß wir nun nicht mehr
 weit von unserem Hauptvorratslager entfernt waren.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![„Neger“ in Betrachtungen.](Die_Eroberung_des_Suedpols_Vol_II_630.jpg "„Neger“ in Betrachtungen."){#b630}
 ::::
 
@@ -4410,7 +4410,7 @@ alten Zeiten. Wir Polfahrer aber stimmten alle darin überein, daß es draußen 
 war, aber daheim viel besser. 99 Tage hatte die Reise gedauert, die
 zurückgelegte Entfernung betrug 3000 km.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Framheim bei der Rückkehr der Polabteilung.](Die_Eroberung_des_Suedpols_Vol_II_664.jpg "„Framheim bei der Rückkehr der Polabteilung"){#b664}
 ::::
 
@@ -4442,12 +4442,6 @@ Peter Christophersen.<br />
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0600]: [*Boroughs Welcome & Co*: vergleiche [Burroughs Wellcome & Company](https://de.wikipedia.org/wiki/Burroughs_Wellcome_%26_Company)]{.footnote}
 

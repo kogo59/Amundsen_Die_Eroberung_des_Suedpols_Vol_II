@@ -63,7 +63,7 @@ und 75° ö. L. sein muß. Die Breite ist, wie schon oben gesagt, zwischen 89° 
 und 89° 59´, und der wahrscheinliche Punkt für Polheim kann rund auf 89° 58,5´ s. Br.
 und 60° ö.L. gesetzt werden.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![](Die_Eroberung_des_Suedpols_Vol_II_950.jpg ""){#b950}
 ::::
 
@@ -180,10 +180,6 @@ Professor an dem Observatorium der Universität.
 :::: { .wrap-100 }
 ![](Die_Eroberung_des_Suedpols_Vol_II_998.jpg "[Erdkarte zu Amundsens Südpolarfahrt 1910 —1912."){#b998}
 ::::
-
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1400]: [Unter Berücksichtigung der Datumsänderung.]{.footnote}
 

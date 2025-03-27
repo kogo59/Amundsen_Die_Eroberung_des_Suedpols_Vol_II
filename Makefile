@@ -61,16 +61,13 @@ $(BUILD)/html/$(OUTPUT_FILENAME).html: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS
 	pandoc $(ARGS_HTML)  --self-contained --standalone --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS)
 	rm  $(IMAGES_FOLDER)/*.css
 
+
 pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 
 $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF) $(PREFACE_EPUB)
 	mkdir -p $(BUILD)/pdf
 	cp  *.css  $(IMAGES_FOLDER)
-	cp  $(IMAGES_FOLDER)/Die_Eroberung_des_Suedpols_Vol_II_*.jpg .
-	cp  $(IMAGES_FOLDER)/cover*.jpg .
-	cp  $(IMAGES_FOLDER)/logo.jpg .
-	pandoc $(ARGS_HTML)  $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html -o $@ $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS)
+	pandoc $(ARGS_HTML) $(METADATA_ARG) $(CSS_ARG_PRINT) --extract-media=. --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=json $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS) | sed  's/ch....xhtml//g'  | pandoc $(ARGS_HTML)  $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --from=json --to=pdf -o $@
 	rm  $(IMAGES_FOLDER)/*.css
-	rm Die_Eroberung_des_Suedpols_Vol_II_*.jpg
-	rm  cover*.jpg 
-	rm logo.jpg
+	rm *.jpg
+	

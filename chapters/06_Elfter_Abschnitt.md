@@ -241,7 +241,7 @@ merkwürdig. Aber am 13. Oktober wurde das zweite Instrument, Nr. 12, aufgehäng
 und die Richtigkeit der späteren Beobachtungen kann nicht mehr angezweifelt
 werden.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60   }
 ![Torsionshygrometer nach Russeltvedt.](Die_Eroberung_des_Suedpols_Vol_II_895.jpg "Torsionshygrometer nach Russeltvedt."){#b895}
 ::::
 
@@ -427,10 +427,5 @@ Das Datum ist beim Überschreiten des 180. Längengrades nicht geändert worden.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1100]: [Die Toluolfüllung gefriert auch bei sehr tiefen Temperaturen nicht.]{.footnote}

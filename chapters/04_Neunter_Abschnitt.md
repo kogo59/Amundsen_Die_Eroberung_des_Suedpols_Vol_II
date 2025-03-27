@@ -49,7 +49,7 @@ uns nur die Lotsen und ein paar Bekannte eine kleine Strecke den Fjord entlang.
 Es war wundervolles Wetter, und in der hellen Nacht blieben alle Mann lange auf
 Deck und schauten nach dem Lande hin, das langsam unsern Blicken entschwand.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Oberleutnant der Marine Th. Nilssen.](Die_Eroberung_des_Suedpols_Vol_II_776.jpg "Oberleutnant der Marine Th. Nilssen."){#b776}
 ::::
 
@@ -116,7 +116,7 @@ als Nebelhorn außerordentlich gute Dienste.
 Der Kanarienvogel Fridtjof war die ganze Zeit über bei uns an Bord und ist auch
 jetzt (Juni 1912) noch da.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Schlittenfahrt in Funchal.](Die_Eroberung_des_Suedpols_Vol_II_779.jpg "Schlittenfahrt in Funchal."){#b779}
 ::::
 
@@ -160,7 +160,7 @@ bekämen, wohin die Reise eigentlich ging. Nachdem die große Neuigkeit besproch
 war, bekam man noch zwei Stunden Zeit, um seine Briefe nach Hause abfertigen zu
 können.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Jakob Nödtvedt, der Schmied.](Die_Eroberung_des_Suedpols_Vol_II_781.jpg "Jakob Nödtvedt, der Schmied."){#b781}
 ::::
 
@@ -212,7 +212,7 @@ an Land sollte. Waren die wohlbezeichneten Kisten herausgeschafft, so war auch
 der Fram gleich wieder zu seiner neuen Fahrt bereit, ohne daß wir Angst haben
 mußten, es könnte etwas vergessen sein.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Der zweite Offizier macht ein Schläfchen.](Die_Eroberung_des_Suedpols_Vol_II_783.jpg "Der zweite Offizier macht ein Schläfchen."){#b783}
 ::::
 
@@ -369,7 +369,7 @@ Jeder Hund hatte einen eigenen Namen, und jeder hörte auch auf den seinigen. Di
 Namen wurden von überall hergenommen, wir hatten sowohl eine „Leiche“ als auch
 einen „Todesengel“, desgleichen einen „Uranus“ und einen „Neptun“.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Die Mannschaft und die Hunde waren die besten Freunde.](Die_Eroberung_des_Suedpols_Vol_II_789.jpg "Die Mannschaft und die Hunde waren die besten Freunde."){#b789}
 ::::
 
@@ -414,7 +414,7 @@ eine Landung vollständig aufgegeben. Sollte uns je der Süßwasservorrat ausgeh
 so konnten wir ja im Notfall unmittelbar aufs Eis zusteuern und da soviel an
 Bord nehmen, als wir brauchten.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Das Verändern der Segel beim Südostpassatwind.](Die_Eroberung_des_Suedpols_Vol_II_791.jpg "Das Verändern der Segel beim Südostpassatwind."){#b791}
 ::::
 
@@ -453,7 +453,7 @@ zum Packeis sein konnte. Am 2. Januar, abends um 10 Uhr, kamen wir in mürbes
 Treibeis hinein; das Wetter war sehr unsichtig, aber wir hielten den Kurs doch
 annähernd in der Richtung der Walfischbucht, die unser Ziel war.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Auf der Albatrosjagd.](Die_Eroberung_des_Suedpols_Vol_II_795.jpg "Auf der Albatrosjagd."){#b795}
 ::::
 
@@ -569,7 +569,7 @@ empfingen und ich allerlei spöttische Bemerkungen einstecken mußte, ist
 selbstverständlich.
 
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Helmer Hanssen am Fuße der Eiskante.](Die_Eroberung_des_Suedpols_Vol_II_796.jpg "Helmer Hanssen am Fuße der Eiskante."){#b796}
 ::::
 
@@ -625,7 +625,7 @@ das Eis aufging, uns entweder gezwungen gesehen hätten, alle wieder an Bord zu
 ziehen, oder in Gefahr gewesen wären, sie zu verlieren. Über Nacht durfte
 überhaupt gar nichts auf dem Eise bleiben.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Framheim. Freigelegte Zelte und das eingeschneite Haus, im Hintergrund die Eiskante.](Die_Eroberung_des_Suedpols_Vol_II_799.jpg "Framheim. Freigelegte Zelte und das eingeschneite Haus, im Hintergrund die Eiskante."){#b799}
 ::::
 
@@ -646,7 +646,7 @@ Treibeis, daß wir nicht bis zu dem festen Eisrand gelangen konnten. Doch abends
 9 Uhr sahen wir vom Mastkorb aus, daß das Eis sich verzog, und gegen Mitternacht
 waren wir abermals vertäut.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Der Fram am Rande des Meereises, Januar 1911.](Die_Eroberung_des_Suedpols_Vol_II_800.jpg "Der Fram am Rande des Meereises, Januar 1911."){#b800}
 ::::
 
@@ -716,7 +716,7 @@ wir endlich in eine Rinne hineingelangten. Auf den Eissschollen lagen Hunderte
 von Seehunden umher; da wir aber schon einen großen Vorrat an Seehundfleisch an
 Bord hatten, ließen wir sie zur Abwechslung einmal im Frieden.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Die Seeabteilung.](Die_Eroberung_des_Suedpols_Vol_II_803.jpg "Die Seeabteilung."){#b803}
 ::::
 
@@ -767,7 +767,7 @@ Ihr ergebener
 Roald Amundsen.
 ::::
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Hj. Fr. Gjertsen](Die_Eroberung_des_Suedpols_Vol_II_805.jpg "Hj. Fr. Gjertsen"){#b805}
 ::::
 
@@ -791,7 +791,7 @@ Steuerbordseite die hohe Eisplatte und sonst ringsum ungefähr 50 größere und
 kleinere Eisberge. Die Eisplatte war dicht an der See wohl 33 m hoch, erhob sich
 aber weiterhin sicher bis zu einer Höhe von 400 m.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Der Fram im Treibeis.](Die_Eroberung_des_Suedpols_Vol_II_806.jpg "Der Fram im Treibeis."){#b806}
 ::::
 
@@ -874,7 +874,7 @@ Westen entdeckten wir den Ausgang, auf den wir zusteuerten, und schon abends 10
 Uhr waren wir aus dem Eis heraus und im offenen Wasser. Wir waren auf 69° s. Br.
 und 175° 5´ ö. L.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Seehundjagd auf einer Eisscholle.](Die_Eroberung_des_Suedpols_Vol_II_809.jpg "Seehundjagd auf einer Eisscholle."){#b809}
 ::::
 
@@ -983,7 +983,7 @@ gekommen seien, auf Deck zu eilen, antwortete er, sie hätten gemeint, wir seien
 drauf und dran, mit einem Eisberg zusammenzustoßen und versuchten mit allen
 Mitteln, daran vorüberzukommen.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Im Westwindgürtel.](Die_Eroberung_des_Suedpols_Vol_II_813.jpg "Im Westwindgürtel."){#b813}
 ::::
 
@@ -1016,7 +1016,7 @@ hatten, war das Wasser so ruhig wie in einem sicheren Hafen. Während der Nacht
 kamen wir noch an einer Anzahl Eisberge vorüber, aber am nächsten Tag sahen wir
 nur noch 20 Stück.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Eisberg](Die_Eroberung_des_Suedpols_Vol_II_815.jpg "Eisberg"){#b815}
 ::::
 
@@ -1131,7 +1131,7 @@ bei seinem Anblick in ein lautes „Hurra!“ aus. Dazu hatte er wahrlich guten
 Grund, denn wir hatten schon lange sehnsüchtig auf den Mond gewartet, damit er
 uns beim Ausschauen nach Eis helfen sollte.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Unser Koch, freundlich und vergnügt wie immer.](Die_Eroberung_des_Suedpols_Vol_II_819.jpg "Unser Koch, freundlich und vergnügt wie immer."){#b819}
 ::::
 
@@ -1196,7 +1196,7 @@ und Hansen, jeder auf seiner Wache, an der Arbeit sind. Die Achtermesse wird als
 gemeinsames Eßzimmer benutzt, weil es da wärmer ist und die Bewegungen des
 Schiffes viel weniger stören.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Barographkurven.](Die_Eroberung_des_Suedpols_Vol_II_822.jpg "Barographkurven."){#b822}
 ::::
 
@@ -1209,7 +1209,7 @@ Wellenschlag aus Osten. Wer hätte gedacht, daß unter diesen Himmelsstrichen so
 herrliches Wetter sein könnte! Und überdies im März, dem stürmischsten Monat des
 ganzen Jahres!
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Alexander Kutschin, der Ozeanograph.](Die_Eroberung_des_Suedpols_Vol_II_823.jpg "Alexander Kutschin, der Ozeanograph."){#b823}
 ::::
 
@@ -1464,7 +1464,7 @@ Schriftsteller Napoleon genannt hat, sein rastloses Leben hier auf dieser
 einsamen Felseninsel im südlichen Atlantischen Ozean beschließen mußte! Welch
 ein Schicksal!
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Rönne bei einer Seemannsarbeit.](Die_Eroberung_des_Suedpols_Vol_II_831.jpg "Rönne bei einer Seemannsarbeit."){#b831}
 ::::
 
@@ -1503,7 +1503,7 @@ könnte übrigens stark genug sein, um meinem Ärger über ihre Anwesenheit an B
 Luft zu machen. Wir stellten Fallen, aber was nutzt das, wenn die Ladung
 hauptsächlich aus Eßwaren besteht?
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![In der Südsee.](Die_Eroberung_des_Suedpols_Vol_II_833.jpg "In der Südsee."){#b833}
 ::::
 
@@ -1623,7 +1623,7 @@ Christophersen, wenn wir nicht bis zu einem gewissen Zeitpunkt in Australien
 angekommen seien, wolle er ein zweites Schiff ausschicken; aber bekanntermaßen
 war das glücklicherweise nicht notwendig.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Im Nordbecken von Buenos Aires.](Die_Eroberung_des_Suedpols_Vol_II_837.jpg "Im Nordbecken von Buenos Aires."){#b837}
 ::::
 
@@ -1676,7 +1676,7 @@ angebracht, sodaß darunter immer alles rein gehalten werden konnte. Die Ferkel
 gediehen so gut da drunten, daß man sie fast wachsen sehen konnte, und bei der
 Ankunft an der Eisplatte erfreuten sich noch neun ihres Lebens.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Kapitän Nilsen auf der oberen Brücke.](Die_Eroberung_des_Suedpols_Vol_II_839.jpg "Kapitän Nilsen auf der oberen Brücke."){#b839}
 ::::
 
@@ -1727,7 +1727,7 @@ oder: „Jetzt geht's aber wie geschmiert!“ Das Wort „fein“ ist fast ein z
 schwacher Ausdruck; von dem Fram muß man sagen „leicht und elegant! . . . Was
 könnte man sonst noch wünschen!“
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Die Steuerbordwache auf der Brücke.](Die_Eroberung_des_Suedpols_Vol_II_841.jpg "Die Steuerbordwache auf der Brücke."){#b841}
 ::::
 
@@ -1883,7 +1883,7 @@ Freiwache legte sich in ihre Koje, die Wache wanderte auf Deck hin und her an
 diesem Tage und Olsen säuberte auch wie gewöhnlich um diese Zeit, den
 Schweinestall. Damit war die Weihnachtsfeier für diesmal zu Ende.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Beck steuert den Fram durch unbekannte Gegenden.](Die_Eroberung_des_Suedpols_Vol_II_847.jpg "Beck steuert den Fram durch unbekannte Gegenden."){#b847}
 ::::
 
@@ -1926,7 +1926,7 @@ Eisstreifen fuhren, gerieten wir bisweilen auf eine Eisscholle, die dann unter
 dem Kiel des Schiffes untertauchte und mit der unteren Fläche nach oben wieder
 heraufkam.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Seehunde am Rande einer Wake.](Die_Eroberung_des_Suedpols_Vol_II_849.jpg "Seehunde am Rande einer Wake."){#b849}
 ::::
 
@@ -1983,7 +1983,7 @@ B. begegnet man, wie gesagt, dem Eis, und wir waren nicht einmal klar vor 73° s
 B.; zwischen 68° und 69° ist die Linie unterbrochen, und an diesem Punkt hätte
 ich südwärts steuern sollen.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![](Die_Eroberung_des_Suedpols_Vol_II_850.jpg "Karte des Roßmeers"){#b850}
 ::::
 
@@ -2047,7 +2047,7 @@ hatte ich nur meine eigenen Schneeschuhe an Bord und hätte deshalb auch nur
 einen Mann schicken können, während es viel besser gewesen wäre, wenn mehrere
 miteinander hätten gehen können.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Fram an der Eiskante (Januar 1912).](Die_Eroberung_des_Suedpols_Vol_II_853.jpg "Fram an der Eiskante (Januar 1912)"){#b853}
 ::::
 
@@ -2118,7 +2118,7 @@ dies alles unter Gelächter und lustigen Reden vor sich. Bei der Ankunft am
 Schiff war das Tier halbtot, und es blieb dort liegen, bis es vollends
 verendete.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Die Japaner erklettern die Eisplatte.](Die_Eroberung_des_Suedpols_Vol_II_855.jpg "Die Japaner erklettern die Eisplatte."){#b855}
 ::::
 
@@ -2157,7 +2157,7 @@ Bord zu schaffen.
 Am 30. Januar 1912 abends ½9 Uhr zogen wir bei dichtem Nebel die Vertäuungen
 herein und winkten der mächtigen Eisplatte ein letztes Lebewohl zu.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![„Suggen“ — „Arne“ — „Oberst“](Die_Eroberung_des_Suedpols_Vol_II_857.jpg "„Suggen“ — „Arne“ — „Oberst“"){#b857}
 ::::
 
@@ -2190,7 +2190,7 @@ Stelle, wo wir im Jahre 1911 auf das Eis gestoßen waren, lag es auch jetzt, das
 heißt auf ungefähr 75° s. Br. Wir fuhren ganz kurze Zeit diesem Eise entlang,
 dann war es zu Ende. Nördlich von 75° sahen wir nur noch einige kleine Eisberge.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Hobart (Tasmanien)](Die_Eroberung_des_Suedpols_Vol_II_858.jpg "Hobart (Tasmanien)"){#b858}
 ::::
 
@@ -2215,7 +2215,7 @@ letzten frischen Kartoffeln gingen ein paar Tage vor der Ankunft zu Ende, und
 das letzte Schwein wurde zwei Tage, nachdem wir in Hobart das Schiff verankert
 hatten, geschlachtet.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Hunde werden an Bord genommen.](Die_Eroberung_des_Suedpols_Vol_II_859.jpg "Hunde werden an Bord genommen."){#b859}
 ::::
 
@@ -2293,7 +2293,7 @@ wiederkehrten, waren es, so viel ich sehen konnte, viele, und soweit ich aus den
 Zeitungen und Ähnlichem ersehen konnte, hatte die dritte Forschungsreise des
 Fram im Lauf von ein paar Monaten an Volkstümlichkeit ganz bedeutend zugenommen.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Ankunft in Montevideo.](Die_Eroberung_des_Suedpols_Vol_II_862.jpg "Ankunft in Montevideo."){#b862}
 ::::
 
@@ -2311,11 +2311,6 @@ vollendet.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0900]: [*Fram*: vergleiche [Fram](https://de.wikipedia.org/wiki/Fram_(Schiff,_1892))]{.footnote}
 

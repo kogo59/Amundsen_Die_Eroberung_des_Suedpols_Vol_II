@@ -176,7 +176,7 @@ und die Ausdehnung des Stromes in diesem Meere genau. Eine eingehende, mit den
 verbesserten Verfahren unserer Zeit vorgenommene Untersuchung ist demgemäß ein
 unabweisbares Erfordernis.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Die Strömungen an der Oberfläche des nördlichen Atlantischen Ozeans im April. <small>Nach Nansen in der „Internationalen Revue der gesamten Hydrobiologie und Hydrographie“, 1912.</small>](Die_Eroberung_des_Suedpols_Vol_II_916.jpg "Die Strömungen an der Oberfläche des nördlichen Atlantischen Ozeans im April."){#b916}
 ::::
 
@@ -195,7 +195,7 @@ Untersuchungen ist es nun möglich, den Strom und die Ausdehnung der
 verschiedenen Wassermassen in den verschiedenen Tiefen dieses Meeresstriches zu
 jener Zeit in den Karten zu verzeichnen.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60   }
 ![<small>Weg des Fram vom 20. Juni bis 7. Juli 1910 (ausgezogene Linie). Die Zahlen bedeuten die Lotungsplätze. Weg des Frithjof (punktierte Linie). Weg des Michael Sars (gestrichelte Linie).</small>](Die_Eroberung_des_Suedpols_Vol_II_917.jpg ""){#b917}
 ::::
 
@@ -243,7 +243,7 @@ vermischt wird, so daß der Salzgehalt allmählich abnimmt. Dieses süßere Wass
 stammt offenbar zum großen Teil direkt von Niederschlägen, die in diesen
 Strichen größer sind als die Verdampfung an der Meeresoberfläche.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![<small>Temperatur und Salzgehalt im südlichen Schnitt des Fram, Juni 1910.</small>](Die_Eroberung_des_Suedpols_Vol_II_919.jpg "Temperatur und Salzgehalt im südlichen Schnitt des Fram, Juni 1910."){#b919}
 ::::
 
@@ -305,7 +305,7 @@ Meeresströmungen entgegenstellen.
 Diese Verhältnisse, die in verschiedener Hinsicht von Wichtigkeit sind, treten
 bei den beiden Schnitten des Fram und bei dem des Frithjof deutlich zutage.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![<small>Temperatur und Salzgehalt im nördlichen Schnitt des Fram, Juni 1910.</small>](Die_Eroberung_des_Suedpols_Vol_II_922.jpg ""){#b922}
 ::::
 
@@ -413,7 +413,7 @@ zurück. Die letzte Beobachtungsstelle (Nummer 60) wurde am 19. August erreicht
 und befindet sich im Brasilien-Strom auf 24° 39´ s. Br. und gegen 40° w. L.; sie
 lag sicher 350 km südöstlich von Rio de Janeiro.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![<small>Der ozeanographische Zug des Fram 1911. Die Zahlen bezeichnen die Beobachtungsstellen.</small>](Die_Eroberung_des_Suedpols_Vol_II_926.jpg ""){#b926}
 ::::
 
@@ -424,7 +424,7 @@ Untersuchungen in folgenden Tiefen vorgenommen: Oberfläche, 5, 10, 25, 50, 100,
 Beobachtungsstellen wurden auch Untersuchungen in einer Tiefe von 1500 und 2000
 m unter der Oberfläche gemacht.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![<small>Die Meeresströmungen im Atlantischen Ozean.</small>](Die_Eroberung_des_Suedpols_Vol_II_927.jpg "Die Meeresströmungen im Atlantischen Ozean."){#b927}
 ::::
 
@@ -444,7 +444,7 @@ und des Salzgehaltes an der Oberfläche zeigt. Auf 20° s. Br. betrug die
 Temperatur zum Beispiel an der afrikanischen Küste nur 17° C, während sie sich
 auf ungefähr 23° vor der brasilianischen Küste belief.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![<small>Temperaturen und Salzgehalte an der Oberfläche des Atlantischen Ozeans. (Fram 1911.)</small>](Die_Eroberung_des_Suedpols_Vol_II_928.jpg ""){#b928}
 ::::
 
@@ -517,7 +517,7 @@ Zusammenstellungen der Ergebnisse von früheren Forschungsreisen zugrunde gelegt
 Man sieht da, daß die Beobachtungen von der Framreise ganz gut mit den früheren
 Messungen übereinstimmen, aber etwas ausführlicher als diese sind.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![<small>Temperaturen im Atlantischen Ozean in einer Tiefe von 100 m (Fram 1911).</small>](Die_Eroberung_des_Suedpols_Vol_II_931.jpg ""){#b931}
 ::::
 
@@ -560,7 +560,7 @@ langsam. In den tiefsten Wasserschichten ist es doch möglich, daß die Temperat
 auch wieder etwas steigt, aber es wird sich nur um Hundertstel- oder jedenfalls
 um sehr wenige Zehntel-Grade handeln.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![<small>Temperaturverteilung in verschiedenen Tiefen auf Lotungsplatz 32 und 60.</small>](Die_Eroberung_des_Suedpols_Vol_II_933.jpg ""){#b933}
 ::::
 
@@ -593,7 +593,7 @@ der südlichen Halbkugel nach Westen zu lenken. Das Grundwasser, das von Süden
 kommt, geht nach links, also nach der südamerikanischen Seite, und das, was von
 Norden kommt, geht auch nach links, also nach der afrikanischen Seite.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![<small>Salzgehalt in verschiedenen Tiefen auf Lotungsplatz 32 und 60.</small>](Die_Eroberung_des_Suedpols_Vol_II_934.jpg ""){#b934}
 ::::
 
@@ -660,7 +660,7 @@ fand. Auf der Beobachtungsstelle 2 war es in dieser Tiefe verhältnismäßig kal
 ebenso kalt wie es auf den Beobachtungsstellen 1 und 3 einige hundert Meter
 tiefer war.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![<small>Isothermen und Isohalinen zwischen den Beobachtungsstellen 1 und 32 (südlicher Schnitt).</small>](Die_Eroberung_des_Suedpols_Vol_II_937a.jpg ""){#b937a}
 ::::
 
@@ -787,7 +787,7 @@ man auch so weit kommen, daß man, nachdem festgestellt worden ist, wie groß di
 Wärmemenge im Meer ist, zum voraus sagen kann, ob die Luft im Winter wärmer oder
 kälter als normal sein wird.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Temperaturverteilung auf den Beobachtungsstellen des Challenger (339) und des Fram (44).](Die_Eroberung_des_Suedpols_Vol_II_942.jpg ""){#b942}
 ::::
 
@@ -841,7 +841,7 @@ sei denn, daß in diesen die Strömungen so stark wechseln sollten, daß in eine
 Jahr eine warme und in einem anderen eine kalte Strömung kommt; aber das ist
 mitten im Meere draußen nicht wahrscheinlich.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Temperaturkurven nach Beobachtungen von Fram und Valdivia.](Die_Eroberung_des_Suedpols_Vol_II_944.jpg ""){#b944}
 ::::
 
@@ -859,7 +859,7 @@ wir ihn in dem vorhergehenden Vergleich zwischen den Ergebnissen des Challenger
 von 1876 und denen des Fram von 1911 gefunden haben. Zwischen 200 und 600 m war
 dagegen kein Unterschied und auch nicht auf 1000 m Tiefe.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Temperaturkurven nach Beobachtungen von Fram und Planet.](Die_Eroberung_des_Suedpols_Vol_II_945.jpg ""){#b945}
 ::::
 
@@ -914,11 +914,6 @@ wird.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1300]: [Englische Korvette unter wissenschaftlicher Leitung von Wyville Thomson.]{.footnote}
 

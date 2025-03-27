@@ -64,7 +64,7 @@ unter den Mantel gepreßt, bis sich die Eiskanten unter dem Kiel treffen. Dadurc
 wird das Schiff in die Höhe gehoben und liegt dann wie in einem Bett, das das
 Eis selbst gebildet hat.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Fram bei der Rückkehr von seiner ersten Reise mit Nansen.](Die_Eroberung_des_Suedpols_Vol_II_864.jpg "Fram bei der Rückkehr von seiner ersten Reise mit Nansen."){#b864}
 ::::
 
@@ -330,7 +330,7 @@ Kohlenbunker wegfallen konnten, während dagegen große Ölbehälter, die ungef�
 gefunden, mit Rüchksicht auf die großen Entfernungen, die das Schiff bei der
 geplanten Fahrt zu durchsegeln hatte, am Fockmast Raasegel anzubringen.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Der Fram im Umbau auf der Werft in Horten.](Die_Eroberung_des_Suedpols_Vol_II_875.jpg "Der Fram im Umbau auf der Werft in Horten."){#b875}
 ::::
 
@@ -368,7 +368,7 @@ Der Raum vor dem Öllager ist unverändert geblieben und dient, wie auch der Rau
 über dem Öllager unter dem Hauptdeck, zur Aufbewahrung von verschiedener Ladung
 (hauptsächlich von Lebensmitteln).
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Die Messe auf dem Fram.](Die_Eroberung_des_Suedpols_Vol_II_877.jpg "Die Messe auf dem Fram."){#b877}
 ::::
 
@@ -471,7 +471,7 @@ obenbeschriebenen Übertragung vom Motor darunter getrieben. Das Spill ist mit
 großen Warpnocken versehen, damit es auch als Winde benutzt werden kann, aber
 außerdem auch für Handbetrieb eingerichtet.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60   }
 ![Vorder- und Seitenansicht der Heizanlage des Fram.](Die_Eroberung_des_Suedpols_Vol_II_881.jpg "Vorder- und Seitenansicht der Heizanlage des Fram."){#b881}
 ::::
 
@@ -646,11 +646,6 @@ Bezeichnungen
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1000]: [*Colin Archer*: vergleiche [Colin Archer](https://de.wikipedia.org/wiki/Colin_Archer)]{.footnote}
 

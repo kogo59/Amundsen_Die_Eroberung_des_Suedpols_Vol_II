@@ -21,7 +21,7 @@ Außenstehende vielleicht alle guten Mächte anflehen würden, sie vor diesen
 Gegenden zu bewahren, so behält der obige Satz doch seine volle Gültigkeit.
 
 
-:::: { .break-before .wrap-100  }
+:::: {   .wrap-100  }
 ![Unser letzter Platz am Eise.](Die_Eroberung_des_Suedpols_Vol_II_667.jpg "Unser letzter Platz am Eise."){#b667}
 ::::
 
@@ -126,7 +126,7 @@ Augenblick damit beschäftigt, wie diese Schwierigkeiten am besten und rascheste
 untereinander verband und uns auch ferner in gemeinsamer Arbeit und gemeinsamen
 Anstrengungen verbinden sollte.
 
-:::: { .break-before .wrap-100  }
+:::: {   .wrap-100  }
 ![Ausschiffung der Hunde in Hobart.](Die_Eroberung_des_Suedpols_Vol_II_670.jpg "Ausschiffung der Hunde in Hobart."){#b670}
 ::::
 
@@ -284,7 +284,7 @@ hatten, stießen wir auf zahlreiche Öffnungen im Eise. Hätten wir den zuerst
 gehaltenen Kurs weitergesteuert, so wären wir möglicherweise sehr lange
 aufgehalten worden, was nun durch die wenigen Meilen Umweg vermieden worden war.
 
-:::: { .break-before .wrap-100  }
+:::: {   .wrap-100  }
 ![Treibeis nördlich vom Roßmeer.](Die_Eroberung_des_Suedpols_Vol_II_677.jpg "Treibeis nördlich vom Roßmeer."){#b677}
 ::::
 
@@ -562,7 +562,7 @@ Melodie: Beim Holmenkollenlauf 1905.
 |
 ::::
 
-:::: { .break-before .wrap-70  }
+:::: {   .wrap-70  }
 ![Der Fram im Treibeis.](Die_Eroberung_des_Suedpols_Vol_II_684.jpg "Der Fram im Treibeis."){#b684}
 ::::
 
@@ -664,7 +664,7 @@ Ende Februar war die Entfernung von Tasmaniens Südspitze auf eine ganz kleine
 Strecke zusammengeschrumpft.
 
 
-:::: { .break-before .wrap-100  }
+:::: {   .wrap-100  }
 ![Im Takelwerk.](Die_Eroberung_des_Suedpols_Vol_II_689.jpg "Im Takelwerk."){#b689}
 ::::
 
@@ -775,7 +775,7 @@ Lindström, der bis jetzt e1seine Stellung als das dickste, schwerste und —
 schwärzeste Mitglied der Landabteilung aufrecht erhalten hatte, machte den
 unverkennbaren Eindruck, in recht nahe Berührung mit Wasser gekommen zu sein.
 
-:::: { .break-before .wrap-100  }
+:::: {   .wrap-100  }
 ![Hobart.](Die_Eroberung_des_Suedpols_Vol_II_693.jpg "Hobart."){#b693}
 ::::
 
@@ -825,18 +825,12 @@ nichts bei uns zu tun gab, und die Zollbeamten ließen siche1 auch leicht davon
 Zugang zum Lande war frei! Ich konnte die Mappe mit den Telegrammen in die Hand
 nehmen und mich mit dem Boot des Hafenkapitäns zur Stadt begeben.
 
-:::: { .break-before .wrap-100  }
+:::: {   .wrap-100  }
 ![Die Framleute auf einem Landausflug in Tasmanien.](Die_Eroberung_des_Suedpols_Vol_II_695.jpg "Die Framleute auf einem Landausflug in Tasmanien."){#b695}
 ::::
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0700]: [*Hobart*: vergleiche [Hobart](https://de.wikipedia.org/wiki/Hobart)]{.footnote}
 

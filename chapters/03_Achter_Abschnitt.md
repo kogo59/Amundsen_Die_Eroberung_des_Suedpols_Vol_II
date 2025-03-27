@@ -36,7 +36,7 @@ zu marschieren, so rasch wie möglich! Na, besonders rasch ging es allerdings
 nicht, und ich fing allmählich an, mich auf die Folgen einer großen Verspätung
 vorzubereiten.
 
-:::: { .break-before .wrap-40   }
+:::: {   .wrap-40   }
 ![Prestrud in Wintertracht.](Die_Eroberung_des_Suedpols_Vol_II_697.jpg "Prestrud in Wintertracht."){#b697}
 ::::
 
@@ -87,7 +87,7 @@ einiger Sicherheit auf die Rückkehr des Fram rechnen kann“. Das letzte war
 freilich etwas recht Ungewisses. Wohl hatten wir alle das beste Vertrauen zu dem
 guten Fram und hofften, er werde die Fahrt vorschriftsmäßig ausführen können.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![](Die_Eroberung_des_Suedpols_Vol_II_699.jpg "Schlittenreise der Ostabteilung Nov — Jan 1911-12."){#b699}
 ::::
 
@@ -224,7 +224,7 @@ nur aufs Trockene zu begeben, wo er sich seit Generationen in ungestörter Ruhe
 sonnt und sein Leben verschläft, ohne andere Nachbarschaft, als die der für ihn
 ganz unschädlichen Pinguine und Möven.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Seehundjagd](Die_Eroberung_des_Suedpols_Vol_II_704.jpg "Seehundjagd"){#b704}
 ::::
 
@@ -249,7 +249,7 @@ herumliegenden nicht einmal den Kopf; ja wir konnten einen Seehund vor der Nase
 seiner Kameraden zerlegen, ohne daß es den allergeringsten Eindruck auf sie
 machte.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Seehundmutter mit Jungem.](Die_Eroberung_des_Suedpols_Vol_II_705.jpg "Seehundmutter mit Jungem."){#b705}
 ::::
 
@@ -309,7 +309,7 @@ Schicksal hatte es zwar bestimmt, daß wir nicht sehr viele Schwierigkeiten zu
 Gegenden doch nicht aus. Ich bin meinen Gefährten großen Dank schuldig für die
 Art und Weise, in der beide ihr Möglichstes taten, den Weg zu ebnen.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Stubberud in Wintertracht.](Die_Eroberung_des_Suedpols_Vol_II_708.jpg "Stubberud in Wintertracht."){#b708}
 ::::
 
@@ -329,7 +329,7 @@ acht Tage bei uns, Seehundfleisch für die Hunde, Konserven für uns selbst. Die
 eigentliche Lebensmittelversorgung sollte erst beim Vorratslager vor sich gehen,
 wo von allem, was wir brauchten, reichlich genug vorhanden war.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Auf dem Abfahrtsplatz.](Die_Eroberung_des_Suedpols_Vol_II_709.jpg "Auf dem Abfahrtsplatz."){#b709}
 ::::
 
@@ -391,7 +391,7 @@ ohne daß man, soweit mir bekannt war, auch nur den geringsten derartigen Ton
 vernommen hätte. Dies war für uns eines der vielen Zeichen, daß sich das Eis um
 unser Winterlager her gar nicht bewegte.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Lager der Ostabteilung.](Die_Eroberung_des_Suedpols_Vol_II_711.jpg "Lager der Ostabteilung."){#b711}
 ::::
 
@@ -435,7 +435,7 @@ allgemeinen denken. Es gibt nämlich auch in der Antarktis eine Art Sommer,
 obgleich die täglichen Thermometergrade die meisten Leute doch an das erinnern
 würden, was man Winter zu nennen pflegt.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Das Lager wird am Morgen abgebrochen.](Die_Eroberung_des_Suedpols_Vol_II_713.jpg "Das Lager wird am Morgen abgebrochen."){#b713}
 ::::
 
@@ -529,7 +529,7 @@ Jedenfalls bewegte sich etwas Schwarzes dort drüben, und nachdem einige
 verwirrte Gedanken an Japaner, Engländer usw. durch unser Gehirn gefahren waren,
 zogen wir endlich das Fernglas heraus.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Stubberud betrachtet das Gelände.](Die_Eroberung_des_Suedpols_Vol_II_716.jpg "Stubberud betrachtet das Gelände."){#b716}
 ::::
 
@@ -593,7 +593,7 @@ Vorratslager war. Unser Petroleumvorrat bestand aus 30 l, die in zwei Behältern
 verteilt waren, und die Küchenausstattung war genau dieselbe wie die der
 Südabteilung.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Die Ostabteilung am Vorratslager.](Die_Eroberung_des_Suedpols_Vol_II_719.jpg "Die Ostabteilung am Vorratslager."){#b719}
 ::::
 
@@ -741,7 +741,7 @@ das Meer dehnte sich annähernd eisfrei bis zum Horizont hinaus. Schwarz und
 drohend sah es freilich aus, bildete aber doch einen wohltuenden Gegensatz zu
 der ewigen Schneefläche, auf der wir nun 550 km weit marschiert waren.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Ein hohes Kap auf der Roß-Eisplatte.](Die_Eroberung_des_Suedpols_Vol_II_725.jpg "Ein hohes Kap auf der Roß-Eisplatte."){#b725}
 ::::
 
@@ -785,7 +785,7 @@ hätten gebrauchen können. Nach einiger Anstrengung erreichten wir mit dem
 Seehund glücklich das Zelt, wo ein guter Teil des Fanges in überraschend kurzer
 Zeit in fünfzehn leeren Hundemägen verschwand.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Lotung der Meerestiefe auf dem Eise.](Die_Eroberung_des_Suedpols_Vol_II_727.jpg "Lotung der Meerestiefe auf dem Eise."){#b727}
 ::::
 
@@ -819,7 +819,7 @@ kein Zweifel an der Richtigkeit der gefundenen Tiefe — wieder 134 m. Mit der
 äußersten Vorsicht gelang es uns, den Hammer glücklich wieder einzuholen, aber
 eine Bodenprobe brachte er nicht mit herauf.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Land in Sicht.](Die_Eroberung_des_Suedpols_Vol_II_729.jpg "Land in Sicht."){#b729}
 ::::
 
@@ -1069,7 +1069,7 @@ Einfall von Fremden brauchten wir keineswegs zu befürchten; das Land, das wir
 erreicht hatten, sah aus, als sei es von lebenden Wesen irgendwelcher Art
 durchaus chemisch rein.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Die Ersten auf König Eduard VII-Land.](Die_Eroberung_des_Suedpols_Vol_II_738.jpg "Die Ersten auf König Eduard VII-Land."){#b738}
 ::::
 
@@ -1090,7 +1090,7 @@ versanken langsam aber sicher in einem endlosen Schneemeer, und als wir
 schließlich auf dem höchsten Punkt des Gipfels standen, glaubten wir wahrlich
 nicht, daß unsere Hoffnungen je eine frohe Auferstehung feiern dürften.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Die Ostabteilung auf festem Land.](Die_Eroberung_des_Suedpols_Vol_II_739.jpg "Die Ostabteilung auf festem Land."){#b739}
 ::::
 
@@ -1392,7 +1392,7 @@ Gefährten von den eingeschneiten Schlitten eine ordentliche Fütterung für die
 Hunde, die sich nun seit zwei Tagen mit halber Kost hatten begnügen müssen,
 ausgruben.
 
-:::: { .wrap-80 .break-before  }
+:::: { .wrap-80    }
 ![Unser Lager auf König Eduard VII-Land nach einem dreitägigen Sturm.](Die_Eroberung_des_Suedpols_Vol_II_751.jpg "Unser Lager auf König Eduard VII-Land nach einem dreitägigen Sturm."){#b751}
 ::::
 
@@ -1447,7 +1447,7 @@ ordentlich sonnigen Tag. Damit waren alle Widerwärtigkeiten vergessen, und alle
 ging wieder wie im Spiel. In 9 Stunden legten wir an diesem Tag 46 km ohne
 besondere Anstrengung für Tiere und Menschen zurück.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Prestrud auf dem Gipfel des Scott-Felsens.](Die_Eroberung_des_Suedpols_Vol_II_753.jpg "Prestrud auf dem Gipfel des Scott-Felsens."){#b753}
 ::::
 
@@ -1605,7 +1605,7 @@ Eisplatte hineinschnitt, setzte sich in südlicher Richtung fort und ging
 allmählich in eine schmale Spalte über. Wir folgten dieser, bis sie sich 54 km
 landeinwärts in der Eisplatte verlor.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Leutnant Prestrud.](Die_Eroberung_des_Suedpols_Vol_II_759.jpg "Leutnant Prestrud."){#b759}
 ::::
 
@@ -1644,7 +1644,7 @@ Fernrohr herauszog.
 
 „Willst du dir den Fram betrachten?“ fragte ich spöttisch.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Auf dem Scott-Felsen.](Die_Eroberung_des_Suedpols_Vol_II_761.jpg "Auf dem Scott-Felsen."){#b761}
 ::::
 
@@ -1793,7 +1793,7 @@ der photographische und der kinematographische Apparat herausgenommen, und damit
 zogen wir schleunigst davon, so rasch als die Hunde überhaupt laufen konnten,
 weil Gjertsen meinte, der berühmte Besuch werde nicht von langer Dauer sein.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Mitglieder der japanischen antarktischen Forschungsreise.](Die_Eroberung_des_Suedpols_Vol_II_767.jpg "Mitglieder der japanischen antarktischen Forschungsreise."){#b767}
 ::::
 
@@ -1831,7 +1831,7 @@ Die letzten Tage vor unserem endgültigen Aufbruch nach Norden fielen so ziemlic
 mitten in den kurzen antarktischen Sommer, gerade in eine Zeit, in der sich das
 verhältnismäßig reiche Tierleben in der Walfischbucht am besten entfaltet.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Ein Ureinwohner der Antarktis.](Die_Eroberung_des_Suedpols_Vol_II_768.jpg "Ein Ureinwohner der Antarktis."){#b768}
 ::::
 
@@ -1907,7 +1907,7 @@ gewaltigen Körper sitzt ein lächerlich kleiner Kopf und in dem Maule ein Gebi�
 das etwa so ungefährlich ist wie das einer gewöhnlichen Kuh. Die Haut spielt in
 den Farben von hellgrün bis schwarzbraun.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Ein Weddell-Seehund.](Die_Eroberung_des_Suedpols_Vol_II_771.jpg "Ein Weddell-Seehund."){#b771}
 ::::
 
@@ -1960,7 +1960,7 @@ auch nicht, wenn sich der Kaiserpinguin — wie er es immer tut — dem Fremden
 unter einer Reihe feierlicher Verbeugungen nähert; das gehört ja zu dem, was man
 gute Sitte nennt.
 
-:::: { .wrap-100 .break-before  }
+:::: { .wrap-100    }
 ![Eine Gruppe Adeliepinguine.](Die_Eroberung_des_Suedpols_Vol_II_773.jpg "Eine Gruppe Adeliepinguine."){#b773}
 ::::
 
@@ -2009,12 +2009,6 @@ Erinnerungen an unseren Aufenthalt in der Walfischbucht gehören.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0800]: [*Marlspiker*: vergleiche [Marlspieker](https://de.wikipedia.org/wiki/Marlspieker)]{.footnote}
 
